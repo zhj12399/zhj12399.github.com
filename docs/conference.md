@@ -48,7 +48,7 @@
 ```
 5.Xihang Qiu#, Lixian Zhu#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian*, Ye Zhang*, Bin Hu*, Yoshiharu Yamamoto, and Björn W. Schuller, "Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification", Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
-@inproceedings{qiu2024study
+@inproceedings{qiu2024study,
   title={Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification},
   author={Qiu, Xihang and Zhu, Lixian and Song, Zikai and Chen, Zeyu and Zhang, Haojie and Qian, Kun and Zhang, Ye and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W},
   booktitle={Proc. INTERSPEECH},
@@ -59,7 +59,7 @@
 ```
 6.Liuxian Ma#, Lin Shen#, Ruobin Li, **Haojie Zhang**, Kun Qian*, Bin Hu*, Björn W. Schuller, and Yoshiharu Yamamoto, "E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition", Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
-@inproceedings{ma2024study
+@inproceedings{ma2024study,
   title={E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition},
   author={Ma, Liuxian and Shen, Lin and Li, Ruobin and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. INTERSPEECH},
