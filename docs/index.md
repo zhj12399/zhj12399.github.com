@@ -1,3 +1,35 @@
 # Affiliations
-School of Medical Technology,
-Beijing Institute of Technology
+[School of Medical Technology](https://smt.bit.edu.cn),  
+Beijing Institute of Technology,  
+China
+
+[Key Laboratory of Brain Health Intelligent Evaluation and Intervention](https://bhe-lab.org) (Beijing Institute of Technology),  
+Ministry of Education,  
+China
+
+# Supervisor
+[Kun Qian](https://eecsqian.com)
+
+# Education
+## Master Education
+* Degree: Master of Engineering
+* Time: September 2023 to June 2026
+* University: Beijing Institute of Technology
+* Place: Beijing, China
+
+## Bachelor Education
+* Degree: Bachelor of Engineering
+* Time: September 2019 to June 2023
+* University: Beijing Institute of Technology
+* Place: Beijing, China
+
+# Contact
+zhj@bit.edu.cn  
+School of Medical Technology,  
+Beijing Institute of Technology,  
+Beijing 100081,  
+China  
+
+[Google Scholar]()  
+[Research Gate](https://www.researchgate.net/profile/Haojie-Zhang-7)  
+[ORCID]()  
