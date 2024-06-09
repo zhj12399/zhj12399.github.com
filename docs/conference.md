@@ -71,7 +71,7 @@
 7.Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, Bin Hu\*, "Self-supervised federated learning for heart sound recognition", Proceedings of the NCMMSC, pp.1-8, Urumqi China, August 2024.
 ```bibtex
 @inproceedings{shen2024supervised,
-  title{Self-supervised federated learning for heart sound recognition},
+  title={Self-supervised federated learning for heart sound recognition},
   author={Shen, Xiaoyu and Qiu, Wanyong and Zhang, Haojie and Qian, Kun and Yu, Yongzi and Hu, Bin},
   booktitle={Proc. NCMMSC},
   pages={1-8},
