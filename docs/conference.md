@@ -11,7 +11,7 @@
   address={Tampere, Finland}
 }
 ```
-2.Meishu Song, Zijiang Yang, Andreas Triantafyllopoulos, Toru Nakamura, Yongxin Zhang, Zhao Ren, Hiroki Takeuchi, Akifumi Kishi, Tetsuro Ishizawa, Kazuhiro Yoshiuchi, **Haojie Zhang**, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto\*, "[Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction](https://ieeexplore.ieee.org/abstract/document/10411595)", in Proceedings of ICDMW, pp.1299-1305, Shanghai, China, December 2023.
+2.Meishu Song, Zijiang Yang, Andreas Triantafyllopoulos, Toru Nakamura, Yongxin Zhang, Zhao Ren, Hiroki Takeuchi, Akifumi Kishi, Tetsuro Ishizawa, Kazuhiro Yoshiuchi, **Haojie Zhang**, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto\*, "[Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction](https://ieeexplore.ieee.org/abstract/document/10411595)", in Proceedings of the ICDMW, pp.1299-1305, Shanghai, China, December 2023.
 ```bibtex
 @inproceedings{song2023crossmodal,
   author={Song, Meishu and Yang, Zijiang and Triantafyllopoulos, Andreas and Nakamura, Toru and Zhang, Yongxin and Ren, Zhao and Takeuchi, Hiroki and Kishi, Akifumi and Ishizawa, Tetsuro and Yoshiuchi, Kazuhiro and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
@@ -46,7 +46,7 @@
   address={Lyon, France}
 }
 ```
-5.Xihang Qiu\#, Lixian Zhu\#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian\*, Ye Zhang*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, "Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification", Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
+5.Xihang Qiu\#, Lixian Zhu\#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian\*, Ye Zhang*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, "Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification", in Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
 @inproceedings{qiu2024study,
   title={Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification},
@@ -57,7 +57,7 @@
   address={Kos Island, Greece}
 }
 ```
-6.Liuxian Ma\#, Lin Shen\#, Ruobin Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, "E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition", Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
+6.Liuxian Ma\#, Lin Shen\#, Ruobin Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, "E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition", in Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
 @inproceedings{ma2024study,
   title={E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition},
@@ -68,7 +68,7 @@
   address={Kos Island, Greece}
 }
 ```
-7.Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, Bin Hu\*, "Self-supervised federated learning for heart sound recognition", Proceedings of the NCMMSC, pp.1-8, Urumqi China, August 2024.
+7.Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, Bin Hu\*, "Self-supervised federated learning for heart sound recognition", in Proceedings of the NCMMSC, pp.1-8, Urumqi China, August 2024.
 ```bibtex
 @inproceedings{shen2024supervised,
   title={Self-supervised federated learning for heart sound recognition},
