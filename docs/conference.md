@@ -5,7 +5,7 @@
 @techreport{zhang2023noise,
   title={From noise to sound: Audio synthesis via diffusion models},
   author={Zhang, Haojie and Qian, Kun and Shen, Lin and Li, Lujundong and Xu, Kele and Hu, Bin},
-  institution ={Technical Report for DCASE2023 Challenge},
+  institution ={DCASE2023 Challenge},
   year = {2023},
   pages={1-4},
   address={Tampere, Finland}
@@ -78,4 +78,15 @@
   year={2024},
   address={Urumqi, China}
  }
+```
+1.Mengkai Sun, **Haojie Zhang**, Kun Qian\*, and Bin Hu\*, "LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection", Technical Report for DCASE2024 Challenge, pp. 1-4, Tokyo, Japan, October 2024
+```bibtex
+@techreport{sun2024lifproto,
+  title={LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection},
+  author={Sun, Mengkai and Zhang, Haojie and Qian, Kun and Hu, Bin},
+  institution ={DCASE2024 Challenge},
+  year = {2024},
+  pages={1-4},
+  address={Tokyo, Japan}
+}
 ```
