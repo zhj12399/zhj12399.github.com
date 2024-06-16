@@ -79,7 +79,7 @@
   address={Urumqi, China}
  }
 ```
-1.Mengkai Sun, **Haojie Zhang**, Kun Qian\*, and Bin Hu\*, "LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection", Technical Report for DCASE2024 Challenge, pp. 1-4, Tokyo, Japan, October 2024
+8.Mengkai Sun, **Haojie Zhang**, Kun Qian\*, and Bin Hu\*, "LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection", Technical Report for DCASE2024 Challenge, pp. 1-4, Tokyo, Japan, October 2024
 ```bibtex
 @techreport{sun2024lifproto,
   title={LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection},
