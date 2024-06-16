@@ -59,7 +59,7 @@
 ```
 6.Liuxian Ma\#, Lin Shen\#, Ruobin Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, "E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition", in Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
-@inproceedings{ma2024study,
+@inproceedings{ma2024eodn,
   title={E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition},
   author={Ma, Liuxian and Shen, Lin and Li, Ruobin and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. INTERSPEECH},
