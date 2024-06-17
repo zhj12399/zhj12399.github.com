@@ -1,5 +1,5 @@
 # Conference Papers
-
+## 2023
 1.**Haojie Zhang**, Kun Qian\*, Lin Shen, Lujundong Li, Kele Xu\*, and Bin Hu\*, "[From Noise To Sound: Audio Synthesis Via Diffusion Models](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf)", Technical Report for DCASE2023 Challenge, pp. 1-4, Tampere, Finland, September 2023
 ```bibtex
 @techreport{zhang2023noise,
@@ -22,6 +22,7 @@
   address={Shanghai, China}
 }
 ```
+## 2024
 3.Chengyu Yuan, Hao Xiong\*, Guoqing Shangguan, Hualei Shen*, Dong Liu, **Haojie Zhang**, Zhonghua Liu, Kun Qian, Bin Hu, Björn W. Schuller, Yoshiharu Yamamoto, and Shlomo Berkovsky, "[Deep Fusion of Shifted MLP and CNN For Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10446716)", in Proceedings of the ICASSP, pp.1676-1680, Seoul, Korea, April 2024.
 ```bibtex
 @inproceedings{yuan2024deep,
@@ -68,7 +69,9 @@
   address={Kos Island, Greece}
 }
 ```
-7.Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, Bin Hu\*, "Self-supervised federated learning for heart sound recognition", in Proceedings of the NCMMSC, pp.1-8, Urumqi China, August 2024.
+7.Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, Bin Hu\*, 
+"Self-supervised federated learning for heart sound recognition", 
+in Proceedings of the NCMMSC, pp.1-8, Urumqi China, August 2024.
 ```bibtex
 @inproceedings{shen2024supervised,
   title={Self-supervised federated learning for heart sound recognition},
@@ -79,7 +82,9 @@
   address={Urumqi, China}
  }
 ```
-8.Mengkai Sun, **Haojie Zhang**, Kun Qian\*, and Bin Hu\*, "LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection", Technical Report for DCASE2024 Challenge, pp. 1-4, Tokyo, Japan, October 2024
+8.Mengkai Sun, **Haojie Zhang**, Kun Qian\*, and Bin Hu\*, 
+"LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection", 
+Technical Report for DCASE2024 Challenge, pp. 1-4, Tokyo, Japan, October 2024
 ```bibtex
 @techreport{sun2024lifproto,
   title={LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection},
