@@ -1,6 +1,8 @@
 # Conference Papers
 ## 2023
-1.**Haojie Zhang**, Kun Qian\*, Lin Shen, Lujundong Li, Kele Xu\*, and Bin Hu\*, "[From Noise To Sound: Audio Synthesis Via Diffusion Models](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf)", Technical Report for DCASE2023 Challenge, pp. 1-4, Tampere, Finland, September 2023
+1.**Haojie Zhang**, Kun Qian\*, Lin Shen, Lujundong Li, Kele Xu\*, and Bin Hu\*,
+"[From Noise To Sound: Audio Synthesis Via Diffusion Models](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf)",
+Technical Report for DCASE2023 Challenge, pp. 1-4, Tampere, Finland, September 2023
 ```bibtex
 @techreport{zhang2023noise,
   title={From noise to sound: Audio synthesis via diffusion models},
@@ -11,7 +13,9 @@
   address={Tampere, Finland}
 }
 ```
-2.Meishu Song, Zijiang Yang, Andreas Triantafyllopoulos, Toru Nakamura, Yongxin Zhang, Zhao Ren, Hiroki Takeuchi, Akifumi Kishi, Tetsuro Ishizawa, Kazuhiro Yoshiuchi, **Haojie Zhang**, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto\*, "[Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction](https://ieeexplore.ieee.org/abstract/document/10411595)", in Proceedings of the ICDMW, pp.1299-1305, Shanghai, China, December 2023.
+2.Meishu Song, Zijiang Yang, Andreas Triantafyllopoulos, Toru Nakamura, Yongxin Zhang, Zhao Ren, Hiroki Takeuchi, Akifumi Kishi, Tetsuro Ishizawa, Kazuhiro Yoshiuchi, **Haojie Zhang**, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto\*,
+"[Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction](https://ieeexplore.ieee.org/abstract/document/10411595)",
+in Proceedings of the ICDMW, pp.1299-1305, Shanghai, China, December 2023.
 ```bibtex
 @inproceedings{song2023crossmodal,
   author={Song, Meishu and Yang, Zijiang and Triantafyllopoulos, Andreas and Nakamura, Toru and Zhang, Yongxin and Ren, Zhao and Takeuchi, Hiroki and Kishi, Akifumi and Ishizawa, Tetsuro and Yoshiuchi, Kazuhiro and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
@@ -23,7 +27,9 @@
 }
 ```
 ## 2024
-3.Chengyu Yuan, Hao Xiong\*, Guoqing Shangguan, Hualei Shen*, Dong Liu, **Haojie Zhang**, Zhonghua Liu, Kun Qian, Bin Hu, Björn W. Schuller, Yoshiharu Yamamoto, and Shlomo Berkovsky, "[Deep Fusion of Shifted MLP and CNN For Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10446716)", in Proceedings of the ICASSP, pp.1676-1680, Seoul, Korea, April 2024.
+3.Chengyu Yuan, Hao Xiong\*, Guoqing Shangguan, Hualei Shen*, Dong Liu, **Haojie Zhang**, Zhonghua Liu, Kun Qian, Bin Hu, Björn W. Schuller, Yoshiharu Yamamoto, and Shlomo Berkovsky,
+"[Deep Fusion of Shifted MLP and CNN For Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10446716)",
+in Proceedings of the ICASSP, pp.1676-1680, Seoul, Korea, April 2024.
 ```bibtex
 @inproceedings{yuan2024deep,
   title={Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation},
@@ -35,7 +41,9 @@
   address={Seoul, Korea}
 }
 ```
-4.Jiahao Ji\#, Lixian Zhu\#, **Haojie Zhang**, Kun Qian\*, Kele Xu, Zikai Song, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, "Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model", in Proceedings of the EUSIPCO, pp.1-5, Lyon, France, August 2024.
+4.Jiahao Ji\#, Lixian Zhu\#, **Haojie Zhang**, Kun Qian\*, Kele Xu, Zikai Song, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model",
+in Proceedings of the EUSIPCO, pp.1-5, Lyon, France, August 2024.
 ```bibtex
 @inproceedings{ji2024weightlight,
   title={Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model},
@@ -47,7 +55,9 @@
   address={Lyon, France}
 }
 ```
-5.Xihang Qiu\#, Lixian Zhu\#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian\*, Ye Zhang*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, "Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification", in Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
+5.Xihang Qiu\#, Lixian Zhu\#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian\*, Ye Zhang*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
+"Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification",
+in Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
 @inproceedings{qiu2024study,
   title={Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification},
@@ -58,7 +68,9 @@
   address={Kos Island, Greece}
 }
 ```
-6.Liuxian Ma\#, Lin Shen\#, Ruobin Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, "E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition", in Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
+6.Liuxian Ma\#, Lin Shen\#, Ruobin Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
+"E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition",
+in Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
 @inproceedings{ma2024eodn,
   title={E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition},
