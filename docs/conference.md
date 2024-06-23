@@ -81,9 +81,9 @@ in Proceedings of the INTERSPEECH, pp.1-5, Kos Island, Greece, September 2024.
   address={Kos Island, Greece}
 }
 ```
-7.Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, Bin Hu\*, 
+7.Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, and Bin Hu\*, 
 "Self-supervised federated learning for heart sound recognition", 
-in Proceedings of the NCMMSC, pp.1-8, Urumqi China, August 2024.
+in Proceedings of the NCMMSC, pp.1-8, Urumqi, China, August 2024.
 ```bibtex
 @inproceedings{shen2024supervised,
   title={Self-supervised federated learning for heart sound recognition},
