@@ -3,7 +3,8 @@
 Beijing Institute of Technology,  
 China
 
-[Key Laboratory of Brain Health Intelligent Evaluation and Intervention](https://bhe-lab.org) (Beijing Institute of Technology),  
+[Key Laboratory of Brain Health Intelligent Evaluation and Intervention](https://bhe-lab.org)  
+(Beijing Institute of Technology),  
 Ministry of Education,  
 China
 
