@@ -1,7 +1,7 @@
 # Conference Papers
 ## 2024
 8.Mengkai Sun, **Haojie Zhang**, Kun Qian\*, and Bin Hu\*,
-"LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection",
+"[LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection](https://dcase.community/documents/challenge2024/technical_reports/DCASE2024_QianHu_92_5.pdf)",
 Technical Report for DCASE2024 Challenge, pp. 1-4, Tokyo, Japan, October 2024
 ```bibtex
 @techreport{sun2024lifproto,
