@@ -1,3 +1,4 @@
+# Home
 # Affiliations
 [School of Medical Technology](https://smt.bit.edu.cn),  
 Beijing Institute of Technology,  
