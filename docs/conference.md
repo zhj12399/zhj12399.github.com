@@ -1,20 +1,49 @@
 # Conference Papers
 ## 2024
+
+10.Peng Gao\#, **Haojie Zhang\#**, Lin Shen, Yongxin Zhang, Jiang Liu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning",
+in Proceedings of IEEE Healthcom, pp.1-5, Nara, Japan, November 2024.
+```bibtex
+@inproceedings{gao2024lubdub,
+  title={Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning},
+  author={Gao, Peng and Zhang, Haojie and Shen, Lin and Zhang, Yongxin and Liu, Jiang and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
+  booktitle={Proc. Healthcom},
+  pages={1-5},
+  year={2024},
+  address={Nara, Japan}
+ }
+```
+
+9.Qingrong Wu\#, Mengkai Sun\#, **Haojie Zhang**, Yongxin Zhang, Yiming Liu, Boyang Meng, Kun Qian\*, Bin Hu\*, Toru Nakamura, Taishin Nomura, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Inspiration of Prototype Knowledge:Introducing a Meta-Learning Approach to Heart Sound Classification",
+in Proceedings of IEEE Healthcom, pp.1-6, Nara, Japan, November 2024.
+```bibtex
+@inproceedings{wu2024prototype,
+  title={Inspiration of Prototype Knowledge: Introducing a Meta-Learning Approach to Heart Sound Classification},
+  author={Wu, Qingrong and Sun, Mengkai and Zhang, Haojie and Zhang, Yongxin and Liu, Yiming and Meng, Boyang and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
+  booktitle={Proc. Healthcom},
+  pages={1-5},
+  year={2024},
+  address={Nara, Japan}
+ }
+```
+
 8.Mengkai Sun, **Haojie Zhang**, Kun Qian\*, and Bin Hu\*,
 "[LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection](https://dcase.community/documents/challenge2024/technical_reports/DCASE2024_QianHu_92_5.pdf)",
-Technical Report for DCASE2024 Challenge, pp. 1-4, Tokyo, Japan, October 2024
+Technical Report for DCASE2024 Challenge, pp.1-4, Tokyo, Japan, October 2024.
 ```bibtex
 @techreport{sun2024lifproto,
   title={LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection},
   author={Sun, Mengkai and Zhang, Haojie and Qian, Kun and Hu, Bin},
-  institution ={DCASE2024 Challenge},
-  year = {2024},
+  institution={DCASE2024 Challenge},
+  year={2024},
   pages={1-4},
   address={Tokyo, Japan}
 }
 ```
 7.Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, and Bin Hu\*,
-"Self-supervised federated learning for heart sound recognition",
+"Self-supervised Federated Learning for Heart Sound Recognition",
 in Proceedings of the NCMMSC, pp.1-8, Urumqi, China, August 2024.
 ```bibtex
 @inproceedings{shen2024supervised,
