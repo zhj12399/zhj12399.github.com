@@ -12,7 +12,7 @@ in Proceedings of IEEE Healthcom, pp.1-5, Nara, Japan, November 2024.
   pages={1-5},
   year={2024},
   address={Nara, Japan}
- }
+}
 ```
 
 9.Qingrong Wu\#, Mengkai Sun\#, **Haojie Zhang**, Yongxin Zhang, Yiming Liu, Boyang Meng, Kun Qian\*, Bin Hu\*, Toru Nakamura, Taishin Nomura, Björn W. Schuller, and Yoshiharu Yamamoto,
@@ -26,7 +26,7 @@ in Proceedings of IEEE Healthcom, pp.1-6, Nara, Japan, November 2024.
   pages={1-5},
   year={2024},
   address={Nara, Japan}
- }
+}
 ```
 
 8.Mengkai Sun, **Haojie Zhang**, Kun Qian\*, and Bin Hu\*,
