@@ -56,33 +56,33 @@ in **_Proceedings of the NCMMSC_**, pp.1-8, Urumqi, China, August 2024.
  }
 ```
 6.Liuxian Ma\#, Lin Shen\#, Ruobing Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
-"E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition",
+"[E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition](https://www.isca-archive.org/interspeech_2024/ma24_interspeech.html#)",
 in **_Proceedings of the INTERSPEECH_**, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
 @inproceedings{ma2024eodn,
   title={E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition},
   author={Ma, Liuxian and Shen, Lin and Li, Ruobing and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. INTERSPEECH},
-  pages={1--5},
+  pages={4293--4297},
   year={2024},
   address={Kos Island, Greece}
 }
 ```
 5.Xihang Qiu\#, Lixian Zhu\#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian\*, Ye Zhang*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification",
+"[Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification](https://www.isca-archive.org/interspeech_2024/qiu24_interspeech.html#)",
 in **_Proceedings of the INTERSPEECH_**, pp.1-5, Kos Island, Greece, September 2024.
 ```bibtex
 @inproceedings{qiu2024study,
   title={Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification},
   author={Qiu, Xihang and Zhu, Lixian and Song, Zikai and Chen, Zeyu and Zhang, Haojie and Qian, Kun and Zhang, Ye and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W},
   booktitle={Proc. INTERSPEECH},
-  pages={1--5},
+  pages={137--141},
   year={2024},
   address={Kos Island, Greece}
 }
 ```
 4.Jiahao Ji\#, Lixian Zhu\#, **Haojie Zhang**, Kun Qian\*, Kele Xu, Zikai Song, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model",
+"[Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000326.pdf)",
 in **_Proceedings of the EUSIPCO_**, pp.1-5, Lyon, France, August 2024.
 ```bibtex
 @inproceedings{ji2024weightlight,
