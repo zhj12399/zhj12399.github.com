@@ -89,7 +89,7 @@ in **_Proceedings of the EUSIPCO_**, pp.1-5, Lyon, France, August 2024.
   title={Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model},
   author={Ji, Jiahao and Zhu, Lixian and Zhang, Haojie and Qian, Kun and Xu, Kele and Song, Zikai and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. EUSIPCO},
-  pages={1--5},
+  pages={326--330},
   year={2024},
   organization={IEEE},
   address={Lyon, France}
