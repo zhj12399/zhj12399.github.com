@@ -26,7 +26,8 @@ China
 * Place: Beijing, China
 
 # Contact
-zhj@bit.edu.cn  
+zhj@bit.edu.cn
+
 School of Medical Technology,  
 Beijing Institute of Technology,  
 Beijing 100081,  

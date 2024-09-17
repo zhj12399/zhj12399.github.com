@@ -8,5 +8,5 @@ _Third Prize_,
 
 1.Zhonghao Zhao, Wanyong Qiu, **Haojie Zhang**, Mengkai Sun, Jiuhao Zhou, 
 面向联邦医疗物联网的智能体音感知边缘设备及系统, 
-_Third Prize_, 
+[_Third Prize_](https://github.com/zhj12399/zhj12399.github.com/blob/main/docs/pdf/面向联邦医疗物联网的智能体音感知边缘设备及系统项目的获奖证书.pdf), 
 [The 9th National Biomedical Engineering Innovation Design Competition for College Students (全国大学生生物医学工程创新设计竞赛)](https://bmedesign.cn/), China, July 2024.
