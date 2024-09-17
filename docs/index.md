@@ -10,7 +10,7 @@ Ministry of Education,
 China
 
 # Supervisor
-[Kun Qian](https://eecsqian.com)
+[Prof. Kun Qian](https://eecsqian.com)
 
 # Education
 ## Master Education
