@@ -110,6 +110,7 @@ in **_Proceedings of the ICASSP_**, pp.1676-1680, Seoul, Korea, April 2024.
   address={Seoul, Korea}
 }
 ```
+
 ## 2023
 * Meishu Song, Zijiang Yang, Andreas Triantafyllopoulos, Toru Nakamura, Yongxin Zhang, Zhao Ren, Hiroki Takeuchi, Akifumi Kishi, Tetsuro Ishizawa, Kazuhiro Yoshiuchi, **Haojie Zhang**, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto\*,
 "[Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction](https://ieeexplore.ieee.org/abstract/document/10411595)",
