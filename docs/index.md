@@ -1,4 +1,9 @@
 # Home
+
+I am currently working towards the M.S. degree with the School of Medical Technology, Beijing Institute of Technology. 
+My Supervisor is Prof. [Prof. Kun Qian](https://eecsqian.com)(Senior Member, IEEE). 
+Before this, I received the B.S. degree from School of Computer Science and Technology, Beijing Institute of Technology, China, in 2023.
+
 # Affiliations
 [School of Medical Technology](https://smt.bit.edu.cn),  
 Beijing Institute of Technology,  
@@ -9,13 +14,10 @@ China
 Ministry of Education,  
 China
 
-# Supervisor
-[Prof. Kun Qian](https://eecsqian.com)
-
 # Education
 ## Master Education
 * Degree: Master of Engineering
-* Time: September 2023 to June 2026
+* Time: September 2023 to present
 * University: Beijing Institute of Technology
 * Place: Beijing, China
 

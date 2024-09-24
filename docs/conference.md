@@ -1,7 +1,8 @@
 # Conference Papers
 ## 2024
 
-10.Peng Gao\#, **Haojie Zhang\#**, Lin Shen, Yongxin Zhang, Jiang Liu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+
+* Peng Gao\#, **Haojie Zhang\#**, Lin Shen, Yongxin Zhang, Jiang Liu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning",
 in **_Proceedings of IEEE Healthcom_**, pp.1-5, Nara, Japan, November 2024.
 ```bibtex
