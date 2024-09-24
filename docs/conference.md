@@ -1,6 +1,8 @@
 # Conference Papers
 ## 2024
-
+* Miao Liu\#, **Haojie Zhang\#**, Kun Qian\*, Bin Hu, Toru Nakamura, Taishin Nomura, Jian Zhang, Zhangguo Tang, Björn W. Schuller, Yoshiharu Yamamoto, and Huanzhou Li\*,
+"Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis",
+in **_Proceedings of CSMT_**, pp.1-12, Wuhan, China, October 2024.
 
 * Peng Gao\#, **Haojie Zhang\#**, Lin Shen, Yongxin Zhang, Jiang Liu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning",
