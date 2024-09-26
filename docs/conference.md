@@ -3,6 +3,7 @@
 * Lujundong Li\#, Tong Xia\#, **Haojie Zhang**, Dongchen He, Kun Qian, Yoshiharu Yamamoto, Björn W. Schuller, Bin Hu\*, and Cecilia Mascolo,
 "ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model",
 in **_Proceedings of IEEE UIC_**, pp.1-6, Denarau, Fiji, December 2024.
+
 ```bibtex
 @inproceedings{li2024ecgdpm,
   title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
