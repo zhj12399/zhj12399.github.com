@@ -1,5 +1,20 @@
 # Conference Papers
 ## 2024
+* Lujundong Li\#, Tong Xia\#, **Haojie Zhang**, Dongchen He, Kun Qian, Yoshiharu Yamamoto, Björn W. Schuller, Bin Hu\*, and Cecilia Mascolo,
+"ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model",
+in **_Proceedings of IEEE UIC_**, pp.1-6, Denarau, Fiji, December 2024.
+```bibtex
+@inproceedings{li2024ecgdpm,
+  title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
+  author={Li, Lujundong and Xia, Tong and Zhang, Haojie and He, Dongchen and Qian, Kun and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W and Hu, Bin and Mascolo, Cecilia},
+  booktitle={Proc. UIC},
+  pages={1-6},
+  year={2024},
+  address={Denarau, Fiji},
+  organization={IEEE}
+}
+```
+
 * Miao Liu\#, **Haojie Zhang\#**, Kun Qian\*, Bin Hu, Toru Nakamura, Taishin Nomura, Jian Zhang, Zhangguo Tang, Björn W. Schuller, Yoshiharu Yamamoto, and Huanzhou Li\*,
 "Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis",
 in **_Proceedings of CSMT_**, pp.1-12, Wuhan, China, October 2024.
@@ -12,9 +27,10 @@ in **_Proceedings of IEEE Healthcom_**, pp.1-5, Nara, Japan, November 2024.
   title={Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning},
   author={Gao, Peng and Zhang, Haojie and Shen, Lin and Zhang, Yongxin and Liu, Jiang and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. Healthcom},
-  pages={1-5},
+  pages={1-6},
   year={2024},
-  address={Nara, Japan}
+  address={Nara, Japan},
+  organization={IEEE}
 }
 ```
 
@@ -28,7 +44,8 @@ in **_Proceedings of IEEE Healthcom_**, pp.1-6, Nara, Japan, November 2024.
   booktitle={Proc. Healthcom},
   pages={1-5},
   year={2024},
-  address={Nara, Japan}
+  address={Nara, Japan},
+  organization={IEEE}
 }
 ```
 
