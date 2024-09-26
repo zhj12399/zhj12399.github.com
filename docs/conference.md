@@ -111,6 +111,7 @@ in **_Proceedings of the INTERSPEECH_**, pp.1-5, Kos Island, Greece, September 2
 * Jiahao Ji\#, Lixian Zhu\#, **Haojie Zhang**, Kun Qian\*, Kele Xu, Zikai Song, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000326.pdf)",
 in **_Proceedings of the EUSIPCO_**, pp.1-5, Lyon, France, August 2024.
+
 ```bibtex
 @inproceedings{ji2024weightlight,
   title={Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model},
