@@ -21,7 +21,7 @@ in **_Proceedings of IEEE UIC_**, pp.1-6, Denarau, Fiji, December 2024.
 in **_Proceedings of CSMT_**, pp.1-12, Wuhan, China, October 2024.
 ```bibtex
 @inproceedings{liu2024advancing,
-  title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
+  title={Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis},
   author={Liu, Miao and Zhang, Haojie and Qian, Kun and Hu, Bin and Nakamura, Toru and Nomura, Taishin and Zhang, Jian and Tang, Zhangguo and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu and Li, Huanzhou},
   booktitle={Proc. CSMT},
   pages={1-12},
