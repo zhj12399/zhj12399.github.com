@@ -19,6 +19,16 @@ in **_Proceedings of IEEE UIC_**, pp.1-6, Denarau, Fiji, December 2024.
 * Miao Liu\#, **Haojie Zhang\#**, Kun Qian\*, Bin Hu, Toru Nakamura, Taishin Nomura, Jian Zhang, Zhangguo Tang, Björn W. Schuller, Yoshiharu Yamamoto, and Huanzhou Li\*,
 "Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis",
 in **_Proceedings of CSMT_**, pp.1-12, Wuhan, China, October 2024.
+```bibtex
+@inproceedings{liu2024advancing,
+  title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
+  author={Liu, Miao and Zhang, Haojie and Qian, Kun and Hu, Bin and Nakamura, Toru and Nomura, Taishin and Zhang, Jian and Tang, Zhangguo and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu and Li, Huanzhou},
+  booktitle={Proc. CSMT},
+  pages={1-12},
+  year={2024},
+  address={Wuhan, China},
+}
+```
 
 * Peng Gao\#, **Haojie Zhang\#**, Lin Shen, Yongxin Zhang, Jiang Liu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning",
