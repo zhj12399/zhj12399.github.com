@@ -33,8 +33,4 @@ zhj@bit.edu.cn
 School of Medical Technology,  
 Beijing Institute of Technology,  
 Beijing 100081,  
-China  
-
-[Google Scholar](https://scholar.google.com/citations?user=Q6bJyiwAAAAJ)  
-[Research Gate](https://www.researchgate.net/profile/Haojie-Zhang-7)  
-[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-2209-1527)  
+China
