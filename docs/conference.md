@@ -9,7 +9,7 @@ in **_Proceedings of IEEE UIC_**, pp.1-6, Denarau, Fiji, December 2024.
   title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
   author={Li, Lujundong and Xia, Tong and Zhang, Haojie and He, Dongchen and Qian, Kun and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W and Hu, Bin and Mascolo, Cecilia},
   booktitle={Proc. UIC},
-  pages={1-6},[index.md](index.md)
+  pages={1-6},
   year={2024},
   address={Denarau, Fiji},
   organization={IEEE}
