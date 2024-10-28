@@ -1,6 +1,6 @@
 # Conference Papers
 ## 2024
-* Lujundong Li\#, Tong Xia\#, **Haojie Zhang**, Dongchen He, Kun Qian, Yoshiharu Yamamoto, Björn W. Schuller, Bin Hu\*, and Cecilia Mascolo,
+* Lujundong Li\#, Tong Xia\#, **Haojie Zhang**, Dongchen He, Kun Qian\*, Yoshiharu Yamamoto, Björn W. Schuller, Bin Hu\*, and Cecilia Mascolo,
 "ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model",
 in **_Proceedings of IEEE UIC_**, pp.1-6, Denarau, Fiji, December 2024.
 
@@ -9,7 +9,7 @@ in **_Proceedings of IEEE UIC_**, pp.1-6, Denarau, Fiji, December 2024.
   title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
   author={Li, Lujundong and Xia, Tong and Zhang, Haojie and He, Dongchen and Qian, Kun and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W and Hu, Bin and Mascolo, Cecilia},
   booktitle={Proc. UIC},
-  pages={1-6},
+  pages={1-6},[index.md](index.md)
   year={2024},
   address={Denarau, Fiji},
   organization={IEEE}
