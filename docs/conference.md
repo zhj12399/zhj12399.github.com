@@ -17,7 +17,7 @@ in **_Proceedings of IEEE UIC_**, pp.1-6, Denarau, Fiji, December 2024.
 ```
 
 * Miao Liu\#, **Haojie Zhang\#**, Kun Qian\*, Bin Hu, Toru Nakamura, Taishin Nomura, Jian Zhang, Zhangguo Tang, Björn W. Schuller, Yoshiharu Yamamoto, and Huanzhou Li\*,
-"Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis",
+"[Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis](https://www.researchgate.net/publication/385419820_Advancing_Metadata-Convolutional_Neural_Networks_with_Multi-Supervised_Contrastive_Learning_and_Metadata_Insights_for_Respiratory_Sound_Analysis)",
 in **_Proceedings of CSMT_**, pp.1-12, Wuhan, China, October 2024.
 
 ```bibtex
@@ -78,7 +78,7 @@ in **_Proceedings of IEEE Healthcom_**, pp.1-6, Nara, Japan, November 2024.
 }
 ```
 * Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, and Bin Hu\*,
-"Self-supervised Federated Learning for Heart Sound Recognition",
+"[面向心音识别的自监督联邦学习 (Self-supervised Federated Learning for Heart Sound Recognition)](https://www.researchgate.net/publication/385420158_mianxiangxinyinshibiedezijiandulianbangxuexi_Self-Supervised_Federated_Learning_for_Heart_Sound_Recognition)",
 in **_Proceedings of the NCMMSC_**, pp.1-8, Urumqi, China, August 2024.
 
 ```bibtex
