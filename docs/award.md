@@ -1,4 +1,4 @@
-# Awards
+# Award
 ## 2024
 
 * **Haojie Zhang**, Mengkai Sun, Zhonghao Zhao, Wanyong Qiu,

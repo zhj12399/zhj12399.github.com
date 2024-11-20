@@ -1,4 +1,4 @@
-# Conference Papers
+# Conference Paper
 ## 2024
 * Lujundong Li\#, Tong Xia\#, **Haojie Zhang**, Dongchen He, Kun Qian\*, Yoshiharu Yamamoto, Björn W. Schuller, Bin Hu\*, and Cecilia Mascolo,
 "ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model",
@@ -171,7 +171,7 @@ in **_Proceedings of the ICDMW_**, pp.1299-1305, Shanghai, China, December 2023.
 
 ```bibtex
 @techreport{zhang2023noise,
-  title={From noise to sound: Audio synthesis via diffusion models},
+  title={From Noise to Sound: Audio Synthesis Via Diffusion Models},
   author={Zhang, Haojie and Qian, Kun and Shen, Lin and Li, Lujundong and Xu, Kele and Hu, Bin},
   institution ={DCASE2023 Challenge},
   year = {2023},

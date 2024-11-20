@@ -1,4 +1,4 @@
-# Journal Papers
+# Journal Paper
 ## 2024
 * Fuze Tian\#\*, **Haojie Zhang\#**, Yang Tan, Lixian Zhu, Lin Shen, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis](https://ieeexplore.ieee.org/document/10736629)",
