@@ -12,11 +12,12 @@
   year={2024},
   volume={},
   number={},
-  pages={1-14}
+  pages={1--14},
+  publisher={IEEE}
 }
 ```
 
-* Lin Shen, **Haojie Zhang‡**, Cuiping Zhu‡, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+* Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
   "A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders",
   **_IEEE Transactions on Consumer Electronics_**, pp.1-15, 2024.
 
@@ -28,6 +29,7 @@
   year={2024},
   volume={},
   number={},
-  pages={1-15}
+  pages={1--15},
+  publisher={IEEE}
 }
 ```

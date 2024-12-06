@@ -9,7 +9,7 @@ in **_Proceedings of IEEE International Conference on Ubiquitous Intelligence an
   title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
   author={Li, Lujundong and Xia, Tong and Zhang, Haojie and He, Dongchen and Qian, Kun and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W and Hu, Bin and Mascolo, Cecilia},
   booktitle={Proc. UIC},
-  pages={1-6},
+  pages={1--6},
   year={2024},
   address={Denarau, Fiji},
   organization={IEEE}
@@ -25,7 +25,7 @@ in **_Proceedings of Conference on Sound and Music Technology (CSMT)_**, pp.1-12
   title={Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis},
   author={Liu, Miao and Zhang, Haojie and Qian, Kun and Hu, Bin and Nakamura, Toru and Nomura, Taishin and Zhang, Jian and Tang, Zhangguo and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu and Li, Huanzhou},
   booktitle={Proc. CSMT},
-  pages={1-12},
+  pages={1--12},
   year={2024},
   address={Wuhan, China},
 }
@@ -40,7 +40,7 @@ in **_Proceedings of IEEE International Conference on e-Health Networking, Appli
   title={Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning},
   author={Gao, Peng and Zhang, Haojie and Shen, Lin and Zhang, Yongxin and Liu, Jiang and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. Healthcom},
-  pages={1-6},
+  pages={1--6},
   year={2024},
   address={Nara, Japan},
   organization={IEEE}
@@ -56,7 +56,7 @@ in **_Proceedings of IEEE International Conference on e-Health Networking, Appli
   title={Inspiration of Prototype Knowledge: Introducing a Meta-Learning Approach to Heart Sound Classification},
   author={Wu, Qingrong and Sun, Mengkai and Zhang, Haojie and Zhang, Yongxin and Liu, Yiming and Meng, Boyang and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. Healthcom},
-  pages={1-5},
+  pages={1--5},
   year={2024},
   address={Nara, Japan},
   organization={IEEE}
@@ -73,7 +73,7 @@ in **_Proceedings of IEEE International Conference on e-Health Networking, Appli
   author={Sun, Mengkai and Zhang, Haojie and Qian, Kun and Hu, Bin},
   institution={DCASE2024 Challenge},
   year={2024},
-  pages={1-4},
+  pages={1--4},
   address={Tokyo, Japan}
 }
 ```
@@ -86,14 +86,14 @@ in **_Proceedings of the 19th National Conference on Man-Machine Speech Communic
   title={Self-supervised federated learning for heart sound recognition},
   author={Shen, Xiaoyu and Qiu, Wanyong and Zhang, Haojie and Qian, Kun and Yu, Yongzi and Hu, Bin},
   booktitle={Proc. NCMMSC},
-  pages={1-8},
+  pages={1--8},
   year={2024},
   address={Urumqi, China}
  }
 ```
 * Liuxian Ma\#, Lin Shen\#, Ruobing Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition](https://www.isca-archive.org/interspeech_2024/ma24_interspeech.html#)",
-in **_Proceedings of the INTERSPEECH_**, pp.1-5, Kos Island, Greece, September 2024.
+in **_Proceedings of the INTERSPEECH_**, pp.4293-4297, Kos Island, Greece, September 2024.
 
 ```bibtex
 @inproceedings{ma2024eodn,
@@ -107,7 +107,7 @@ in **_Proceedings of the INTERSPEECH_**, pp.1-5, Kos Island, Greece, September 2
 ```
 * Xihang Qiu\#, Lixian Zhu\#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian\*, Ye Zhang*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification](https://www.isca-archive.org/interspeech_2024/qiu24_interspeech.html#)",
-in **_Proceedings of the INTERSPEECH_**, pp.1-5, Kos Island, Greece, September 2024.
+in **_Proceedings of the INTERSPEECH_**, pp.137-141, Kos Island, Greece, September 2024.
 
 ```bibtex
 @inproceedings{qiu2024study,
@@ -121,7 +121,7 @@ in **_Proceedings of the INTERSPEECH_**, pp.1-5, Kos Island, Greece, September 2
 ```
 * Jiahao Ji\#, Lixian Zhu\#, **Haojie Zhang**, Kun Qian\*, Kele Xu, Zikai Song, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000326.pdf)",
-in **_Proceedings of European Signal Processing Conference (EUSIPCO)_**, pp.1-5, Lyon, France, August 2024.
+in **_Proceedings of European Signal Processing Conference (EUSIPCO)_**, pp.326-330, Lyon, France, August 2024.
 
 ```bibtex
 @inproceedings{ji2024weightlight,
@@ -161,7 +161,7 @@ in **_Proceedings of IEEE International Conference on Data Mining Workshops (ICD
   booktitle={Proc. ICDMW}, 
   title={Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction}, 
   year={2023},
-  pages={1299-1305},
+  pages={1299--1305},
   organization={IEEE},
   address={Shanghai, China}
 }
@@ -176,7 +176,7 @@ in **_Proceedings of IEEE International Conference on Data Mining Workshops (ICD
   author={Zhang, Haojie and Qian, Kun and Shen, Lin and Li, Lujundong and Xu, Kele and Hu, Bin},
   institution ={DCASE2023 Challenge},
   year = {2023},
-  pages={1-4},
+  pages={1--4},
   address={Tampere, Finland}
 }
 ```
