@@ -18,7 +18,7 @@
 ```
 
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-  "A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders",
+  "[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",
   **_IEEE Transactions on Consumer Electronics_**, pp.1-15, 2024.
 
 ```bibtex
