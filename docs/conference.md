@@ -68,7 +68,7 @@ in **_Proceedings of IEEE International Conference on e-Health Networking, Appli
 **_Technical Report for DCASE2024 Challenge_**, pp.1-4, Tokyo, Japan, October 2024.
 
 ```bibtex
-@techreport{sun2024lifproto,
+@techreport{sun2024lif,
   title={LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and squeeze-and-excitation blocks for bioacoustic event detection},
   author={Sun, Mengkai and Zhang, Haojie and Qian, Kun and Hu, Bin},
   institution={DCASE2024 Challenge},
@@ -96,7 +96,7 @@ in **_Proceedings of the 19th National Conference on Man-Machine Speech Communic
 in **_Proceedings of the INTERSPEECH_**, pp.4293-4297, Kos Island, Greece, September 2024.
 
 ```bibtex
-@inproceedings{ma2024eodn,
+@inproceedings{ma2024odn,
   title={E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition},
   author={Ma, Liuxian and Shen, Lin and Li, Ruobing and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. INTERSPEECH},
@@ -124,7 +124,7 @@ in **_Proceedings of the INTERSPEECH_**, pp.137-141, Kos Island, Greece, Septemb
 in **_Proceedings of European Signal Processing Conference (EUSIPCO)_**, pp.326-330, Lyon, France, August 2024.
 
 ```bibtex
-@inproceedings{ji2024weightlight,
+@inproceedings{ji2024weight,
   title={Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model},
   author={Ji, Jiahao and Zhu, Lixian and Zhang, Haojie and Qian, Kun and Xu, Kele and Song, Zikai and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. EUSIPCO},
