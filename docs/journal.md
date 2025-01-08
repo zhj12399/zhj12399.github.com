@@ -9,10 +9,10 @@
   title={An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis},
   author={Tian, Fuze and Zhang, Haojie and Tan, Yang and Zhu, Lixian and Shen, Lin and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1--14},
+  year={2025},
+  volume={29},
+  number={1},
+  pages={152-165},
   publisher={IEEE}
 }
 ```
