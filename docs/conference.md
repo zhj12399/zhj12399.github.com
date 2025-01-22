@@ -1,4 +1,20 @@
 # Conference Paper
+## 2025
+* Zijing Yang, Meishu Song, Xin Jing, Haojie Zhang, Kun Qian, Bin Hu, Kota Tamada, Björn W. Schuller, and Yoshiharu Yamamoto, 
+"MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge",
+
+```bibtex
+@misc{yang2025maduv1stinterspeechmice,
+  title={MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge}, 
+  author={Zijiang Yang and Meishu Song and Xin Jing and Haojie Zhang and Kun Qian and Bin Hu and Kota Tamada and Toru Takumi and Björn W. Schuller and Yoshiharu Yamamoto},
+  year={2025},
+  eprint={2501.04292},
+  archivePrefix={arXiv},
+  primaryClass={cs.SD},
+  url={https://arxiv.org/abs/2501.04292}, 
+}
+```
+
 ## 2024
 * Lujundong Li\#, Tong Xia\#, **Haojie Zhang**, Dongchen He, Kun Qian\*, Yoshiharu Yamamoto, Björn W. Schuller, Bin Hu\*, and Cecilia Mascolo,
 "ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model",
