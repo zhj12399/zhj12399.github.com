@@ -12,7 +12,7 @@
   year={2025},
   volume={29},
   number={1},
-  pages={152-165},
+  pages={152--165},
   publisher={IEEE}
 }
 ```
