@@ -1,6 +1,6 @@
 # Conference Paper
 ## 2025
-* Zijing Yang, Meishu Song, Xin Jing, **Haojie Zhang**, Kun Qian, Bin Hu, Kota Tamada, Björn W. Schuller, and Yoshiharu Yamamoto, 
+* Zijing Yang, Meishu Song, Xin Jing, **Haojie Zhang**, Kun Qian, Bin Hu, Kota Tamada, Toru Takumi, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge](https://arxiv.org/abs/2501.04292)",
 in **_[Proceedings of the INTERSPEECH Challenge](https://www.interspeech2025.org/home)_**, pp.1-5, Rotterdam, Netherlands, August 2025. 
 [Challenge Page](https://www.mad-uv.org)
