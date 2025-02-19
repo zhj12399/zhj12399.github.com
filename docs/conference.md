@@ -50,7 +50,7 @@ in **_Proceedings of Conference on Sound and Music Technology (CSMT)_**, pp.1-12
 ```
 
 * Peng Gao\#, **Haojie Zhang\#**, Lin Shen, Yongxin Zhang, Jiang Liu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning",
+"[Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning](https://ieeexplore.ieee.org/document/10880716)",
 in **_Proceedings of IEEE International Conference on e-Health Networking, Applications and Services (Healthcom)_**, pp.1-5, Nara, Japan, November 2024.
 
 ```bibtex
@@ -66,7 +66,7 @@ in **_Proceedings of IEEE International Conference on e-Health Networking, Appli
 ```
 
 * Qingrong Wu\#, Mengkai Sun\#, **Haojie Zhang**, Yongxin Zhang, Yiming Liu, Boyang Meng, Kun Qian\*, Bin Hu\*, Toru Nakamura, Taishin Nomura, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Inspiration of Prototype Knowledge: Introducing a Meta-Learning Approach to Heart Sound Classification",
+"[Inspiration of Prototype Knowledge: Introducing a Meta-Learning Approach to Heart Sound Classification](https://ieeexplore.ieee.org/document/10880804)",
 in **_Proceedings of IEEE International Conference on e-Health Networking, Applications and Services (Healthcom)_**, pp.1-6, Nara, Japan, November 2024.
 
 ```bibtex
