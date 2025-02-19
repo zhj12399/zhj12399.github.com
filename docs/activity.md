@@ -14,7 +14,7 @@
 # Reviewer
 ## Conference Reviewer
 
-* Reviewer for the ICASSP 2023-2024.
+* Reviewer for the ICASSP 2024-2025.
 * Reviewer for the INTERSPEECH 2024.
 * Reviewer for the CSMT 2024.
 * Reviewer for the EUSIPCO 2024.
