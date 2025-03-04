@@ -10,6 +10,7 @@ Supervisor: Kun Qian, Bin Hu,
 面向多疾病辅助诊断的智能体音感知边缘设备及系统, 
 [_Third Prize_](https://github.com/zhj12399/zhj12399.github.com/blob/main/docs/pdf/面向多疾病辅助诊断的智能体音感知边缘设备及系统获奖证书.pdf) (National Level),
 [The 6th China Graduate AI Innovation Competition (“华为杯”中国研究生人工智能创新大赛)](https://cpipc.acge.org.cn/), China, September 2024.
+![](https://github.com/zhj12399/zhj12399.github.com/blob/main/docs/pics/面向多疾病辅助诊断的智能体音感知边缘设备及系统获奖证书.jpg)
 
 * Zhonghao Zhao, Wanyong Qiu, **Haojie Zhang**, Mengkai Sun, Jiuhao Zhou,
 Supervisor: Kun Qian, Bin Hu, 
