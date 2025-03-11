@@ -17,6 +17,7 @@
 
 ## Conference Review
 
+* Reviewer INTERSPEECH 2025, ISCA, Rotterdam, Netherlands, 17-21.08.2025.
 * Reviewer 50th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), IEEE, Hyderabad, India, 06-11.04.2025.
 * Reviewer 11th Conference on Sound and Music Technology (CSMT 2024), Wuhan, China, 11-13.10.2024.
 * Reviewer and TPC member 10th IEEE Smart World Congress (SWC 2024), IEEE, Denarau, Fiji, 02-07.12.2024.
