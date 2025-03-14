@@ -17,6 +17,7 @@
 
 ## Conference Review
 
+* Reviewer 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, Copenhagen, Denmark, 14-17.07.2025.
 * Reviewer INTERSPEECH 2025, ISCA, Rotterdam, Netherlands, 17-21.08.2025.
 * Reviewer 50th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), IEEE, Hyderabad, India, 06-11.04.2025.
 * Reviewer 11th Conference on Sound and Music Technology (CSMT 2024), Wuhan, China, 11-13.10.2024.
