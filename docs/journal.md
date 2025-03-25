@@ -5,7 +5,7 @@
 **_IEEE Transactions on Mobile Computing_**, pp.1-15, 2025.
 
 ```bibtex
-@article{zhang2025aiassisted,
+@article{zhang2025ai,
   title={An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model},
   author={Zhang, Haojie and Tian, Fuze and Tan, Yang and Shen, Lin and Liu, Jingyu and Liu, Jie and Qian, Kun and Han, Yalei and Su, Gong and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   journal={IEEE Transactions on Mobile Computing},
