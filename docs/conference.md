@@ -2,7 +2,7 @@
 ## 2025
 * Yang Tan, **Haojie Zhang**, Yi Chang, Qingrong Wu, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "A Latent Diffusion Model for Heart Sound Synthesis",
-in Proceedings of the 2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT 2025), pp.1-6, Xi'an, China, March 2025.
+in **_Proceedings of the 2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT 2025)_**, pp.1-6, Xi'an, China, March 2025.
 
 ```bibtex
 @inproceedings{tan2025latent,
@@ -110,6 +110,7 @@ in **_Proceedings of IEEE International Conference on E-Health Networking, Appli
   address={Tokyo, Japan}
 }
 ```
+
 * Xiaoyu Shen\#, Wanyong Qiu\#, **Haojie Zhang**, Kun Qian\*, Yongzi Yu, and Bin Hu\*,
 "[面向心音识别的自监督联邦学习 (Self-supervised Federated Learning for Heart Sound Recognition)](https://www.researchgate.net/publication/385420158_mianxiangxinyinshibiedezijiandulianbangxuexi_Self-Supervised_Federated_Learning_for_Heart_Sound_Recognition)",
 in **_Proceedings of the 19th National Conference on Man-Machine Speech Communication (NCMMSC)_**, pp.1-8, Urumqi, China, August 2024.
@@ -124,6 +125,7 @@ in **_Proceedings of the 19th National Conference on Man-Machine Speech Communic
   address={Urumqi, China}
  }
 ```
+
 * Liuxian Ma\#, Lin Shen\#, Ruobing Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition](https://www.isca-archive.org/interspeech_2024/ma24_interspeech.html#)",
 in **_Proceedings of the INTERSPEECH_**, pp.4293-4297, Kos Island, Greece, September 2024.
@@ -138,6 +140,7 @@ in **_Proceedings of the INTERSPEECH_**, pp.4293-4297, Kos Island, Greece, Septe
   address={Kos Island, Greece}
 }
 ```
+
 * Xihang Qiu\#, Lixian Zhu\#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian\*, Ye Zhang*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification](https://www.isca-archive.org/interspeech_2024/qiu24_interspeech.html#)",
 in **_Proceedings of the INTERSPEECH_**, pp.137-141, Kos Island, Greece, September 2024.
@@ -167,6 +170,7 @@ in **_Proceedings of European Signal Processing Conference (EUSIPCO)_**, pp.326-
   address={Lyon, France}
 }
 ```
+
 * Chengyu Yuan, Hao Xiong\*, Guoqing Shangguan, Hualei Shen*, Dong Liu, **Haojie Zhang**, Zhonghua Liu, Kun Qian, Bin Hu, Björn W. Schuller, Yoshiharu Yamamoto, and Shlomo Berkovsky,
 "[Deep Fusion of Shifted MLP and CNN For Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10446716)",
 in **_Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_**, pp.1676-1680, Seoul, Korea, April 2024.
@@ -199,6 +203,7 @@ in **_Proceedings of IEEE International Conference on Data Mining Workshops (ICD
   address={Shanghai, China}
 }
 ```
+
 * **Haojie Zhang**, Kun Qian\*, Lin Shen, Lujundong Li, Kele Xu\*, and Bin Hu\*,
 "[From Noise To Sound: Audio Synthesis Via Diffusion Models](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf)",
 **_Technical Report for DCASE2023 Challenge_**, pp. 1-4, Tampere, Finland, September 2023.
