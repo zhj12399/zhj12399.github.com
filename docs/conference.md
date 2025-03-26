@@ -4,8 +4,8 @@
 "A Latent Diffusion Model for Heart Sound Synthesis",
 in Proceedings of the 2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT 2025), pp.1-6, Xi'an, China, March 2025.
 ```bibtex
-@inproceedings{
-  title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
+@inproceedings{tan2025latent
+  title={A Latent Diffusion Model for Heart Sound Synthesis},
   author={Tan, Yang and Zhang, Haojie and Chang, Yi and Wu, Qingrong and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. ISCAIT},
   pages={1--6},
