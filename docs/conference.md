@@ -1,17 +1,16 @@
 # Conference Paper
 ## 2025
-* Yang Tan, Haojie Zhang, Yi Chang, Qingrong Wu, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto, 
+* Yang Tan, **Haojie Zhang**, Yi Chang, Qingrong Wu, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "A Latent Diffusion Model for Heart Sound Synthesis",
 in Proceedings of the 2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT 2025), pp.1-6, Xi'an, China, March 2025.
 ```bibtex
-@inproceedings{tan2025latent
+@inproceedings{tan2025latent,
   title={A Latent Diffusion Model for Heart Sound Synthesis},
   author={Tan, Yang and Zhang, Haojie and Chang, Yi and Wu, Qingrong and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. ISCAIT},
   pages={1--6},
   year={2025},
-  address={Xi'an, China},
-  organization={IEEE}
+  address={Xi'an, China}
 }
 ```
 
