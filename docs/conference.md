@@ -38,13 +38,13 @@ in **_[Proceedings of the INTERSPEECH Challenge](https://www.interspeech2025.org
 in **_Proceedings of IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)_**, pp.1-6, Denarau, Fiji, December 2024.
 
 ```bibtex
-@inproceedings{li2024ecgdpm,
+@inproceedings{li2024ecg,
   title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
   author={Li, Lujundong and Xia, Tong and Zhang, Haojie and He, Dongchen and Qian, Kun and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W and Hu, Bin and Mascolo, Cecilia},
   booktitle={Proc. UIC},
   pages={1--6},
   year={2024},
-  address={Denarau, Fiji},
+  address={Nadi, Fiji},
   organization={IEEE}
 }
 ```
