@@ -1,7 +1,12 @@
 # Journal Paper
 ## 2025
-* **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Jingyu Liu, Jie Liu, Kun Qian\*, Yalei Han, Gong Su\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"[An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model](https://ieeexplore.ieee.org/document/10909628)",
+* Lin Shen, Haojie Zhang, Cuiping Zhu, Ruobing Li, Kun Qian, Fuze Tian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto, 
+"Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System", 
+**_IEEE Transactions on Affective Computing_**, pp.1-16, 2025.
+
+
+* **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Jingyu Liu, Jie Liu, Kun Qian\*, Yalei Han, Gong Su\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
+"[An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model](https://ieeexplore.ieee.org/document/10909628)", 
 **_IEEE Transactions on Mobile Computing_**, pp.1-15, 2025.
 
 ```bibtex
@@ -17,8 +22,8 @@
 }
 ```
 
-* Fuze Tian\#\*, **Haojie Zhang\#**, Yang Tan, Lixian Zhu, Lin Shen, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"[An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis](https://ieeexplore.ieee.org/document/10736629)",
+* Fuze Tian\#\*, **Haojie Zhang\#**, Yang Tan, Lixian Zhu, Lin Shen, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
+"[An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis](https://ieeexplore.ieee.org/document/10736629)", 
 **_IEEE Journal of Biomedical and Health Informatics_**, vol.29, no.1, pp.152-165, 2025.
 
 ```bibtex
@@ -36,8 +41,8 @@
 
 ## 2024
 
-* Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-  "[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",
+* Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
+  "[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)", 
   **_IEEE Transactions on Consumer Electronics_**, pp.1-15, 2024.
 
 ```bibtex
