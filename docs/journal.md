@@ -12,7 +12,7 @@ journal={IEEE Transactions on Affective Computing},
 year={2025},
 volume={},
 number={},
-pages={1-16},
+pages={1--16},
 publisher={IEEE}
 }
 ```
@@ -29,7 +29,7 @@ publisher={IEEE}
   year={2025},
   volume={},
   number={},
-  pages={1-15},
+  pages={1--15},
   publisher={IEEE}
 }
 ```
