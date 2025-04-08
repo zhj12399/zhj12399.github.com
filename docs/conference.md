@@ -1,6 +1,6 @@
 # Conference Paper
 ## 2025
-* Yang Tan, **Haojie Zhang**, Yi Chang, Qingrong Wu, Kun Qian, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto, 
+* Yang Tan, **Haojie Zhang**, Yi Chang, Qingrong Wu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "A Latent Diffusion Model for Heart Sound Synthesis",
 in **_Proceedings of the 2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT 2025)_**, pp.1-6, Xi'an, China, March 2025.
 
@@ -15,10 +15,9 @@ in **_Proceedings of the 2025 4th International Symposium on Computer Applicatio
 }
 ```
 
-* Zijing Yang, Meishu Song, Xin Jing, **Haojie Zhang**, Kun Qian, Bin Hu, Kota Tamada, Toru Takumi, Björn W. Schuller, and Yoshiharu Yamamoto, 
+* Zijing Yang\*, Meishu Song, Xin Jing, **Haojie Zhang**, Kun Qian, Bin Hu, Kota Tamada, Toru Takumi, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge](https://arxiv.org/abs/2501.04292)",
 in **_[Proceedings of the INTERSPEECH](https://www.interspeech2025.org/home)_**, Challenge Baseline, [Challenge Page](https://www.mad-uv.org), pp.1-5, Rotterdam, Netherlands, August 2025. 
-
 
 ```bibtex
 @misc{yang2025maduv1stinterspeechmice,
