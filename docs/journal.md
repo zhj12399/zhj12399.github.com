@@ -6,14 +6,14 @@
 
 ```bibtex
 @article{shen2025enhancing,
-title={Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-based Closed-Loop Music Intervention System},
-author={Shen, Lin and Zhang, Haojie and Zhu, Cuiping and Li, Ruobing and Qian, Kun and Tian, Fuze and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
-journal={IEEE Transactions on Affective Computing},
-year={2025},
-volume={},
-number={},
-pages={1--16},
-publisher={IEEE}
+  title={Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-based Closed-Loop Music Intervention System},
+  author={Shen, Lin and Zhang, Haojie and Zhu, Cuiping and Li, Ruobing and Qian, Kun and Tian, Fuze and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
+  journal={IEEE Transactions on Affective Computing},
+  year={2025},
+  volume={},
+  number={},
+  pages={1--16},
+  publisher={IEEE}
 }
 ```
 
