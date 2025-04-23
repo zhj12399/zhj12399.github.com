@@ -1,5 +1,10 @@
 # Journal Paper
 ## 2025
+* Kun Qian\*, **Haojie Zhang**, Xin Jing, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
+"Foundation Models for Digital Mental Health: Igniting the Dawn",
+**_Medicine Plus_**, pp.1-4, 2025.
+
+
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System](https://ieeexplore.ieee.org/document/10949681)", 
 **_IEEE Transactions on Affective Computing_**, pp.1-16, 2025.
