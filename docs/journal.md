@@ -1,9 +1,18 @@
 # Journal Paper
 ## 2025
 * Kun Qian\*, **Haojie Zhang**, Xin Jing, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
-"Foundation Models for Digital Mental Health: Igniting the Dawn",
+"[Foundation Models for Digital Mental Health: Igniting the Dawn](https://www.sciencedirect.com/science/article/pii/S2950347725000167)",
 **_Medicine Plus_**, pp.1-4, 2025.
 
+```bibtex
+@article{qian2025foundation,
+  title={Foundation Models for Digital Mental Health: Igniting the Dawn},
+  author={Qian, Kun and Zhang, Haojie and Jing, Xin and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W},
+  journal={Medicine Plus},
+  year={2025},
+  pages = {100085}
+}
+```
 
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System](https://ieeexplore.ieee.org/document/10949681)", 
