@@ -1,5 +1,37 @@
 # Conference Paper
 ## 2025
+Chenhao Wu, Xiangjun Cai, **Haojie Zhang**, Tianrui Jia, Yilu Deng, Kun Qian, Björn W. Schuller, Yoshiharu Yamamoto, and Jiang Liu, 
+"Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation"
+in **_Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)_**, pp.1-5, Rotterdam, The Netherlands, August 2025.
+
+```bibtex
+@inproceedings{wu2025exploring,
+  title={E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition},
+  author={Wu, Chenhao and Cai, Xiangjun and Zhang, Haojie and Jia, Tianrui and Deng, Yilu and Qian, Kun and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu and Liu, Jiang},
+  booktitle={Proc. INTERSPEECH},
+  pages={1--5},
+  year={2025},
+  organization={ISCA},
+  address={Rotterdam, The Netherlands}
+}
+```
+
+* Zijing Yang\*, Meishu Song, Xin Jing, **Haojie Zhang**, Kun Qian, Bin Hu, Kota Tamada, Toru Takumi, Björn W. Schuller, and Yoshiharu Yamamoto,
+"[MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge](https://arxiv.org/abs/2501.04292)",
+in **_[Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)](https://www.interspeech2025.org/home)_**, Challenge Baseline, [Challenge Page](https://www.mad-uv.org), pp.1-5, Rotterdam, The Netherlands, August 2025.
+
+```bibtex
+@misc{yang2025maduv1stinterspeechmice,
+  title={MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge}, 
+  author={Zijiang Yang and Meishu Song and Xin Jing and Haojie Zhang and Kun Qian and Bin Hu and Kota Tamada and Toru Takumi and Björn W. Schuller and Yoshiharu Yamamoto},
+  year={2025},
+  eprint={2501.04292},
+  archivePrefix={arXiv},
+  primaryClass={cs.SD},
+  url={https://arxiv.org/abs/2501.04292}, 
+}
+```
+
 * Yang Tan, **Haojie Zhang**, Yi Chang, Qingrong Wu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "A Latent Diffusion Model for Heart Sound Synthesis",
 in **_Proceedings of the 2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT 2025)_**, pp.1-6, Xi'an, China, March 2025.
@@ -12,22 +44,6 @@ in **_Proceedings of the 2025 4th International Symposium on Computer Applicatio
   pages={1--6},
   year={2025},
   address={Xi'an, China}
-}
-```
-
-* Zijing Yang\*, Meishu Song, Xin Jing, **Haojie Zhang**, Kun Qian, Bin Hu, Kota Tamada, Toru Takumi, Björn W. Schuller, and Yoshiharu Yamamoto, 
-"[MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge](https://arxiv.org/abs/2501.04292)",
-in **_[Proceedings of the INTERSPEECH](https://www.interspeech2025.org/home)_**, Challenge Baseline, [Challenge Page](https://www.mad-uv.org), pp.1-5, Rotterdam, Netherlands, August 2025. 
-
-```bibtex
-@misc{yang2025maduv1stinterspeechmice,
-  title={MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge}, 
-  author={Zijiang Yang and Meishu Song and Xin Jing and Haojie Zhang and Kun Qian and Bin Hu and Kota Tamada and Toru Takumi and Björn W. Schuller and Yoshiharu Yamamoto},
-  year={2025},
-  eprint={2501.04292},
-  archivePrefix={arXiv},
-  primaryClass={cs.SD},
-  url={https://arxiv.org/abs/2501.04292}, 
 }
 ```
 
@@ -127,7 +143,7 @@ in **_Proceedings of the 19th National Conference on Man-Machine Speech Communic
 
 * Liuxian Ma\#, Lin Shen\#, Ruobing Li, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition](https://www.isca-archive.org/interspeech_2024/ma24_interspeech.html#)",
-in **_Proceedings of the INTERSPEECH_**, pp.4293-4297, Kos Island, Greece, September 2024.
+in **_Proceedings of the 25th INTERSPEECH Conference (INTERSPEECH)_**, pp.4293-4297, Kos Island, Greece, September 2024.
 
 ```bibtex
 @inproceedings{ma2024odn,
@@ -136,13 +152,14 @@ in **_Proceedings of the INTERSPEECH_**, pp.4293-4297, Kos Island, Greece, Septe
   booktitle={Proc. INTERSPEECH},
   pages={4293--4297},
   year={2024},
+  organization={ISCA},
   address={Kos Island, Greece}
 }
 ```
 
 * Xihang Qiu\#, Lixian Zhu\#, Zikai Song, Zeyu Chen, **Haojie Zhang**, Kun Qian\*, Ye Zhang*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification](https://www.isca-archive.org/interspeech_2024/qiu24_interspeech.html#)",
-in **_Proceedings of the INTERSPEECH_**, pp.137-141, Kos Island, Greece, September 2024.
+in **_Proceedings of the 25th INTERSPEECH Conference (INTERSPEECH)_**, pp.137-141, Kos Island, Greece, September 2024.
 
 ```bibtex
 @inproceedings{qiu2024study,
@@ -151,6 +168,7 @@ in **_Proceedings of the INTERSPEECH_**, pp.137-141, Kos Island, Greece, Septemb
   booktitle={Proc. INTERSPEECH},
   pages={137--141},
   year={2024},
+  organization={ISCA},
   address={Kos Island, Greece}
 }
 ```
