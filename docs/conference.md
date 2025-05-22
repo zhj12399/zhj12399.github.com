@@ -1,6 +1,6 @@
 # Conference Paper
 ## 2025
-* Chenhao Wu, Xiangjun Cai, **Haojie Zhang**, Tianrui Jia, Yilu Deng, Kun Qian, Björn W. Schuller, Yoshiharu Yamamoto, and Jiang Liu, 
+* Chenhao Wu\#, Xiangjun Cai\#, **Haojie Zhang**, Tianrui Jia, Yilu Deng, Kun Qian, Björn W. Schuller, Yoshiharu Yamamoto, and Jiang Liu, 
 "Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation"
 in **_Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)_**, pp.1-5, Rotterdam, The Netherlands, August 2025.
 
