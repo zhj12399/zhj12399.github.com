@@ -17,6 +17,7 @@
 
 ## Conference Review
 
+* Reviewer 14th IEEE Global Conference on Consumer Electronics (GCCE), IEEE, Osaka, Japan, 23-26.09.2025. 
 * Reviewer 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, Copenhagen, Denmark, 14-17.07.2025.
 * Reviewer INTERSPEECH 2025, ISCA, Rotterdam, The Netherlands, 17-21.08.2025.
 * Reviewer 50th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025), IEEE, Hyderabad, India, 06-11.04.2025.
