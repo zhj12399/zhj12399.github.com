@@ -45,6 +45,10 @@
 "Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
 **_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2.
 
+* Tianrui Jia\#, Haojie Zhang\#, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification",
+**_ACM MM_**, pp.1-11.
+
 * Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
 **_The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)_**, pp.1-5.
