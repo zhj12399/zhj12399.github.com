@@ -59,4 +59,4 @@
 
 * Mengkai Sun\#, Cho Min Ki\#, Lin Shen, **Haojie Zhang**, Han Yu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment", 
-**_The First International Conference on Cyborg and Bionic Systems_**, pp.1-14.
+**_The First International Conference on Cyborg and Bionic Systems_**, pp.1-14. 
