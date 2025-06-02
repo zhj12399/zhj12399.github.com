@@ -13,7 +13,7 @@
 "Body Sound Denoising Technologies: A Survey and Validation",
 **_Cyborg and Bionic Systems_**, pp.1-75.
 
-* Yang Tan, Haojie Zhang, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
+* Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
 "BBANet: Bilateral Biological Auditory-Inspired Neural Network Perceiving Multiple Attention for Heart Sound Classification",
 **_Knowledge-Based Systems_**, pp.1-33.
 
@@ -45,7 +45,7 @@
 "Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
 **_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2.
 
-* Tianrui Jia\#, Haojie Zhang\#, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+* Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification",
 **_ACM MM_**, pp.1-11.
 
@@ -57,6 +57,6 @@
 "Adolescent Suicidal Risk Detection via Speech Analysis: A CNN-Transformer Framework Enhanced by Knowledge Distillation",
 **_The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)_**, pp.1-5.
 
-* Mengkai Sun\#, Cho Min Ki\#, Lin Shen, Haojie Zhang, Han Yu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+* Mengkai Sun\#, Cho Min Ki\#, Lin Shen, **Haojie Zhang**, Han Yu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment", 
 **_The First International Conference on Cyborg and Bionic Systems_**, pp.1-14.
