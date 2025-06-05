@@ -33,7 +33,7 @@ in **_[Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)](https://www
 ```
 
 * Yang Tan, **Haojie Zhang**, Yi Chang, Qingrong Wu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
-"A Latent Diffusion Model for Heart Sound Synthesis",
+"[A Latent Diffusion Model for Heart Sound Synthesis](https://ieeexplore.ieee.org/document/11010636)",
 in **_Proceedings of the 2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT 2025)_**, pp.1-6, Xi'an, China, March 2025.
 
 ```bibtex
@@ -41,7 +41,7 @@ in **_Proceedings of the 2025 4th International Symposium on Computer Applicatio
   title={A Latent Diffusion Model for Heart Sound Synthesis},
   author={Tan, Yang and Zhang, Haojie and Chang, Yi and Wu, Qingrong and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. ISCAIT},
-  pages={1--6},
+  pages={1314-1319},
   year={2025},
   address={Xi'an, China}
 }
