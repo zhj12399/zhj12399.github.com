@@ -9,6 +9,8 @@
   title={Foundation Models for Digital Mental Health: Igniting the Dawn},
   author={Qian, Kun and Zhang, Haojie and Jing, Xin and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W},
   journal={Medicine Plus},
+  volume = {2},
+  number = {2},
   year={2025},
   pages = {100085}
 }
