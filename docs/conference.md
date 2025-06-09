@@ -57,7 +57,7 @@ in **_Proceedings of IEEE International Conference on Ubiquitous Intelligence an
   title={ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model},
   author={Li, Lujundong and Xia, Tong and Zhang, Haojie and He, Dongchen and Qian, Kun and Yamamoto, Yoshiharu and Schuller, Bj{\"o}rn W and Hu, Bin and Mascolo, Cecilia},
   booktitle={Proc. UIC},
-  pages={1--6},
+  pages={300--305},
   year={2024},
   address={Nadi, Fiji},
   organization={IEEE}
