@@ -50,7 +50,7 @@ in **_Proceedings of the 2025 4th International Symposium on Computer Applicatio
 ## 2024
 * Lujundong Li\#, Tong Xia\#, **Haojie Zhang**, Dongchen He, Kun Qian\*, Yoshiharu Yamamoto, Björn W. Schuller, Bin Hu\*, and Cecilia Mascolo,
 "[ECG-DPM: Electrocardiogram Generation via a Spectrogram-Based Diffusion Probabilistic Model](https://ieeexplore.ieee.org/document/10925073)",
-in **_Proceedings of IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)_**, pp.1-6, Denarau, Fiji, December 2024.
+in **_Proceedings of IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)_**, pp.300-305, Denarau, Fiji, December 2024.
 
 ```bibtex
 @inproceedings{li2024ecg,
