@@ -11,11 +11,15 @@
 
 * Enze Li\#, **Haojie Zhang\#**, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Body Sound Denoising Technologies: A Survey and Validation",
-**_Cyborg and Bionic Systems_**, pp.1-75.
+**_Signal Processing_**, pp.1-75.
 
 * Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
 "BBANet: Bilateral Biological Auditory-Inspired Neural Network Perceiving Multiple Attention for Heart Sound Classification",
 **_Knowledge-Based Systems_**, pp.1-33.
+
+* Zhihua Wang, Haojie Zhang, Zipeng Zhang, Yu Ying, Kun Qian*, Houguang Liu*, Bin Hu*, and Björn W. Schuller,
+"BrainLH: An End-to-End Interpretable Brain-Like Hearing Model for Power Equipment Detection",
+**_npj Acoustics_**, pp.1-15.
 
 * Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion",
