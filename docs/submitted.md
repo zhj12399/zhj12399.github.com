@@ -17,7 +17,7 @@
 "BBANet: Bilateral Biological Auditory-Inspired Neural Network Perceiving Multiple Attention for Heart Sound Classification",
 **_Knowledge-Based Systems_**, pp.1-33.
 
-* Zhihua Wang, Haojie Zhang, Zipeng Zhang, Yu Ying, Kun Qian*, Houguang Liu*, Bin Hu*, and Björn W. Schuller,
+* Zhihua Wang, **Haojie Zhang**, Zipeng Zhang, Yu Ying, Kun Qian\*, Houguang Liu\*, Bin Hu\*, and Björn W. Schuller,
 "BrainLH: An End-to-End Interpretable Brain-Like Hearing Model for Power Equipment Detection",
 **_npj Acoustics_**, pp.1-15.
 
@@ -65,6 +65,6 @@
 "Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment", 
 **_The First International Conference on Cyborg and Bionic Systems_**, pp.1-14. 
 
-* Vladimir Gurlev, Mengkai Sun, Haojie Zhang, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+* Vladimir Gurlev\#, Mengkai Sun\#, Haojie Zhang, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model",
-**_The 12th Conference on Sound and Music Technology_**
+**_The 12th Conference on Sound and Music Technology_**.
