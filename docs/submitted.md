@@ -64,3 +64,7 @@
 * Mengkai Sun\#, Cho Min Ki\#, Lin Shen, **Haojie Zhang**, Han Yu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment", 
 **_The First International Conference on Cyborg and Bionic Systems_**, pp.1-14. 
+
+* Vladimir Gurlev, Mengkai Sun, Haojie Zhang, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model",
+**_The 12th Conference on Sound and Music Technology_**
