@@ -37,6 +37,10 @@
 "A Novel Cross-Channel EEG Contrastive Learning Model for Depression Detection Based on Multi-Scale Temporal-Spectral Feature Fusion",
 **_IEEE Transactions on Affective Computing_**, pp.1-18.
 
+* Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, Haojie Zhang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
+"FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Dimensional Speech Emotion Recognition",
+**_Information Fusion_**, pp.1-22.
+
 * 钱昆, 赵中豪, 孙孟恺, 谭洋, **张昊杰**, 朱翠萍, 胡斌, 
 "音频-主动睡眠健康的新数字表型与非药物干预方法",
 
