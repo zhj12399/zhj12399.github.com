@@ -1,6 +1,6 @@
 # Journal Paper
 ## 2025
-* Qinglin Zhao, Lixin Zhang, Haojie Zhang, Hua Jiang, Kunbo Cui, Zhongqing Wu, Jingyu Liu, Mingqi Zhao, Fuze Tian\*, and Bin Hu\*, 
+* Qinglin Zhao, Lixin Zhang, **Haojie Zhang**, Hua Jiang, Kunbo Cui, Zhongqing Wu, Jingyu Liu, Mingqi Zhao, Fuze Tian\*, and Bin Hu\*, 
 "LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors",
 **_IEEE Transactions on Mobile Computing_**, pp.1-15, 2025.
 

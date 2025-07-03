@@ -29,10 +29,6 @@
 "Federated Prototype Learning for Valvular Heart Disease Recognition under Cross-institutional Heart Sound with Label Heterogeneity",
 **_IEEE Transactions on Neural Networks and Learning Systems_**, pp.1-11.
 
-* Qinglin Zhao, Lixin Zhang, **Haojie Zhang**, Hua Jiang, Kunbo Cui, Zhongqing Wu, Jingyu Liu, Mingqi Zhao, Fuze Tian\*, and Bin Hu\*,
-"LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors",
-**_IEEE Transactions on Mobile Computing_**, pp.1-14.
-
 * Zhihua Wang\#, Rui Wang\#, Zipeng Zhang, **Haojie Zhang**, Yang Tan, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "A Novel Cross-Channel EEG Contrastive Learning Model for Depression Detection Based on Multi-Scale Temporal-Spectral Feature Fusion",
 **_IEEE Transactions on Affective Computing_**, pp.1-18.
