@@ -1,5 +1,22 @@
 # Journal Paper
 ## 2025
+* Qinglin Zhao, Lixin Zhang, Haojie Zhang, Hua Jiang, Kunbo Cui, Zhongqing Wu, Jingyu Liu, Mingqi Zhao, Fuze Tian\*, and Bin Hu\*, 
+"LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors",
+**_IEEE Transactions on Mobile Computing_**, pp.1-15, 2025.
+
+```bibtex
+@article{zhao2025ai,
+  title={LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors},
+  author={Zhao, Qinglin and Zhang, Lixin and Zhang, Haojie and Jiang, Hua and Cui, Kunbo and Wu, Zhongqing and Liu, Jingyu and Zhao, Mingqi and Tian, Fuze and Hu, Bin},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2025},
+  volume={},
+  number={},
+  pages={1--15},
+  publisher={IEEE}
+}
+```
+
 * Kun Qian\*, **Haojie Zhang**, Xin Jing, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "[Foundation Models for Digital Mental Health: Igniting the Dawn](https://www.sciencedirect.com/science/article/pii/S2950347725000167)",
 **_Medicine Plus_**, pp.1-4, 2025.
