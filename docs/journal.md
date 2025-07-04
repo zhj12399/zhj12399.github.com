@@ -5,7 +5,7 @@
 **_IEEE Transactions on Mobile Computing_**, pp.1-15, 2025.
 
 ```bibtex
-@article{zhao2025ai,
+@article{zhao2025lsnn,
   title={LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors},
   author={Zhao, Qinglin and Zhang, Lixin and Zhang, Haojie and Jiang, Hua and Cui, Kunbo and Wu, Zhongqing and Liu, Jingyu and Zhao, Mingqi and Tian, Fuze and Hu, Bin},
   journal={IEEE Transactions on Mobile Computing},

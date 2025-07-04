@@ -4,9 +4,33 @@
 "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
 **_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
 
+```bibtex
+@inproceedings{zhang2025multiclass,
+  title={A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model},
+  author={Zhang, Haojie and Li, Enze and Tan, Yang and Shen, Lin and Zhang, Yongxin and Deng, Yilu and Qian, Kun and Li, Kezhi and Nakamura, Toru and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
+  booktitle ={Proc. GCCE},
+  year = {2025},
+  pages={1--2},
+  address={Osaka, Japan},
+  organization={IEEE}
+}
+```
+
 * Zhijing Cao\#, Lin Shen\#, Liuxian Ma, Xiaoxi Liu, **Haojie Zhang**, Yongxin Zhang, Yilu Deng, Kun Qian\*, Ruolan Huang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
 **_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
+
+```bibtex
+@inproceedings{cao2025somatisation,
+  title={Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet},
+  author={Cao, Zhijing and Shen, Lin and Ma, Liuxian and Liu, Xiaoxi and Zhang, Haojie and Zhang, Yongxin and Deng, Yilu and Qian, Kun and Huang, Ruolan and Nakamura, Toru and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
+  booktitle ={Proc. GCCE},
+  year = {2025},
+  pages={1--2},
+  address={Osaka, Japan},
+  organization={IEEE}
+}
+```
 
 * Chenhao Wu\#, Xiangjun Cai\#, **Haojie Zhang**, Tianrui Jia, Yilu Deng, Kun Qian, Björn W. Schuller, Yoshiharu Yamamoto, and Jiang Liu, 
 "Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation"
