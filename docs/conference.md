@@ -4,7 +4,7 @@
 "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
 **_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
 
-* Zhijing Cao\#, Lin Shen\#, Liuxian Ma, Xiaoxi Liu, **Haojie Zhang**, Yongxin Zhang, Yilu Deng, Kun Qian\*, Ruolan Huang, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto,
+* Zhijing Cao\#, Lin Shen\#, Liuxian Ma, Xiaoxi Liu, **Haojie Zhang**, Yongxin Zhang, Yilu Deng, Kun Qian\*, Ruolan Huang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
 **_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
 
