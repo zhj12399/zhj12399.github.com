@@ -41,14 +41,6 @@
 "音频-主动睡眠健康的新数字表型与非药物干预方法",
 
 ## Conference
-* **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Yongxin Zhang, Yilu Deng, Kun Qian\*, Kezhi Li, Toru Nakamura, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
-**_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2.
-
-* Zhijing Cao\#, Lin Shen\#, Liuxian Ma, Xiaoxi Liu, **Haojie Zhang**, Yongxin Zhang, Yilu Deng, Kun Qian\*, Ruolan Huang, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
-**_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2.
-
 * Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification",
 **_ACM MM_**, pp.1-11.

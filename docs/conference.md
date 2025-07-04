@@ -1,5 +1,13 @@
 # Conference Paper
 ## 2025
+* **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Yongxin Zhang, Yilu Deng, Kun Qian\*, Kezhi Li, Toru Nakamura, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
+**_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
+
+* Zhijing Cao\#, Lin Shen\#, Liuxian Ma, Xiaoxi Liu, **Haojie Zhang**, Yongxin Zhang, Yilu Deng, Kun Qian\*, Ruolan Huang, Bin Hu, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
+**_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
+
 * Chenhao Wu\#, Xiangjun Cai\#, **Haojie Zhang**, Tianrui Jia, Yilu Deng, Kun Qian, Björn W. Schuller, Yoshiharu Yamamoto, and Jiang Liu, 
 "Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation"
 in **_Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)_**, pp.1-5, Rotterdam, The Netherlands, August 2025.
