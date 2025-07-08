@@ -1,7 +1,7 @@
 # Journal Paper
 ## 2025
 * Qinglin Zhao, Lixin Zhang, **Haojie Zhang**, Hua Jiang, Kunbo Cui, Zhongqing Wu, Jingyu Liu, Mingqi Zhao, Fuze Tian\*, and Bin Hu\*, 
-"LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors",
+"[LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors](https://ieeexplore.ieee.org/document/11072318)",
 **_IEEE Transactions on Mobile Computing_**, pp.1-15, 2025.
 
 ```bibtex
@@ -60,9 +60,9 @@
   author={Zhang, Haojie and Tian, Fuze and Tan, Yang and Shen, Lin and Liu, Jingyu and Liu, Jie and Qian, Kun and Han, Yalei and Su, Gong and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   journal={IEEE Transactions on Mobile Computing},
   year={2025},
-  volume={},
-  number={},
-  pages={1--15},
+  volume={24},
+  number={8},
+  pages={7252--7266},
   publisher={IEEE}
 }
 ```
