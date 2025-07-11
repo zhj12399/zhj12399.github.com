@@ -4,6 +4,17 @@
 "Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment",
 **_The First International Conference on Cyborg and Bionic Systems (ICCBS 2025)_**, pp.1-14, Singapore, July 2025.
 
+```bibtex
+@inproceedings{cho2025abnormal,
+  title={Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment},
+  author={Cho, Minki and Sun, Mengkai and Shen, Lin and Zhang, Haojie and Yu, Han and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
+  booktitle ={Proc. ICCBS},
+  year = {2025},
+  pages={1--14},
+  address={Singapore}
+}
+```
+
 * **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Yongxin Zhang, Yilu Deng, Kun Qian\*, Kezhi Li, Toru Nakamura, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
 **_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
