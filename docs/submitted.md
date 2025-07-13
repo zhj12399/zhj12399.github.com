@@ -13,6 +13,8 @@
 "Body Sound Denoising Technologies: A Survey and Validation",
 **_Signal Processing_**, pp.1-75.
 
+* Zhihua Wang\#,
+
 * Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
 "BBANet: Bilateral Biological Auditory-Inspired Neural Network Perceiving Multiple Attention for Heart Sound Classification",
 **_Knowledge-Based Systems_**, pp.1-33.
@@ -52,10 +54,6 @@
 * Yiming Liu\#, Enze Li\#, **Haojie Zhang**, Ruobing Li, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Adolescent Suicidal Risk Detection via Speech Analysis: A CNN-Transformer Framework Enhanced by Knowledge Distillation",
 **_The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)_**, pp.1-5.
-
-* Mengkai Sun\#, Cho Min Ki\#, Lin Shen, **Haojie Zhang**, Han Yu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment", 
-**_The First International Conference on Cyborg and Bionic Systems_**, pp.1-14. 
 
 * Vladimir Gurlev\#, Mengkai Sun\#, Haojie Zhang, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model",
