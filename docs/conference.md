@@ -131,7 +131,7 @@ in **_Proceedings of Conference on Sound and Music Technology (CSMT)_**, pp.1-12
 in **_Proceedings of IEEE International Conference on E-Health Networking, Applications and Services (HealthCom)_**, pp.1-5, Nara, Japan, November 2024.
 
 ```bibtex
-@inproceedings{gao2024lubdub,
+@inproceedings{gao2024clearer,
   title={Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning},
   author={Gao, Peng and Zhang, Haojie and Shen, Lin and Zhang, Yongxin and Liu, Jiang and Qian, Kun and Hu, Bin and Schuller, Bj{\"o}rn W and Yamamoto, Yoshiharu},
   booktitle={Proc. HealthCom},
