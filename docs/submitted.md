@@ -3,7 +3,7 @@
 
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Enze Li, Jiedong Ma, Jingyu Liu, Kun Qian\*, Jing Li\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "Towards Universal Colorectal Cancer Diagnosis: A Bowel Sound-Based System with Portable Sensor and On-Board Lightweight AI Model",
-**_IEEE Internet of Things Journal_**, pp.1-14.
+**_IEEE Internet of Things Journal_**, pp.1-15.
 
 * Fuze Tian\*\#, **Haojie Zhang\#**, Jie Liu, Jingyu Liu, Mingqi Zhao, Kun Qian\*, Qinglin Zhao, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "An On-Board Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals", 
@@ -11,9 +11,11 @@
 
 * Enze Li\#, **Haojie Zhang\#**, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Body Sound Denoising Technologies: A Survey and Validation",
-**_Signal Processing_**, pp.1-75.
+**_Biomedical Signal Processing and Control_**, pp.1-75.
 
-* Zhihua Wang\#,
+* Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
+"Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study"
+**_IEEE Journal of Biomedical and Health Informatics_**, pp.1-13.
 
 * Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
 "BBANet: Bilateral Biological Auditory-Inspired Neural Network Perceiving Multiple Attention for Heart Sound Classification",
@@ -45,16 +47,16 @@
 ## Conference
 * Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification",
-**_ACM MM_**, pp.1-11.
+**_AAAI_**, pp.1-11.
 
 * Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
-**_The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)_**, pp.1-5.
+**_ICASSP_**, pp.1-5.
 
 * Yiming Liu\#, Enze Li\#, **Haojie Zhang**, Ruobing Li, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Adolescent Suicidal Risk Detection via Speech Analysis: A CNN-Transformer Framework Enhanced by Knowledge Distillation",
-**_The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)_**, pp.1-5.
+**__**, pp.1-5.
 
 * Vladimir Gurlev\#, Mengkai Sun\#, Haojie Zhang, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model",
-**_The 12th Conference on Sound and Music Technology_**.
+**_The 12th Conference on Sound and Music Technology (CSMT)_**.
