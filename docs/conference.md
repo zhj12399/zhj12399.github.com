@@ -2,7 +2,7 @@
 ## 2025
 * Min Ki Cho\#, Mengkai Sun\#, Lin Shen, **Haojie Zhang**, Han Yu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment",
-**_The First International Conference on Cyborg and Bionic Systems (ICCBS 2025)_**, pp.1-14, Singapore, July 2025.
+in **_Proceedings of the First International Conference on Cyborg and Bionic Systems (ICCBS 2025)_**, pp.1-14, Singapore, July 2025.
 
 ```bibtex
 @inproceedings{cho2025abnormal,
@@ -17,7 +17,7 @@
 
 * **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Yongxin Zhang, Yilu Deng, Kun Qian\*, Kezhi Li, Toru Nakamura, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
-**_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
+in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
 
 ```bibtex
 @inproceedings{zhang2025multiclass,
@@ -33,7 +33,7 @@
 
 * Zhijing Cao\#, Lin Shen\#, Liuxian Ma, Xiaoxi Liu, **Haojie Zhang**, Yongxin Zhang, Yilu Deng, Kun Qian\*, Ruolan Huang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
-**_2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
+in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
 
 ```bibtex
 @inproceedings{cao2025somatisation,
