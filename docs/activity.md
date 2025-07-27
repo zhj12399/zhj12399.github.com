@@ -1,4 +1,7 @@
 # Activity
+## 2025
+* Oral Report for the IEEE GCEE, Osaka, Japan, "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model", 2025.
+
 ## 2024
 * Volunteer for the 11th Conference on Sound and Music Technology (CSMT), Wuhan, China, October 11-13, 2024.
 * Oral Report for the CSMT, "[Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis](https://www.researchgate.net/publication/385419820_Advancing_Metadata-Convolutional_Neural_Networks_with_Multi-Supervised_Contrastive_Learning_and_Metadata_Insights_for_Respiratory_Sound_Analysis)", Wuhan, China, October 12, 2024.
@@ -9,11 +12,13 @@
 * Attend the 8th Music Industry Forum, Beijing, China, May 19, 2023.
 
 # Member
-* IEEE Graduate Student Member.
+* IEEE Graduate Student Member, since 2023.
 
 # Review
 ## Journal Review
 * Reviewer Molecular & Cellular Biomechanics, SIN-CHN SCIENTIFIC PRESS, since 2025.
+* Reviewer Digital Signal Processing, Elsevier, IF-2024:3, since 2025.
+* Reviewer Engineering Applications of Artificial Intelligence, Elsevier, IF-2024:8, since 2025.
 
 ## Conference Review
 
