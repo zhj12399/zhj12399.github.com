@@ -17,8 +17,8 @@
 # Review
 ## Journal Review
 * Reviewer Molecular & Cellular Biomechanics, SIN-CHN SCIENTIFIC PRESS, since 2025.
-* Reviewer Digital Signal Processing, Elsevier, IF-2024:3, since 2025.
-* Reviewer Engineering Applications of Artificial Intelligence, Elsevier, IF-2024:8, since 2025.
+* Reviewer Digital Signal Processing, Elsevier, IF-2024:3.0, since 2025.
+* Reviewer Engineering Applications of Artificial Intelligence, Elsevier, IF-2024:8.0, since 2025.
 
 ## Conference Review
 
