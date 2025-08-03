@@ -6,7 +6,7 @@
 
 * Kun Qian\*, **Haojie Zhang**, Xin Jing, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "[Foundation Models for Digital Mental Health: Igniting the Dawn](https://www.sciencedirect.com/science/article/pii/S2950347725000167)",
-**_Medicine Plus_**, pp.1-4, 2025.
+**_Medicine Plus_**, vol.2, no.2, pp.100085, 2025.
 
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System](https://ieeexplore.ieee.org/document/10949681)", 
@@ -14,7 +14,7 @@
 
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Jingyu Liu, Jie Liu, Kun Qian\*, Yalei Han, Gong Su\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model](https://ieeexplore.ieee.org/document/10909628)", 
-**_IEEE Transactions on Mobile Computing_**, pp.1-15, 2025.
+**_IEEE Transactions on Mobile Computing_**, vol.24, no.8, pp.7252-7252, 2025.
 
 * Fuze Tian\#\*, **Haojie Zhang\#**, Yang Tan, Lixian Zhu, Lin Shen, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis](https://ieeexplore.ieee.org/document/10736629)", 

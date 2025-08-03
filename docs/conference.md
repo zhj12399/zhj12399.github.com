@@ -30,8 +30,8 @@ in **_Proceedings of the 2025 4th International Symposium on Computer Applicatio
 in **_Proceedings of IEEE International Conference on Ubiquitous Intelligence and Computing (UIC)_**, pp.300-305, Denarau, Fiji, December 2024.
 
 * Miao Liu\#, **Haojie Zhang\#**, Kun Qian\*, Bin Hu, Toru Nakamura, Taishin Nomura, Jian Zhang, Zhangguo Tang, Björn W. Schuller, Yoshiharu Yamamoto, and Huanzhou Li\*,
-"[Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis](https://www.researchgate.net/publication/385419820_Advancing_Metadata-Convolutional_Neural_Networks_with_Multi-Supervised_Contrastive_Learning_and_Metadata_Insights_for_Respiratory_Sound_Analysis)",
-in **_Proceedings of Conference on Sound and Music Technology (CSMT)_**, pp.1-12, Wuhan, China, October 2024.
+"[Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis](https://link.springer.com/chapter/10.1007/978-981-96-4783-5_3)",
+in **_Proceedings of Conference on Sound and Music Technology (CSMT)_**, pp.25-36, Wuhan, China, October 2024.
 
 * Peng Gao\#, **Haojie Zhang\#**, Lin Shen, Yongxin Zhang, Jiang Liu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning](https://ieeexplore.ieee.org/document/10880716)",
