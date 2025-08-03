@@ -1,6 +1,6 @@
 # Activity
 ## 2025
-* Oral Report for the IEEE GCEE, Osaka, Japan, "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model", 2025.
+* Oral Report for the IEEE GCEE, "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model", Osaka, Japan, September 23, 2025.
 
 ## 2024
 * Volunteer for the 11th Conference on Sound and Music Technology (CSMT), Wuhan, China, October 11-13, 2024.
@@ -22,6 +22,7 @@
 
 ## Conference Review
 
+* Reviewer 12th National Conference on Man-Machine Speech Communication (NCMMSC 2025), Zhenjiang, China, 16-19.10.2025.
 * Reviewer 14th IEEE Global Conference on Consumer Electronics (GCCE), IEEE, Osaka, Japan, 23-26.09.2025. 
 * Reviewer 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, Copenhagen, Denmark, 14-17.07.2025.
 * Reviewer INTERSPEECH 2025, ISCA, Rotterdam, The Netherlands, 17-21.08.2025.
