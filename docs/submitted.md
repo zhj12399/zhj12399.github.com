@@ -1,10 +1,5 @@
 # Submitted
 ## Journal
-
-* **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Enze Li, Jiedong Ma, Jingyu Liu, Kun Qian\*, Jing Li\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
-"Towards Universal Colorectal Cancer Diagnosis: A Bowel Sound-Based System with Portable Sensor and On-Board Lightweight AI Model",
-**_IEEE Internet of Things Journal_**, pp.1-15.
-
 * Fuze Tian\*\#, **Haojie Zhang\#**, Jie Liu, Jingyu Liu, Mingqi Zhao, Kun Qian\*, Qinglin Zhao, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "An On-Board Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals", 
 **_IEEE Transactions on Instrumentation and Measurement_**, pp.1-19.
