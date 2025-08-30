@@ -13,12 +13,12 @@ in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronic
 in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
 
 * Chenhao Wu\#, Xiangjun Cai\#, **Haojie Zhang**, Tianrui Jia, Yilu Deng, Kun Qian, Björn W. Schuller, Yoshiharu Yamamoto, and Jiang Liu, 
-"Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation"
-in **_Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)_**, pp.1-5, Rotterdam, The Netherlands, August 2025.
+"[Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation](https://www.isca-archive.org/interspeech_2025/wu25c_interspeech.html#)"
+in **_Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)_**, pp.1708-1712, Rotterdam, The Netherlands, August 2025.
 
 * Zijing Yang\*, Meishu Song, Xin Jing, **Haojie Zhang**, Kun Qian, Bin Hu, Kota Tamada, Toru Takumi, Björn W. Schuller, and Yoshiharu Yamamoto,
-"[MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge](https://arxiv.org/abs/2501.04292)",
-in **_[Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)](https://www.interspeech2025.org/home)_**, Challenge Baseline, [Challenge Page](https://www.mad-uv.org), pp.1-5, Rotterdam, The Netherlands, August 2025.
+"[MAD-UV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge](https://www.isca-archive.org/interspeech_2025/yang25b_interspeech.html#)",
+in **_[Proceedings of the 26th INTERSPEECH Conference (INTERSPEECH)](https://www.interspeech2025.org/home)_**, Challenge Baseline, [Challenge Page](https://www.mad-uv.org), pp.1718--1722, Rotterdam, The Netherlands, August 2025.
 
 * Yang Tan, **Haojie Zhang**, Yi Chang, Qingrong Wu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[A Latent Diffusion Model for Heart Sound Synthesis](https://ieeexplore.ieee.org/document/11010636)",

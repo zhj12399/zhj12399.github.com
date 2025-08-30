@@ -22,6 +22,8 @@
 
 ## Conference Review
 
+* Reviewer 19th IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025), Wuhan, China, 15-18.12.2025.
+* Reviewer 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 20-27.1.2026.
 * Reviewer 12th National Conference on Man-Machine Speech Communication (NCMMSC 2025), Zhenjiang, China, 16-19.10.2025.
 * Reviewer 14th IEEE Global Conference on Consumer Electronics (GCCE), IEEE, Osaka, Japan, 23-26.09.2025. 
 * Reviewer 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, Copenhagen, Denmark, 14-17.07.2025.
