@@ -14,7 +14,7 @@
 
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System](https://ieeexplore.ieee.org/document/10949681)", 
-**_IEEE Transactions on Affective Computing_**, pp.1-16, 2025.
+**_IEEE Transactions on Affective Computing_**, vol.16, no.3, pp.2245-2260, 2025.
 
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Jingyu Liu, Jie Liu, Kun Qian\*, Yalei Han, Gong Su\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model](https://ieeexplore.ieee.org/document/10909628)", 
