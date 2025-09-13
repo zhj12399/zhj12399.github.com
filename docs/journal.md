@@ -1,5 +1,9 @@
 # Journal Paper
 ## 2025
+* Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, Yang Tan, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
+"FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition",
+**_Information Fusion_**, pp.1-25, 2025.
+
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Enze Li, Jiedong Ma, Jingyu Liu, Kun Qian\*, Jing Li\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Towards Practical Colorectal Cancer Diagnosis: A Bowel Sound-Based System with Portable Sensor and On-Board Lightweight AI Model](https://ieeexplore.ieee.org/abstract/document/11131175)",
 **_IEEE Internet of Things Journal_**, pp.1-15, 2025.
