@@ -1,6 +1,6 @@
 # Journal Paper
 ## 2025
-* Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, Yang Tan, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
+* Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition",
 **_Information Fusion_**, pp.1-25, 2025.
 
