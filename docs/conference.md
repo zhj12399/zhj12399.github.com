@@ -72,4 +72,4 @@ in **_Proceedings of IEEE International Conference on Data Mining Workshops (ICD
 
 * **Haojie Zhang**, Kun Qian\*, Lin Shen, Lujundong Li, Kele Xu\*, and Bin Hu\*,
 "[From Noise To Sound: Audio Synthesis Via Diffusion Models](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf)",
-**_Technical Report for DCASE2023 Challenge_**, pp. 1-4, Tampere, Finland, September 2023.
+**_Technical Report for DCASE2023 Challenge_**, pp.1-4, Tampere, Finland, September 2023.
