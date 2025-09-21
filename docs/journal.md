@@ -1,5 +1,9 @@
 # Journal Paper
 ## 2025
+* Fuze Tian\*\#, **Haojie Zhang\#**, Jie Liu, Jingyu Liu, Mingqi Zhao, Kun Qian\*, Qinglin Zhao, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
+"An On-Board Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals",
+**_IEEE Transactions on Instrumentation and Measurement_**, pp.1-20, 2025.
+
 * Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "[FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S1566253525008073)",
 **_Information Fusion_**, in press, pp.1-25, 2025.

@@ -1,9 +1,5 @@
 # Submitted
 ## Journal
-* Fuze Tian\*\#, **Haojie Zhang\#**, Jie Liu, Jingyu Liu, Mingqi Zhao, Kun Qian\*, Qinglin Zhao, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
-"An On-Board Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals", 
-**_IEEE Transactions on Instrumentation and Measurement_**, pp.1-19.
-
 * Enze Li\#, **Haojie Zhang\#**, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Body Sound Denoising Technologies: A Survey and Validation",
 **_Biomedical Signal Processing and Control_**, pp.1-75.
@@ -31,10 +27,6 @@
 * Zhihua Wang\#, Rui Wang\#, Zipeng Zhang, **Haojie Zhang**, Yang Tan, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "A Novel Cross-Channel EEG Contrastive Learning Model for Depression Detection Based on Multi-Scale Temporal-Spectral Feature Fusion",
 **_IEEE Transactions on Affective Computing_**, pp.1-18.
-
-* Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, Haojie Zhang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Dimensional Speech Emotion Recognition",
-**_Information Fusion_**, pp.1-22.
 
 * 钱昆, 赵中豪, 孙孟恺, 谭洋, **张昊杰**, 朱翠萍, 胡斌, 
 "音频-主动睡眠健康的新数字表型与非药物干预方法",
