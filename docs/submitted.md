@@ -38,7 +38,7 @@
 
 * Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
-**_ICASSP_**, pp.1-5.
+**_CSMT_**, pp.1-5.
 
 * Yiming Liu\#, Enze Li\#, **Haojie Zhang**, Ruobing Li, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Adolescent Suicidal Risk Detection via Speech Analysis: A CNN-Transformer Framework Enhanced by Knowledge Distillation",
