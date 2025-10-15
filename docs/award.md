@@ -1,5 +1,11 @@
 # Award
 ## 2025
+* Yifan Feng, **Haojie Zhang**, Ruobing Li, Rui Wang,
+Supervisor: Kun Qian, Bin Hu,
+基于心音的老年人心脏高发病智能感知边缘计算设备及系统,
+_Third Prize_ (National Level),
+[The 7th China Graduate AI Innovation Competition (“华为杯”中国研究生人工智能创新大赛)](https://cpipc.acge.org.cn/), China, September 2024.
+
 * 研究生国家奖学金, 2025.
 
 * 北京理工大学研究生出国境参加国际学术会议特别资助, IEEE GCCE, Osaka, Japan, 2025.
