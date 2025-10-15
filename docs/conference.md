@@ -1,5 +1,9 @@
 # Conference Paper
 ## 2025
+* Vladimir Gurlev\#, Mengkai Sun\#, Haojie Zhang, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model",
+**_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp.1-12, Hohhot, China, November 2025.
+
 * Min Ki Cho\#, Mengkai Sun\#, Lin Shen, **Haojie Zhang**, Han Yu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment",
 in **_Proceedings of the First International Conference on Cyborg and Bionic Systems (ICCBS 2025)_**, pp.1-14, Singapore, July 2025.
@@ -31,7 +35,7 @@ in **_Proceedings of IEEE International Conference on Ubiquitous Intelligence an
 
 * Miao Liu\#, **Haojie Zhang\#**, Kun Qian\*, Bin Hu, Toru Nakamura, Taishin Nomura, Jian Zhang, Zhangguo Tang, Björn W. Schuller, Yoshiharu Yamamoto, and Huanzhou Li\*,
 "[Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis](https://link.springer.com/chapter/10.1007/978-981-96-4783-5_3)",
-in **_Proceedings of Conference on Sound and Music Technology (CSMT)_**, pp.25-36, Wuhan, China, October 2024.
+in **_Proceedings of 11th Conference on Sound and Music Technology (CSMT)_**, pp.25-36, Wuhan, China, October 2024.
 
 * Peng Gao\#, **Haojie Zhang\#**, Lin Shen, Yongxin Zhang, Jiang Liu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning](https://ieeexplore.ieee.org/document/10880716)",
