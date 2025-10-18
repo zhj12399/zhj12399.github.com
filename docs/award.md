@@ -1,5 +1,9 @@
 # Award
 ## 2025
+* IEEE GCCE 2025 Oral Presentation Award, 
+“A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model”, 
+IEEE GCCE 2025, Osaka, Japan, September 2025.
+
 * Yifan Feng, **Haojie Zhang**, Ruobing Li, Rui Wang,
 Supervisor: Kun Qian, Bin Hu,
 基于心音的老年人心脏高发病智能感知边缘计算设备及系统,
