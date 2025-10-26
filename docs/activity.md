@@ -22,6 +22,7 @@
 
 ## Conference Review
 
+* Reviewer ACM Conference on Human Factors in Computing Systems (ACM CHI 2026), Barcelona Spain, 13–17 April, 2026
 * Reviewer 19th IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025), Wuhan, China, 15-18.12.2025.
 * Reviewer 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 20-27.1.2026.
 * Reviewer 12th National Conference on Man-Machine Speech Communication (NCMMSC 2025), Zhenjiang, China, 16-19.10.2025.
