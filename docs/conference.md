@@ -8,10 +8,6 @@ in **_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp
 "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model",
 in **_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp.1-12, Hohhot, China, November 2025.
 
-* Min Ki Cho\#, Mengkai Sun\#, Lin Shen, **Haojie Zhang**, Han Yu, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
-"Abnormal Heart Sound Detection with Reinforcement Learning in Similar Environment",
-in **_Proceedings of the First International Conference on Cyborg and Bionic Systems (ICCBS 2025)_**, pp.1-14, Singapore, July 2025.
-
 * **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Yongxin Zhang, Yilu Deng, Kun Qian\*, Kezhi Li, Toru Nakamura, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
 in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
