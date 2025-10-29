@@ -6,15 +6,15 @@
 
 * Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "[FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S1566253525008073)",
-**_Information Fusion_**, in press, pp.1-25, 2025.
+**_Information Fusion_**, vol.127, pp.103745, 2025.
 
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Enze Li, Jiedong Ma, Jingyu Liu, Kun Qian\*, Jing Li\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Towards Practical Colorectal Cancer Diagnosis: A Bowel Sound-Based System with Portable Sensor and On-Board Lightweight AI Model](https://ieeexplore.ieee.org/document/11131175)",
-**_IEEE Internet of Things Journal_**, in press, pp.1-15, 2025.
+**_IEEE Internet of Things Journal_**, vol.12, no.21, pp.45722-45736, 2025.
 
 * Qinglin Zhao, Lixin Zhang, **Haojie Zhang**, Hua Jiang, Kunbo Cui, Zhongqing Wu, Jingyu Liu, Mingqi Zhao, Fuze Tian\*, and Bin Hu\*, 
 "[LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors](https://ieeexplore.ieee.org/document/11072318)",
-**_IEEE Transactions on Mobile Computing_**, in press, pp.1-15, 2025.
+**_IEEE Transactions on Mobile Computing_**, vol.24, no.11, pp.12640-12654, 2025.
 
 * Kun Qian\*, **Haojie Zhang**, Xin Jing, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "[Foundation Models for Digital Mental Health: Igniting the Dawn](https://www.sciencedirect.com/science/article/pii/S2950347725000167)",

@@ -1,5 +1,7 @@
 # Award
 ## 2025
+* 北京理工大学研究生特等学业奖学金, 2025.
+
 * IEEE GCCE 2025 Oral Presentation Award, 
 “A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model”, 
 IEEE GCCE 2025, Osaka, Japan, September 2025.
