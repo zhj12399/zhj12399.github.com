@@ -1,5 +1,6 @@
 # Activity
 ## 2025
+* Volunteer for the 12th Conference on Sound and Music Technology (CSMT), Hohhot, China, November 7-9, 2024.
 * Oral Report for the IEEE GCEE, "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model", Osaka, Japan, September 23, 2025.
 
 ## 2024
@@ -16,9 +17,9 @@
 
 # Review
 ## Journal Review
+* Reviewer Neural Networks, Elsevier, IF-2024:6.3, since 2025.
 * Reviewer Engineering Applications of Artificial Intelligence, Elsevier, IF-2024:8.0, since 2025.
 * Reviewer Digital Signal Processing, Elsevier, IF-2024:3.0, since 2025.
-* Reviewer Molecular & Cellular Biomechanics, SIN-CHN SCIENTIFIC PRESS, since 2025.
 
 ## Conference Review
 
