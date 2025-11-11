@@ -1,11 +1,12 @@
 # Activity
 ## 2025
-* Volunteer for the 12th Conference on Sound and Music Technology (CSMT), Hohhot, China, November 7-9, 2024.
+* Oral Report for the 12th CSMT, "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model", Hohhot, China, November 9, 2025.
+* Volunteer for the 12th Conference on Sound and Music Technology (CSMT), Hohhot, China, November 7-9, 2025.
 * Oral Report for the IEEE GCEE, "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model", Osaka, Japan, September 23, 2025.
 
 ## 2024
 * Volunteer for the 11th Conference on Sound and Music Technology (CSMT), Wuhan, China, October 11-13, 2024.
-* Oral Report for the CSMT, "[Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis](https://www.researchgate.net/publication/385419820_Advancing_Metadata-Convolutional_Neural_Networks_with_Multi-Supervised_Contrastive_Learning_and_Metadata_Insights_for_Respiratory_Sound_Analysis)", Wuhan, China, October 12, 2024.
+* Oral Report for the 11th CSMT, "[Advancing Metadata-Convolutional with Multi-Supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis](https://www.researchgate.net/publication/385419820_Advancing_Metadata-Convolutional_Neural_Networks_with_Multi-Supervised_Contrastive_Learning_and_Metadata_Insights_for_Respiratory_Sound_Analysis)", Wuhan, China, October 12, 2024.
 
 ## 2023
 * Attend the Summit on Music Intelligence (世界音乐人工智能大会), Central Conservatory of Music, Beijing, China, October 29, 2023.
