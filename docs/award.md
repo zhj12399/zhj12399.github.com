@@ -1,5 +1,9 @@
 # Award
 ## 2025
+* 北京理工大学校级研究生优秀学生, 2025.
+
+* 面向心血管疾病早期筛查的智能心音辅助诊断设备与系统, Third Prize, 3 Minute Thesis, Proceedings of 12th CSMT, November 2025.
+
 * 北京理工大学研究生特等学业奖学金, 2025.
 
 * IEEE GCCE 2025 Oral Presentation Award, 

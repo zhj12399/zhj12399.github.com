@@ -1,5 +1,9 @@
 # Journal Paper
 ## 2025
+* Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
+"BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification",
+**_Engineering Applications of Artificial Intelligence_**, pp.1-41, 2025.
+
 * Fuze Tian\*\#, **Haojie Zhang\#**, Jie Liu, Jingyu Liu, Mingqi Zhao, Kun Qian\*, Qinglin Zhao, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[An On-Board Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals](https://ieeexplore.ieee.org/document/11192554/)",
 **_IEEE Transactions on Instrumentation and Measurement_**, vol.74, pp.1-20, 2025.

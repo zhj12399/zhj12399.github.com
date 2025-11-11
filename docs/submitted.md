@@ -8,10 +8,6 @@
 "Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study"
 **_IEEE Journal of Biomedical and Health Informatics_**, pp.1-13.
 
-* Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
-"BBANet: Bilateral Biological Auditory-Inspired Neural Network Perceiving Multiple Attention for Heart Sound Classification",
-**_Knowledge-Based Systems_**, pp.1-33.
-
 * Zhihua Wang, **Haojie Zhang**, Zipeng Zhang, Yu Ying, Kun Qian\*, Houguang Liu\*, Bin Hu\*, and Björn W. Schuller,
 "BrainLH: An End-to-End Interpretable Brain-Like Hearing Model for Power Equipment Detection",
 **_npj Acoustics_**, pp.1-15.
@@ -28,13 +24,15 @@
 "A Novel Cross-Channel EEG Contrastive Learning Model for Depression Detection Based on Multi-Scale Temporal-Spectral Feature Fusion",
 **_IEEE Transactions on Affective Computing_**, pp.1-18.
 
+* Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification",
+**_BSPC_**, pp.1-11.
+
 * 钱昆, 赵中豪, 孙孟恺, 谭洋, **张昊杰**, 朱翠萍, 胡斌, 
 "音频-主动睡眠健康的新数字表型与非药物干预方法",
 
 ## Conference
-* Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification",
-**_AAAI_**, pp.1-11.
+
 
 * Yiming Liu\#, Enze Li\#, **Haojie Zhang**, Ruobing Li, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Adolescent Suicidal Risk Detection via Speech Analysis: A CNN-Transformer Framework Enhanced by Knowledge Distillation",
