@@ -24,7 +24,7 @@ _Third Prize_ (National Level),
 科研创新榜样, 2025.
 
 * 中国电⼦⾳响行业协会声⾳与⾳乐技术专委会(CAIA-SMT), 
-"[新秀奖](https://github.com/zhj12399/zhj12399.github.com/blob/main/docs/pdf/关于表彰声音与音乐技术专委会优秀常委的决定.pdf)", 2025.
+"新秀奖", 2025.
 
 ## 2024
 
