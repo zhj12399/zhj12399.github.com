@@ -1,16 +1,21 @@
 # Journal Paper
+## 2026
+* Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
+"[FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S1566253525008073)",
+**_Information Fusion_**, vol.127, pp.103745, 2026.
+
 ## 2025
 * Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
 "BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification",
 **_Engineering Applications of Artificial Intelligence_**, pp.1-41, 2025.
 
+* Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",
+**_IEEE Transactions on Consumer Electronics_**, vol.71, no.3, pp.7439-7453, 2025.
+
 * Fuze Tian\*\#, **Haojie Zhang\#**, Jie Liu, Jingyu Liu, Mingqi Zhao, Kun Qian\*, Qinglin Zhao, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[An On-Board Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals](https://ieeexplore.ieee.org/document/11192554/)",
 **_IEEE Transactions on Instrumentation and Measurement_**, vol.74, pp.1-20, 2025.
-
-* Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
-"[FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S1566253525008073)",
-**_Information Fusion_**, vol.127, pp.103745, 2025.
 
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Enze Li, Jiedong Ma, Jingyu Liu, Kun Qian\*, Jing Li\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Towards Practical Colorectal Cancer Diagnosis: A Bowel Sound-Based System with Portable Sensor and On-Board Lightweight AI Model](https://ieeexplore.ieee.org/document/11131175)",
@@ -35,9 +40,3 @@
 * Fuze Tian\#\*, **Haojie Zhang\#**, Yang Tan, Lixian Zhu, Lin Shen, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis](https://ieeexplore.ieee.org/document/10736629)", 
 **_IEEE Journal of Biomedical and Health Informatics_**, vol.29, no.1, pp.152-165, 2025.
-
-## 2024
-
-* Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
-"[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)", 
-**_IEEE Transactions on Consumer Electronics_**, in press, pp.1-15, 2024.
