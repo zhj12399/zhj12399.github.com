@@ -15,7 +15,7 @@
 
 * Fuze Tian\*\#, **Haojie Zhang\#**, Jie Liu, Jingyu Liu, Mingqi Zhao, Kun Qian\*, Qinglin Zhao, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[An On-Board Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals](https://ieeexplore.ieee.org/document/11192554/)",
-**_IEEE Transactions on Instrumentation and Measurement_**, vol.74, pp.1-20, 2025.
+**_IEEE Transactions on Instrumentation and Measurement_**, vol.74, pp.4018620, 2025.
 
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Enze Li, Jiedong Ma, Jingyu Liu, Kun Qian\*, Jing Li\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Towards Practical Colorectal Cancer Diagnosis: A Bowel Sound-Based System with Portable Sensor and On-Board Lightweight AI Model](https://ieeexplore.ieee.org/document/11131175)",
