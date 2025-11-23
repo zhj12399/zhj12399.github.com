@@ -18,14 +18,16 @@
 
 # Review
 ## Journal Review
-* Reviewer Intelligent Systems with Applications, IF-2024:4.3, since 2025.
+* Reviewer The Journal of Supercomputing, Springer, IF-2024:2.7, since 2025.
+* Reviewer Intelligent Systems with Applications, Elsevier, IF-2024:4.3, since 2025.
 * Reviewer Neural Networks, Elsevier, IF-2024:6.3, since 2025.
 * Reviewer Engineering Applications of Artificial Intelligence, Elsevier, IF-2024:8.0, since 2025.
 * Reviewer Digital Signal Processing, Elsevier, IF-2024:3.0, since 2025.
 
 ## Conference Review
 
-* Reviewer ACM Conference on Human Factors in Computing Systems (ACM CHI 2026), Barcelona Spain, 13–17 April, 2026
+* Reviewer 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), IEEE, Hyderabad, India, 04-08.05.2026.
+* Reviewer ACM Conference on Human Factors in Computing Systems (ACM CHI 2026), Barcelona Spain, 13–17.04.2026
 * Reviewer 19th IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025), Wuhan, China, 15-18.12.2025.
 * Reviewer 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 20-27.1.2026.
 * Reviewer 12th National Conference on Man-Machine Speech Communication (NCMMSC 2025), Zhenjiang, China, 16-19.10.2025.
