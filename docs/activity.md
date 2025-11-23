@@ -18,6 +18,7 @@
 
 # Review
 ## Journal Review
+* Reviewer Intelligent Systems with Applications, IF-2024:4.3, since 2025.
 * Reviewer Neural Networks, Elsevier, IF-2024:6.3, since 2025.
 * Reviewer Engineering Applications of Artificial Intelligence, Elsevier, IF-2024:8.0, since 2025.
 * Reviewer Digital Signal Processing, Elsevier, IF-2024:3.0, since 2025.

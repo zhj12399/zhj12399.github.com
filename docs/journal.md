@@ -1,13 +1,15 @@
 # Journal Paper
 ## 2026
+
+* Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
+"BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification",
+**_Engineering Applications of Artificial Intelligence_**, vol.164, pp.113165, 2025.
+
 * Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S1566253525008073)",
 **_Information Fusion_**, vol.127, pp.103745, 2026.
 
 ## 2025
-* Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
-"BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification",
-**_Engineering Applications of Artificial Intelligence_**, pp.1-41, 2025.
 
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",
