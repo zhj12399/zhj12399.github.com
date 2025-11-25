@@ -2,7 +2,7 @@
 ## 2026
 
 * Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
-"BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification",
+"[BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031963)",
 **_Engineering Applications of Artificial Intelligence_**, vol.164, pp.113165, 2025.
 
 * Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
