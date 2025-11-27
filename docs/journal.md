@@ -1,13 +1,5 @@
 # Journal Paper
 ## 2026
-* Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study"
-**_IEEE Journal of Biomedical and Health Informatics_**, pp.1-14, 2025.
-
-* Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion", 
-**_IEEE Transactions on Multimedia_**, pp.1-12, 2025.
-
 * Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031963)",
 **_Engineering Applications of Artificial Intelligence_**, vol.164, pp.113165, 2025.
@@ -17,6 +9,13 @@
 **_Information Fusion_**, vol.127, pp.103745, 2026.
 
 ## 2025
+* Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
+"Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study"
+**_IEEE Journal of Biomedical and Health Informatics_**, pp.1-14, 2025.
+
+* Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion",
+**_IEEE Transactions on Multimedia_**, pp.1-12, 2025.
 
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",
