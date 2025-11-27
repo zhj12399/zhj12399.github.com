@@ -4,17 +4,9 @@
 "Body Sound Denoising Technologies: A Survey and Validation",
 **_Biomedical Signal Processing and Control_**, pp.1-75.
 
-* Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study"
-**_IEEE Journal of Biomedical and Health Informatics_**, pp.1-13.
-
 * Zhihua Wang, **Haojie Zhang**, Zipeng Zhang, Yu Ying, Kun Qian\*, Houguang Liu\*, Bin Hu\*, and Björn W. Schuller,
 "BrainLH: An End-to-End Interpretable Brain-Like Hearing Model for Power Equipment Detection",
 **_npj Acoustics_**, pp.1-15.
-
-* Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion",
-**_IEEE Transactions on Multimedia_**, pp.1-10.
 
 * Yifan Feng, Wanyong Qiu, **Haojie Zhang**, Ruobing Li, Yi Chang, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Federated Prototype Learning for Valvular Heart Disease Recognition under Cross-institutional Heart Sound with Label Heterogeneity",
@@ -32,8 +24,6 @@
 "音频-主动睡眠健康的新数字表型与非药物干预方法",
 
 ## Conference
-
-
 * Yiming Liu\#, Enze Li\#, **Haojie Zhang**, Ruobing Li, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Adolescent Suicidal Risk Detection via Speech Analysis: A CNN-Transformer Framework Enhanced by Knowledge Distillation",
 **__**, pp.1-5.
