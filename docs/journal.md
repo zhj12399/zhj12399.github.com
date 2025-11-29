@@ -10,7 +10,7 @@
 
 ## 2025
 * Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study"
+"[Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study](https://ieeexplore.ieee.org/document/11271376)"
 **_IEEE Journal of Biomedical and Health Informatics_**, pp.1-14, 2025.
 
 * Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
