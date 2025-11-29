@@ -1,9 +1,5 @@
 # Submitted
 ## Journal
-* Enze Li\#, **Haojie Zhang\#**, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Body Sound Denoising Technologies: A Survey and Validation",
-**_Biomedical Signal Processing and Control_**, pp.1-75.
-
 * Zhihua Wang, **Haojie Zhang**, Zipeng Zhang, Yu Ying, Kun Qian\*, Houguang Liu\*, Bin Hu\*, and Björn W. Schuller,
 "BrainLH: An End-to-End Interpretable Brain-Like Hearing Model for Power Equipment Detection",
 **_npj Acoustics_**, pp.1-15.
