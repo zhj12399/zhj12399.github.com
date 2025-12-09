@@ -8,7 +8,7 @@ in **_Proceedings of the 5th International Conference on Big Data, Artificial In
 "VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
 in **_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp.1-11, Hohhot, China, November 2025.
 
-* Vladimir Gurlev\#, Mengkai Sun\#, Haojie Zhang, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+* Vladimir Gurlev\#, Mengkai Sun\#, **Haojie Zhang**, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model",
 in **_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp.1-12, Hohhot, China, November 2025.
 
