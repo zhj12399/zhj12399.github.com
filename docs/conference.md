@@ -1,6 +1,6 @@
 # Conference Paper
 ## 2025
-* Hua Yang and Haojie Zhang\*, 
+* Hua Yang and **Haojie Zhang\***, 
 "Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems", 
 in **_Proceedings of the 5th International Conference on Big Data, Artificial Intelligence and Risk Management_**, pp.1-8, Dongguan, China, December 2025.
 
