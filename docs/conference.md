@@ -1,5 +1,9 @@
 # Conference Paper
 ## 2025
+* Hua Yang and Haojie Zhang\*, 
+"Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems", 
+in **_Proceedings of the 5th International Conference on Big Data, Artificial Intelligence and Risk Management_**, pp.1-8, Dongguan, China, December 2025.
+
 * Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
 in **_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp.1-11, Hohhot, China, November 2025.
