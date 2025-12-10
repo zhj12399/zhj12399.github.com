@@ -18,6 +18,7 @@
 
 # Review
 ## Journal Review
+* Reviewer Scientific Reports, Springer Nature, IF-2024:3.9, since 2025.
 * Reviewer The Journal of Supercomputing, Springer, IF-2024:2.7, since 2025.
 * Reviewer Intelligent Systems with Applications, Elsevier, IF-2024:4.3, since 2025.
 * Reviewer Neural Networks, Elsevier, IF-2024:6.3, since 2025.
