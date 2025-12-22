@@ -1,5 +1,10 @@
 # Conference Paper
 ## 2025
+* **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Kun Qian\*, Jing Li, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening",
+in **_Proceedings of the 2026 IEEE 44th International Conference on Consumer Electronics (ICCE)_**, pp.1-4, Dubai, UAE, February 2026.
+
+
 * Hua Yang and **Haojie Zhang\***, 
 "Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems", 
 in **_Proceedings of the 5th International Conference on Big Data, Artificial Intelligence and Risk Management_**, pp.1-8, Dongguan, China, December 2025.
