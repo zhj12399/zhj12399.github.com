@@ -10,8 +10,8 @@
 
 ## 2025
 * Enze Li\#, **Haojie Zhang\#**, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Body Sound Denoising Technologies: A Survey and Validation", 
-**_Biomedical Signal Processing and Control_**, pp.1-76, 2025.
+"[Body Sound Denoising Technologies: A Survey and Validation](https://www.sciencedirect.com/science/article/abs/pii/S1746809425018130)", 
+**_Biomedical Signal Processing and Control_**, vol.114, pp.109302, 2025.
 
 * Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study](https://ieeexplore.ieee.org/document/11271376)"

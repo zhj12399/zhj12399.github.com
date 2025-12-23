@@ -4,7 +4,6 @@
 "Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening",
 in **_Proceedings of the 2026 IEEE 44th International Conference on Consumer Electronics (ICCE)_**, pp.1-4, Dubai, UAE, February 2026.
 
-
 * Hua Yang and **Haojie Zhang\***, 
 "Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems", 
 in **_Proceedings of the 5th International Conference on Big Data, Artificial Intelligence and Risk Management_**, pp.1-8, Dongguan, China, December 2025.
@@ -18,12 +17,12 @@ in **_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp
 in **_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp.1-12, Hohhot, China, November 2025.
 
 * **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Yongxin Zhang, Yilu Deng, Kun Qian\*, Kezhi Li, Toru Nakamura, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
-in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
+"[A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model](https://ieeexplore.ieee.org/document/11274582)",
+in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.280-281, Osaka, Japan, September 2025. **(Oral Presentation Award)**
 
 * Zhijing Cao\#, Lin Shen\#, Liuxian Ma, Xiaoxi Liu, **Haojie Zhang**, Yongxin Zhang, Yilu Deng, Kun Qian\*, Ruolan Huang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
-in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.1-2, Osaka, Japan, September 2025.
+"[Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet](https://ieeexplore.ieee.org/document/11275046)",
+in **_Proceedings of the 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)_**, pp.725-726, Osaka, Japan, September 2025.
 
 * Chenhao Wu\#, Xiangjun Cai\#, **Haojie Zhang**, Tianrui Jia, Yilu Deng, Kun Qian, Björn W. Schuller, Yoshiharu Yamamoto, and Jiang Liu, 
 "[Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation](https://www.isca-archive.org/interspeech_2025/wu25c_interspeech.html#)"
