@@ -12,10 +12,6 @@
 "A Novel Cross-Channel EEG Contrastive Learning Model for Depression Detection Based on Multi-Scale Temporal-Spectral Feature Fusion",
 **_IEEE Transactions on Affective Computing_**, pp.1-18.
 
-* Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification",
-**_BSPC_**, pp.1-11.
-
 * 钱昆, 赵中豪, 孙孟恺, 谭洋, **张昊杰**, 朱翠萍, 胡斌, 
 "音频-主动睡眠健康的新数字表型与非药物干预方法",
 

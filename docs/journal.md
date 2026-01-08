@@ -1,12 +1,16 @@
 # Journal Paper
 ## 2026
+* Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Tanja Schultz, Björn W. Schuller, and Yoshiharu Yamamoto,
+"[Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification](https://www.sciencedirect.com/science/article/pii/S1746809426000030)",
+**_Biomedical Signal Processing and Control_**, vol.116, pp.109449, 2026.
+
 * Enze Li\#, **Haojie Zhang\#**, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Body Sound Denoising Technologies: A Survey and Validation](https://www.sciencedirect.com/science/article/abs/pii/S1746809425018130)",
 **_Biomedical Signal Processing and Control_**, vol.114, pp.109302, 2026.
 
 * Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031963)",
-**_Engineering Applications of Artificial Intelligence_**, vol.164, pp.113165, 2025.
+**_Engineering Applications of Artificial Intelligence_**, vol.164, pp.113165, 2026.
 
 * Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S1566253525008073)",
