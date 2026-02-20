@@ -1,5 +1,13 @@
 # Journal Paper
 ## 2026
+* Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion",
+**_IEEE Transactions on Multimedia_**, pp.1-12, 2026.
+
+* Jiancheng Han\#, Heqing Wang\#, Yifan Feng\#, Qi Yang\#, Jingtan Li, **Haojie Zhang**, Yihua He, Jiang Liu, Toru Nakamura, Yang Cao, Naidi Sun\*, Kun Qian\*, Bin Hu\*, Xinru Gao, Yan Xia, Zongjie Weng, Björn W. Schuller, and Yoshiharu Yamamoto,
+"Federated Learning for Prenatal Detection of Interrupted Aortic Arch Using Fetal Ultrasound Imaging",
+**_Biomedical Signal Processing and Control_**, pp.1-30, 2026.
+
 * Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Tanja Schultz, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification](https://www.sciencedirect.com/science/article/pii/S1746809426000030)",
 **_Biomedical Signal Processing and Control_**, vol.116, pp.109449, 2026.
@@ -20,10 +28,6 @@
 * Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study](https://ieeexplore.ieee.org/document/11271376)"
 **_IEEE Journal of Biomedical and Health Informatics_**, pp.1-14, 2025.
-
-* Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion",
-**_IEEE Transactions on Multimedia_**, pp.1-12, 2025.
 
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",

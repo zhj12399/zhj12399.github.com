@@ -1,4 +1,7 @@
 # Activity
+## 2026
+* Oral Report for the IEEE ICEE, "Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening", Dubai, UAE, February 4, 2025.
+
 ## 2025
 * Oral Report for the 12th CSMT, "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model", Hohhot, China, November 9, 2025.
 * Volunteer for the 12th Conference on Sound and Music Technology (CSMT), Hohhot, China, November 7-9, 2025.
