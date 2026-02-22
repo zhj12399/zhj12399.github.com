@@ -1,6 +1,6 @@
 # Award
 ## 2026 
-* 北京理工大学研究生出国境参加国际学术会议特别资助, IEEE ICCE, Dubai, UAE, February 2026.
+* 北京理工大学研究生出国(境)参加国际学术会议特别资助, IEEE ICCE, Dubai, UAE, February 2026.
 
 ## 2025
 * 北京理工大学研究生出国交流奖励, 2025.
@@ -23,7 +23,7 @@ _Third Prize_ (National Level),
 
 * 研究生国家奖学金, 2025.
 
-* 北京理工大学研究生出国境参加国际学术会议特别资助, IEEE GCCE, Osaka, Japan, September 2025.
+* 北京理工大学研究生出国(境)参加国际学术会议特别资助, IEEE GCCE, Osaka, Japan, September 2025.
 
 * 北京理工大学医学技术学院“医工榜样”,
 科研创新榜样, 2025.

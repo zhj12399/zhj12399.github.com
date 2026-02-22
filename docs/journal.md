@@ -5,8 +5,8 @@
 **_IEEE Transactions on Multimedia_**, pp.1-12, 2026.
 
 * Jiancheng Han\#, Heqing Wang\#, Yifan Feng\#, Qi Yang\#, Jingtan Li, **Haojie Zhang**, Yihua He, Jiang Liu, Toru Nakamura, Yang Cao, Naidi Sun\*, Kun Qian\*, Bin Hu\*, Xinru Gao, Yan Xia, Zongjie Weng, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Federated Learning for Prenatal Detection of Interrupted Aortic Arch Using Fetal Ultrasound Imaging",
-**_Biomedical Signal Processing and Control_**, pp.1-30, 2026.
+"[Federated Learning for Prenatal Detection of Interrupted Aortic Arch Using Fetal Ultrasound Imaging](https://www.sciencedirect.com/science/article/abs/pii/S1746809426003496)",
+**_Biomedical Signal Processing and Control_**, vol.119, pp.109795, 2026.
 
 * Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Tanja Schultz, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification](https://www.sciencedirect.com/science/article/pii/S1746809426000030)",
