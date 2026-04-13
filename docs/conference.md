@@ -1,7 +1,11 @@
 # Conference Paper
 ## 2026
+* Lei Jiang, **Haojie Zhang\***, and Kan Yang\*, 
+"Lightweight Optic Disc and Cup Detection in Fundus Images via Feature Distillation for Box-Based CDR Estimation", 
+in **_Proceedings of the 6th International Conference on Biomedicine and Bioinformatics Engineering (ICBBE 2026)_**, pp.1-6, Nanchang, China, April 2026.
+
 * **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Kun Qian\*, Jing Li, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening",
+"[Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening](https://ieeexplore.ieee.org/document/11449727)",
 in **_Proceedings of the 2026 IEEE 44th International Conference on Consumer Electronics (ICCE)_**, pp.1-4, Dubai, UAE, February 2026.
 
 ## 2025
