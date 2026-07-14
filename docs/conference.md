@@ -1,5 +1,13 @@
 # Conference Paper
 ## 2026
+* Boyang Meng\#, Mengkai Sun\#, Haojie Zhang, Kun Qian\*, Wei Xue, Bin Hu\*, and Björn W Schuller,
+"Similarity as Evidence: An Explainable Siamese Framework for Snore Sound Classification",
+in **_Proceedings of the 27th INTERSPEECH Conference (INTERSPEECH)_**, Long Paper, pp.1-9, Sydney, Australia, September 2026.
+
+* Hua Yang and **Haojie Zhang\***,
+"Object-Aware Masked Generative Distillation for Lightweight Agricultural Insect Detection",
+in **_Proceedings of the 7th International Conference on Computer Engineering and Application (ICCEA 2026)_**, pp.1-4, Chongqing, China, May 2026.
+
 * Lei Jiang, **Haojie Zhang\***, and Kan Yang\*, 
 "Lightweight Optic Disc and Cup Detection in Fundus Images via Feature Distillation for Box-Based CDR Estimation", 
 in **_Proceedings of the 6th International Conference on Biomedicine and Bioinformatics Engineering (ICBBE 2026)_**, pp.1-6, Nanchang, China, April 2026.
@@ -10,12 +18,8 @@ in **_Proceedings of the 2026 IEEE 44th International Conference on Consumer Ele
 
 ## 2025
 * Hua Yang and **Haojie Zhang\***, 
-"Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems", 
+"[Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems](https://dl.acm.org/doi/full/10.1145/3800227.3800418)", 
 in **_Proceedings of the 5th International Conference on Big Data, Artificial Intelligence and Risk Management_**, pp.1-8, Dongguan, China, December 2025.
-
-* Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
-in **_Proceedings of 12th Conference on Sound and Music Technology (CSMT)_**, pp.1-11, Hohhot, China, November 2025.
 
 * Vladimir Gurlev\#, Mengkai Sun\#, **Haojie Zhang**, Yun Jin, Maoshen Jia, Kezhi Li, Kenji Morita, Patrice Abry, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the lsing Model",
@@ -88,5 +92,4 @@ in **_Proceedings of IEEE International Conference on Acoustics, Speech and Sign
 in **_Proceedings of IEEE International Conference on Data Mining Workshops (ICDMW)_**, pp.1299-1305, Shanghai, China, December 2023.
 
 * **Haojie Zhang**, Kun Qian\*, Lin Shen, Lujundong Li, Kele Xu\*, and Bin Hu\*,
-"[From Noise To Sound: Audio Synthesis Via Diffusion Models](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf)",
-**_Technical Report for DCASE2023 Challenge_**, pp.1-4, Tampere, Finland, September 2023.
+"[From Noise To Sound: Audio Syn

@@ -1,8 +1,16 @@
 # Journal Paper
 ## 2026
+* Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
+"VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
+**_Circuits, Systems & Signal Processing_**, 2026.
+
+* Zhihua Wang\#, Haotian Zhai\#, Tianrui Jia, Zihan Wang, **Haojie Zhang**, Kun Qian\*, Chen Xu\*, Zipeng Zhang\*, Wei Xue, Wen Qi, and Bin Hu\*, 
+"[Bayesian Knowledge-guided Confidence Aware Model based on Multimodal Pre-trained LLMs for Depression Detection](https://www.sciencedirect.com/science/article/pii/S0031320326013531)",
+**_Pattern Recognition_**, vol.180, pp.114388, 2026.
+
 * Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion",
-**_IEEE Transactions on Multimedia_**, pp.1-12, 2026.
+"[Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion](https://ieeexplore.ieee.org/document/11569335)",
+**_IEEE Transactions on Multimedia_**, pp.1-12, in press, 2026.
 
 * Jiancheng Han\#, Heqing Wang\#, Yifan Feng\#, Qi Yang\#, Jingtan Li, **Haojie Zhang**, Yihua He, Jiang Liu, Toru Nakamura, Yang Cao, Naidi Sun\*, Kun Qian\*, Bin Hu\*, Xinru Gao, Yan Xia, Zongjie Weng, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Federated Learning for Prenatal Detection of Interrupted Aortic Arch Using Fetal Ultrasound Imaging](https://www.sciencedirect.com/science/article/abs/pii/S1746809426003496)",

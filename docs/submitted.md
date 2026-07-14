@@ -19,4 +19,3 @@
 * Yiming Liu\#, Enze Li\#, **Haojie Zhang**, Ruobing Li, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "Adolescent Suicidal Risk Detection via Speech Analysis: A CNN-Transformer Framework Enhanced by Knowledge Distillation",
 **__**, pp.1-5.
-

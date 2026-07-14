@@ -1,25 +1,29 @@
 # Home
 
-I am currently working towards the M.S. degree with the School of Medical Technology, Beijing Institute of Technology. 
-My Supervisor is [Prof. Dr.-Ing. Kun Qian](https://eecsqian.com) (Senior Member, IEEE). 
-Before this, I received the B.S. degree from School of Computer Science and Technology, Beijing Institute of Technology, China, in 2023.
+I am currently working towards the Ph.D. degree in engineering at Chair of Health Informatics (CHI), Technische Universität München (TUM). 
+My Supervisor is [Prof. Dr.-Ing. habil. Björn W. Schuller](http://schuller.one).
+Prior to this, I received the B.S. and M.Eng. degrees from Beijing Institute of Technology, China, in 2023 and 2026, respectively.
 
 # Affiliations
-[School of Medical Technology](https://smt.bit.edu.cn),  
-Beijing Institute of Technology,  
-China
 
-[Key Laboratory of Brain Health Intelligent Evaluation and Intervention](https://bhe-lab.org)  
-(Beijing Institute of Technology),  
-Ministry of Education,  
-China
+Chair of Health Informatics (CHI),
+Technische Universität München (TUM),
+Munich, Germany
 
 # Education
+## Doctoral Education
+* Degree: Doctor of Engineering (Dr.-Ing.)
+* Time: August 2026 to present
+* University: Technische Universität München (TUM)
+* Affiliation: Chair of Health Informatics (CHI)
+* Place: Munich, Germany
+
 ## Master Education
 * Degree: Master of Engineering, Computer Technology
-* Time: September 2023 to present
+* Time: September 2023 to June 2026
 * University: Beijing Institute of Technology
 * Place: Beijing, China
+* Supervisor: [Prof. Dr.-Ing. Kun Qian](https://eecsqian.com)
 
 ## Bachelor Education
 * Degree: Bachelor of Engineering, Computer Science and Technology
@@ -28,9 +32,9 @@ China
 * Place: Beijing, China
 
 # Contact
-zhj@bit.edu.cn
+haojie.zhang@tum.de
 
-School of Medical Technology,  
-Beijing Institute of Technology,  
-Beijing 100081,  
-China
+Chair of Health Informatics (CHI),
+Neherstraße 1,
+81675 München,
+Germany

@@ -14,7 +14,6 @@
 ## 2023
 * Attend the Summit on Music Intelligence (世界音乐人工智能大会), Central Conservatory of Music, Beijing, China, October 29, 2023.
 * Volunteer for the 10th Conference on Sound and Music Technology (CSMT), Guangzhou, China, June 2-4, 2023.
-* Attend the 8th Music Industry Forum, Beijing, China, May 19, 2023.
 
 # Member
 * IEEE Graduate Student Member, since 2023.
