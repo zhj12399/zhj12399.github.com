@@ -1,6 +1,6 @@
 # Home
 
-I am currently working towards the Ph.D. degree in engineering at Chair of Health Informatics (CHI), Technische Universität München (TUM). 
+I am currently working towards the Ph.D. degree in engineering at Technische Universität München (TUM). 
 My Supervisor is [Prof. Dr.-Ing. habil. Björn W. Schuller](http://schuller.one).
 Prior to this, I received the B.S. and M.Eng. degrees from Beijing Institute of Technology, China, in 2023 and 2026, respectively.
 
