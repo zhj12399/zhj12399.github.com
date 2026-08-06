@@ -1,9 +1,5 @@
 # Journal Paper
 ## 2026
-* Yifan Feng, Wanyong Qiu, **Haojie Zhang**, Ruobing Li, Yi Chang, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
-"Federated Prototype Learning for Valvular Heart Disease Recognition under Cross-institutional Heart Sound with Label Heterogeneity", 
-**_IEEE Transactions on Neural Networks and Learning Systems_**, pp.1-13, 2026.
-
 * Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
 **_Circuits, Systems & Signal Processing_**, 2026.
