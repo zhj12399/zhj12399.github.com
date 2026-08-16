@@ -5,7 +5,7 @@
 **_IEEE Transactions on Neural Networks and Learning Systems_**, pp.1-13, 2026.
 
 * Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
+"[VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection](https://doi.org/10.1007/s00034-026-03720-1)",
 **_Circuits, Systems & Signal Processing_**, 2026.
 
 * Zhihua Wang\#, Haotian Zhai\#, Tianrui Jia, Zihan Wang, **Haojie Zhang**, Kun Qian\*, Chen Xu\*, Zipeng Zhang\*, Wei Xue, Wen Qi, and Bin Hu\*, 
@@ -36,11 +36,11 @@
 "[FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S1566253525008073)",
 **_Information Fusion_**, vol.127, pp.103745, 2026.
 
-## 2025
 * Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"[Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-based Disease Detection? An Interpretable Comparative Study](https://ieeexplore.ieee.org/document/11271376)"
-**_IEEE Journal of Biomedical and Health Informatics_**, pp.1-14, 2025.
+"[Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-Based Disease Detection? An Interpretable Comparative Study](https://ieeexplore.ieee.org/document/11271376)"
+**_IEEE Journal of Biomedical and Health Informatics_**, vol.30, no.6, pp.4824-4837, 2025.
 
+## 2025
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",
 **_IEEE Transactions on Consumer Electronics_**, vol.71, no.3, pp.7439-7453, 2025.
