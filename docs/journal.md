@@ -1,8 +1,8 @@
 # Journal Paper
 ## 2026
 * Yifan Feng, Wanyong Qiu, **Haojie Zhang**, Ruobing Li, Yi Chang, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"Federated Prototype Learning for Cardiovascular Diseases Recognition under Non-independent and Non-identically Distributed Heart Sounds",
-**_IEEE Transactions on Neural Networks and Learning Systems_**, pp.1-13, 2026.
+"[Federated Prototype Learning for Cardiovascular Diseases Recognition under Non-independent and Non-identically Distributed Heart Sounds](https://ieeexplore.ieee.org/document/11688171)",
+**_IEEE Transactions on Neural Networks and Learning Systems_**, pp.1-14, 2026.
 
 * Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection](https://doi.org/10.1007/s00034-026-03720-1)",
