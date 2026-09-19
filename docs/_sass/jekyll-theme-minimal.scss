@@ -17,6 +17,12 @@ body {
   width: 1100px;
 }
 
+.wrapper::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 header {
   width: 260px;
   float: left;
