@@ -9,8 +9,8 @@ in **_Proceedings of the 27th INTERSPEECH Conference (INTERSPEECH)_**, Long Pape
 in **_Proceedings of the 7th International Conference on Computer Engineering and Application (ICCEA 2026)_**, pp.1-4, Chongqing, China, May 2026.
 
 * Lei Jiang, **Haojie Zhang\***, and Kan Yang\*, 
-"Lightweight Optic Disc and Cup Detection in Fundus Images via Feature Distillation for Box-Based CDR Estimation", 
-in **_Proceedings of the 6th International Conference on Biomedicine and Bioinformatics Engineering (ICBBE 2026)_**, pp.1-6, Nanchang, China, April 2026.
+"[Lightweight Optic Disc and Cup Detection in Fundus Images via Feature Distillation for Box-Based CDR Estimation](https://dl.acm.org/doi/10.1145/3822183.3822204)", 
+in **_Proceedings of the 6th International Conference on Biomedicine and Bioinformatics Engineering (ICBBE 2026)_**, pp.121-127, Nanchang, China, April 2026.
 
 * **Haojie Zhang**, Enze Li, Yang Tan, Lin Shen, Kun Qian\*, Jing Li, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening](https://ieeexplore.ieee.org/document/11449727)",
@@ -92,4 +92,5 @@ in **_Proceedings of IEEE International Conference on Acoustics, Speech and Sign
 in **_Proceedings of IEEE International Conference on Data Mining Workshops (ICDMW)_**, pp.1299-1305, Shanghai, China, December 2023.
 
 * **Haojie Zhang**, Kun Qian\*, Lin Shen, Lujundong Li, Kele Xu\*, and Bin Hu\*,
-"[From Noise To Sound: Audio Syn
+"[From Noise To Sound: Audio Synthesis Via Diffusion Models](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf)",
+**_Technical Report for DCASE2023 Challenge_**, pp.1-4, Tampere, Finland, September 2023.
