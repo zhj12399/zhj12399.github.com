@@ -1,7 +1,7 @@
 # Journal Paper
 ## 2026
 * Xin Ma\#, Enze Li\#, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, and Björn W. Schuller,
-"TF-LSNet: Lightweight Heart Sound Classification via Large-Small Receptive Field Modeling and Reinforced Distillation",
+"[TF-LSNet: Lightweight Heart Sound Classification via Large-Small Receptive Field Modeling and Reinforced Distillation](https://ieeexplore.ieee.org/document/11701489)",
 **_IEEE Internet of Things Journal_**, pp.1-18, 2026.
 
 * Yifan Feng, Wanyong Qiu, **Haojie Zhang**, Ruobing Li, Yi Chang, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
