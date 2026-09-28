@@ -1,21 +1,21 @@
 # Home
 
-I am currently working towards the Ph.D. degree at Technische Universität München (TUM).
+I am currently working towards the Ph.D. degree at [Technische Universität München (TUM)](https://www.tum.de/).
 My Supervisor is [Prof. Dr.-Ing. habil. Björn W. Schuller](http://schuller.one).
 Prior to this, I received the B.S. and M.Eng. degrees from Beijing Institute of Technology, China, in 2023 and 2026, respectively.
 
 # Affiliations
 
-Chair of Health Informatics (CHI),
-Technische Universität München (TUM),
+[Chair of Health Informatics (CHI)](https://kiinformatik.mri.tum.de/en/chair-health-informatics),
+[Technische Universität München (TUM)](https://www.tum.de/),
 Munich, Germany
 
 # Education
 ## Doctoral Education
 * Degree: Doctor of Engineering (Dr.-Ing.)
 * Time: August 2026 to present
-* University: Technische Universität München (TUM)
-* Affiliation: Chair of Health Informatics (CHI)
+* University: [Technische Universität München (TUM)](https://www.tum.de/)
+* Affiliation: [Chair of Health Informatics (CHI)](https://kiinformatik.mri.tum.de/en/chair-health-informatics)
 * Place: Munich, Germany
 
 ## Master Education
@@ -34,7 +34,7 @@ Munich, Germany
 # Contact
 haojie.zhang@tum.de
 
-Chair of Health Informatics (CHI),
+[Chair of Health Informatics (CHI)](https://kiinformatik.mri.tum.de/en/chair-health-informatics),
 Neherstraße 1,
 81675 München,
 Germany
