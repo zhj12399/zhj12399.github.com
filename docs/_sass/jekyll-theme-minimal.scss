@@ -40,11 +40,6 @@ footer {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
-// Menu
-.main-menu-checkbox, .menu-toggle, .main-menu-close {
-  display: none;
-}
-
 // Header
 .title a {
   color: #111;
@@ -269,70 +264,46 @@ footer hr {
     padding: 20px 0;
   }
 
-  // Menu
-  .menu-toggle, .main-menu {
-    position: absolute;
-    right: 55px;
-    top: 55px;
-  }
-
-  .menu-toggle {
-    z-index: 998;
-    display: block;
-    padding: 5px 10px;
-    color: #333;
-    cursor: pointer;
-  }
-
-  .menu-toggle:hover {
-    color:#069;
-  }
-
+  // Keep every navigation link visible below the title on narrow screens.
   .main-menu {
-    z-index: 999;
-    display: none;
-    min-width: 120px;
-    background: #eee;
+    margin: 8px 0 20px;
   }
 
-  .main-menu .link-button {
-    padding: 5px 10px;
-  }
-
-  .main-menu .link-button:hover, .main-menu .link-button:focus, .main-menu-close:hover {
-    background: #ddd;
-  }
-
-  .main-menu-close {
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-    padding: 5px 10px;
-    cursor: pointer;
+  .main-menu .subpage-links, .main-menu .external-links {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 8px;
   }
 
   .main-menu .subpage-links {
-    margin: 0;
+    margin: 0 0 12px;
   }
 
-  #main-menu-checkbox:checked ~ .main-menu {
+  .main-menu .icon-link {
     display: block;
+    min-width: 0;
   }
 
-  #main-menu-checkbox:checked ~ .main-menu .main-menu-close {
-    display: block;
-    z-index: 1001;
+  .main-menu .link-button {
+    box-sizing: border-box;
+    height: 100%;
+    min-height: 42px;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    padding: 8px 10px;
   }
 
-  #main-menu-checkbox:checked ~ .main-menu div {
-    position: relative;
-    z-index: 1000;
+  .main-menu .icon-link:focus-visible .link-button {
+    background: #eee;
+  }
+
+  .main-menu .icon-text {
+    overflow-wrap: anywhere;
   }
 
   // Others
   .title {
-    padding: 0 50px 0 0;
+    padding: 0;
   }
 
   .author-info {
@@ -382,19 +353,8 @@ footer hr {
     padding-bottom: 15px;
   }
 
-  .menu-toggle, .main-menu {
-    right: 20px;
-    top: 20px;
-  }
-}
-
-@media print, screen and (max-height: 600px) {
-  .author-info br {
-    display: none;
-  }
-
-  .main-menu .subpage-links {
-    margin: 0;
+  .main-menu .subpage-links, .main-menu .external-links {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -405,11 +365,6 @@ footer hr {
 
   footer {
     padding-bottom: 15px;
-  }
-
-  .menu-toggle, .main-menu {
-    right: 20px;
-    top: 20px;
   }
 
   .author-info {
