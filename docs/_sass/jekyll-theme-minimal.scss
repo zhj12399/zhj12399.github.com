@@ -40,8 +40,39 @@ footer {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
-footer.mobile-external-links {
-  display: none;
+footer.profile-links {
+  clear: right;
+}
+
+footer.profile-links .external-links {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 20px;
+}
+
+footer.profile-links .icon-link {
+  display: block;
+  min-width: 0;
+}
+
+footer.profile-links .link-button {
+  box-sizing: border-box;
+  height: 100%;
+  min-height: 42px;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  padding: 8px 10px;
+}
+
+footer.profile-links .icon-link:hover .link-button,
+footer.profile-links .icon-link:focus-visible .link-button {
+  background: #eee;
+}
+
+footer.profile-links .icon-text {
+  overflow-wrap: anywhere;
 }
 
 // Header
@@ -273,15 +304,7 @@ footer hr {
     margin: 8px 0 20px;
   }
 
-  .main-menu .external-links {
-    display: none;
-  }
-
-  footer.mobile-external-links {
-    display: block;
-  }
-
-  .main-menu .subpage-links, .mobile-external-links .external-links {
+  .main-menu .subpage-links, footer.profile-links .external-links {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 8px;
@@ -291,12 +314,12 @@ footer hr {
     margin: 0;
   }
 
-  .main-menu .icon-link, .mobile-external-links .icon-link {
+  .main-menu .icon-link {
     display: block;
     min-width: 0;
   }
 
-  .main-menu .link-button, .mobile-external-links .link-button {
+  .main-menu .link-button {
     box-sizing: border-box;
     height: 100%;
     min-height: 42px;
@@ -305,11 +328,11 @@ footer hr {
     padding: 8px 10px;
   }
 
-  .main-menu .icon-link:focus-visible .link-button, .mobile-external-links .icon-link:focus-visible .link-button {
+  .main-menu .icon-link:focus-visible .link-button {
     background: #eee;
   }
 
-  .main-menu .icon-text, .mobile-external-links .icon-text {
+  .main-menu .icon-text {
     overflow-wrap: anywhere;
   }
 
@@ -365,7 +388,7 @@ footer hr {
     padding-bottom: 15px;
   }
 
-  .main-menu .subpage-links, .mobile-external-links .external-links {
+  .main-menu .subpage-links, footer.profile-links .external-links {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
