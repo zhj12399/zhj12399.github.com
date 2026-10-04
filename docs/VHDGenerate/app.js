@@ -18,8 +18,29 @@
 
   function sampleMarkup(sample, condition) {
     const type = kind === "g" ? "Generated" : "Real";
-    return `<article class="sample"><div class="sample-top"><span class="sample-title">${type} example ${String(sample.example).padStart(2,"0")}</span><span class="sample-duration">3 s · 8 kHz WAV</span></div><audio controls preload="metadata" aria-label="Play ${escape(type.toLowerCase())} ${escape(condition.name)} example ${sample.example}" src="${sample.audio}"></audio><img src="${sample.plot}" alt="Waveform, Log-Mel spectrogram and 20 MFCC coefficients for ${escape(type.toLowerCase())} ${escape(condition.name)} example ${sample.example}" width="888" height="558" decoding="async"><a class="download" href="${sample.audio}" download="${escape(sample.filename)}">Download WAV ↓</a><span class="plot-hint">Waveform · Log-Mel · MFCC</span></article>`;
+    const title = `${type} ${condition.name} · example ${String(sample.example).padStart(2,"0")}`;
+    return `<article class="sample"><div class="sample-top"><span class="sample-title">${type} example ${String(sample.example).padStart(2,"0")}</span><span class="sample-duration">3 s · 8 kHz WAV</span></div><audio controls preload="metadata" controlslist="nodownload" aria-label="Play ${escape(type.toLowerCase())} ${escape(condition.name)} example ${sample.example}" src="${sample.audio}"></audio><button class="plot-preview" type="button" data-plot-title="${escape(title)}" aria-label="Enlarge signal views for ${escape(title)}" title="Click to enlarge"><img src="${sample.plot}" alt="Waveform, Log-Mel spectrogram and 20 MFCC coefficients for ${escape(type.toLowerCase())} ${escape(condition.name)} example ${sample.example}" width="2220" height="1740" decoding="async"><span class="enlarge-icon" aria-hidden="true">⤢</span></button></article>`;
   }
+
+  const viewer = document.createElement("dialog");
+  viewer.className = "plot-dialog";
+  viewer.setAttribute("aria-labelledby", "plot-dialog-title");
+  viewer.innerHTML = '<header class="plot-dialog-head"><h2 id="plot-dialog-title"></h2><button class="plot-close" type="button" aria-label="Close enlarged signal views">×</button></header><div class="plot-dialog-body"><img alt=""></div>';
+  document.body.appendChild(viewer);
+  const viewerImage = viewer.querySelector("img");
+  gallery.addEventListener("click", event => {
+    const button = event.target.closest(".plot-preview");
+    if (!button) return;
+    const image = button.querySelector("img");
+    viewer.querySelector("h2").textContent = button.dataset.plotTitle;
+    viewerImage.src = image.src;
+    viewerImage.alt = image.alt;
+    viewer.showModal();
+    document.body.classList.add("plot-open");
+  });
+  viewer.querySelector(".plot-close").addEventListener("click", () => viewer.close());
+  viewer.addEventListener("click", event => { if (event.target === viewer) viewer.close(); });
+  viewer.addEventListener("close", () => { document.body.classList.remove("plot-open"); viewerImage.removeAttribute("src"); });
 
   function loadCondition(code) {
     const section = sections.get(code);
@@ -29,7 +50,7 @@
     const key = `${kind}-${code}`;
     const promise = new Promise((resolve, reject) => {
       const script = document.createElement("script");
-      script.src = kind === "g" ? condition.generatedPack : condition.realPack;
+      script.src = (kind === "g" ? condition.generatedPack : condition.realPack) + "?v=hd2";
       script.onload = () => {
         const samples = window.VHD_SAMPLE_DATA && window.VHD_SAMPLE_DATA[key];
         if (!samples || samples.length !== 2) { reject(new Error("Incomplete sample pack")); return; }
@@ -58,7 +79,7 @@
     const badge = kind === "r" ? "Real database audio" : isNew ? "Absent from database" : "Observed in database";
     const support = isNew ? '<strong>0</strong> database recordings' : `<strong>${condition.databaseRecordings}</strong> database recording${condition.databaseRecordings === 1 ? "" : "s"}`;
     const subtitle = condition.fullNames.length ? condition.fullNames.join(" · ") : "All five disease attributes absent";
-    section.innerHTML = `<header class="condition-head"><div><div class="condition-title"><h3>${escape(condition.name)}</h3><span class="badge ${isNew ? "new" : ""}">${badge}</span></div><p class="condition-sub"><span class="code">${condition.code}</span>${escape(subtitle)}</p></div><div class="support">${support}</div></header><div class="samples"><div class="loading">Loading two audio examples…</div><div class="loading" aria-hidden="true">Waveform · Log-Mel · MFCC</div></div>`;
+    section.innerHTML = `<header class="condition-head"><div><div class="condition-title"><h3>${escape(condition.name)}</h3><span class="badge ${isNew ? "new" : ""}">${badge}</span></div><p class="condition-sub"><span class="code">${condition.code}</span>${escape(subtitle)}</p></div><div class="support">${support}</div></header><div class="samples"><div class="loading">Loading two audio examples…</div><div class="loading" aria-hidden="true">Loading two audio examples…</div></div>`;
     gallery.appendChild(section);
     sections.set(condition.code, section);
     const option = document.createElement("option");
