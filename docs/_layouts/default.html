@@ -58,5 +58,9 @@
 <!--      </footer>-->
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    {% if page.name == 'journal.md' or page.name == 'conference.md' %}
+    <script id="publication-bibtex-data" type="application/json">{{ site.data.publications | jsonify }}</script>
+    <script src="{{ '/assets/js/bibtex.js?v=' | append: site.github.build_revision | relative_url }}" defer></script>
+    {% endif %}
   </body>
 </html>

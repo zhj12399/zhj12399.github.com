@@ -2,77 +2,77 @@
 ## 2026
 * Xin Ma\#, Enze Li\#, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, and Björn W. Schuller,
 "[TF-LSNet: Lightweight Heart Sound Classification via Large-Small Receptive Field Modeling and Reinforced Distillation](https://ieeexplore.ieee.org/document/11701489)",
-**_IEEE Internet of Things Journal_**, pp.1-18, 2026.
+**_IEEE Internet of Things Journal_**, early access, 2026. {% include bibtex-button.html key="ma2026tf" %}
 
 * Yifan Feng, Wanyong Qiu, **Haojie Zhang**, Ruobing Li, Yi Chang, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Federated Prototype Learning for Cardiovascular Diseases Recognition under Non-independent and Non-identically Distributed Heart Sounds](https://ieeexplore.ieee.org/document/11688171)",
-**_IEEE Transactions on Neural Networks and Learning Systems_**, pp.1-14, 2026.
+**_IEEE Transactions on Neural Networks and Learning Systems_**, pp.1-14, 2026. {% include bibtex-button.html key="feng2026federated" %}
 
 * Ruobing Li\#, Lin Shen\#, Liuxian Ma, Haodong Lu, **Haojie Zhang**, Yifan Feng, Jiang Liu, Yilu Deng, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection](https://doi.org/10.1007/s00034-026-03720-1)",
-**_Circuits, Systems & Signal Processing_**, 2026.
+**_Circuits, Systems & Signal Processing_**, 2026. {% include bibtex-button.html key="li2026vib" %}
 
 * Zhihua Wang\#, Haotian Zhai\#, Tianrui Jia, Zihan Wang, **Haojie Zhang**, Kun Qian\*, Chen Xu\*, Zipeng Zhang\*, Wei Xue, Wen Qi, and Bin Hu\*, 
 "[Bayesian Knowledge-guided Confidence Aware Model based on Multimodal Pre-trained LLMs for Depression Detection](https://www.sciencedirect.com/science/article/pii/S0031320326013531)",
-**_Pattern Recognition_**, vol.180, pp.114388, 2026.
+**_Pattern Recognition_**, vol.180, Art. no. 114388, 2026. {% include bibtex-button.html key="wang2026bayesian" %}
 
 * Lin Shen, Ruobing Li, Xiaoxi Liu, **Haojie Zhang**, Cuiping Zhu, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion](https://ieeexplore.ieee.org/document/11569335)",
-**_IEEE Transactions on Multimedia_**, pp.1-12, in press, 2026.
+**_IEEE Transactions on Multimedia_**, pp.1-12, in press, 2026. {% include bibtex-button.html key="shen2026echoes" %}
 
 * Jiancheng Han\#, Heqing Wang\#, Yifan Feng\#, Qi Yang\#, Jingtan Li, **Haojie Zhang**, Yihua He, Jiang Liu, Toru Nakamura, Yang Cao, Naidi Sun\*, Kun Qian\*, Bin Hu\*, Xinru Gao, Yan Xia, Zongjie Weng, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Federated Learning for Prenatal Detection of Interrupted Aortic Arch Using Fetal Ultrasound Imaging](https://www.sciencedirect.com/science/article/abs/pii/S1746809426003496)",
-**_Biomedical Signal Processing and Control_**, vol.119, pp.109795, 2026.
+**_Biomedical Signal Processing and Control_**, vol.119, Art. no. 109795, 2026. {% include bibtex-button.html key="han2026federated" %}
 
 * Tianrui Jia\#, **Haojie Zhang\#**, Hanhan Wu, Qiyang Sun, Xin Jing, Boyang Meng, Lin Shen, Liang Wang, Kun Qian\*, Ye Zhang\*, Bin Hu\*, Tanja Schultz, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Breaking Through Data Scarcity: A Novel Diffusion Model Approach for Snoring Sound Augmentation and Classification](https://www.sciencedirect.com/science/article/pii/S1746809426000030)",
-**_Biomedical Signal Processing and Control_**, vol.116, pp.109449, 2026.
+**_Biomedical Signal Processing and Control_**, vol.116, Art. no. 109449, 2026. {% include bibtex-button.html key="jia2026breaking" %}
 
 * Enze Li\#, **Haojie Zhang\#**, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
 "[Body Sound Denoising Technologies: A Survey and Validation](https://www.sciencedirect.com/science/article/abs/pii/S1746809425018130)",
-**_Biomedical Signal Processing and Control_**, vol.114, pp.109302, 2026.
+**_Biomedical Signal Processing and Control_**, vol.114, Art. no. 109302, 2026. {% include bibtex-button.html key="li2025body" %}
 
 * Yang Tan, **Haojie Zhang**, Jingwen Xu, Hanhan Wu, Kun Qian, Bin Hu, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[BBANet: Bilateral Biological Auditory-Inspired Neural Network for Heart Sound Classification](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031963)",
-**_Engineering Applications of Artificial Intelligence_**, vol.164, pp.113165, 2026.
+**_Engineering Applications of Artificial Intelligence_**, vol.164, Art. no. 113165, 2026. {% include bibtex-button.html key="tan2025bbanet" %}
 
 * Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, **Haojie Zhang**, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
 "[FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition](https://www.sciencedirect.com/science/article/pii/S1566253525008073)",
-**_Information Fusion_**, vol.127, pp.103745, 2026.
+**_Information Fusion_**, vol.127, Art. no. 103745, 2026. {% include bibtex-button.html key="li2025fedvcpl" %}
 
 * Zhihua Wang\#, **Haojie Zhang\#**, Yang Tan, Rui Wang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"[Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-Based Disease Detection? An Interpretable Comparative Study](https://ieeexplore.ieee.org/document/11271376)"
-**_IEEE Journal of Biomedical and Health Informatics_**, vol.30, no.6, pp.4824-4837, 2025.
+"[Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-Based Disease Detection? An Interpretable Comparative Study](https://ieeexplore.ieee.org/document/11271376)",
+**_IEEE Journal of Biomedical and Health Informatics_**, vol.30, no.6, pp.4824-4837, 2026. {% include bibtex-button.html key="wang2025can" %}
 
 ## 2025
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Wei Meng, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto,
-"[A First Look at Generative Artificial Intelligence based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",
-**_IEEE Transactions on Consumer Electronics_**, vol.71, no.3, pp.7439-7453, 2025.
+"[A First Look at Generative Artificial Intelligence-Based Music Therapy for Mental Disorders](https://ieeexplore.ieee.org/document/10787256)",
+**_IEEE Transactions on Consumer Electronics_**, vol.71, no.3, pp.7439-7453, 2025. {% include bibtex-button.html key="shen2024first" %}
 
 * Fuze Tian\*\#, **Haojie Zhang\#**, Jie Liu, Jingyu Liu, Mingqi Zhao, Kun Qian\*, Qinglin Zhao, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"[An On-Board Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals](https://ieeexplore.ieee.org/document/11192554/)",
-**_IEEE Transactions on Instrumentation and Measurement_**, vol.74, pp.4018620, 2025.
+"[An Onboard Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals](https://ieeexplore.ieee.org/document/11192554/)",
+**_IEEE Transactions on Instrumentation and Measurement_**, vol.74, Art. no. 4018620, pp.1-20, 2025. {% include bibtex-button.html key="tian2025onboard" %}
 
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Enze Li, Jiedong Ma, Jingyu Liu, Kun Qian\*, Jing Li\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller,
-"[Towards Practical Colorectal Cancer Diagnosis: A Bowel Sound-Based System with Portable Sensor and On-Board Lightweight AI Model](https://ieeexplore.ieee.org/document/11131175)",
-**_IEEE Internet of Things Journal_**, vol.12, no.21, pp.45722-45736, 2025.
+"[Toward Practical Colorectal Cancer Diagnosis: A Bowel-Sound-Based System With Portable Sensor and On-Board Lightweight AI Model](https://ieeexplore.ieee.org/document/11131175)",
+**_IEEE Internet of Things Journal_**, vol.12, no.21, pp.45722-45736, 2025. {% include bibtex-button.html key="zhang2025towards" %}
 
 * Qinglin Zhao, Lixin Zhang, **Haojie Zhang**, Hua Jiang, Kunbo Cui, Zhongqing Wu, Jingyu Liu, Mingqi Zhao, Fuze Tian\*, and Bin Hu\*, 
 "[LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors](https://ieeexplore.ieee.org/document/11072318)",
-**_IEEE Transactions on Mobile Computing_**, vol.24, no.11, pp.12640-12654, 2025.
+**_IEEE Transactions on Mobile Computing_**, vol.24, no.11, pp.12640-12654, 2025. {% include bibtex-button.html key="zhao2025lsnn" %}
 
 * Kun Qian\*, **Haojie Zhang**, Xin Jing, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 "[Foundation Models for Digital Mental Health: Igniting the Dawn](https://www.sciencedirect.com/science/article/pii/S2950347725000167)",
-**_Medicine Plus_**, vol.2, no.2, pp.100085, 2025.
+**_Medicine Plus_**, vol.2, no.2, Art. no. 100085, 2025. {% include bibtex-button.html key="qian2025foundation" %}
 
 * Lin Shen, **Haojie Zhang**, Cuiping Zhu, Ruobing Li, Kun Qian\*, Fuze Tian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System](https://ieeexplore.ieee.org/document/10949681)", 
-**_IEEE Transactions on Affective Computing_**, vol.16, no.3, pp.2245-2260, 2025.
+**_IEEE Transactions on Affective Computing_**, vol.16, no.3, pp.2245-2260, 2025. {% include bibtex-button.html key="shen2025enhancing" %}
 
 * **Haojie Zhang\#**, Fuze Tian\#, Yang Tan, Lin Shen, Jingyu Liu, Jie Liu, Kun Qian\*, Yalei Han, Gong Su\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[An AI-assisted All-in-one Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor with an On-board Executable Lightweight Model](https://ieeexplore.ieee.org/document/10909628)", 
-**_IEEE Transactions on Mobile Computing_**, vol.24, no.8, pp.7252-7266, 2025.
+**_IEEE Transactions on Mobile Computing_**, vol.24, no.8, pp.7252-7266, 2025. {% include bibtex-button.html key="zhang2025ai" %}
 
 * Fuze Tian\#\*, **Haojie Zhang\#**, Yang Tan, Lixian Zhu, Lin Shen, Kun Qian\*, Bin Hu\*, Björn W. Schuller, and Yoshiharu Yamamoto, 
 "[An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis](https://ieeexplore.ieee.org/document/10736629)", 
-**_IEEE Journal of Biomedical and Health Informatics_**, vol.29, no.1, pp.152-165, 2025. **(ESI Highly Cited Paper)**
+**_IEEE Journal of Biomedical and Health Informatics_**, vol.29, no.1, pp.152-165, 2025. **(ESI Highly Cited Paper)** {% include bibtex-button.html key="tian2025on" %}

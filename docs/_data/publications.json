@@ -1,0 +1,977 @@
+{
+  "ma2026tf": {
+    "id": "j01",
+    "title": "TF-LSNet: Lightweight Heart Sound Classification via Large-Small Receptive Field Modeling and Reinforced Distillation",
+    "bibtex": "@article{ma2026tf,\n  title = {{TF-LSNet: Lightweight Heart Sound Classification via Large-Small Receptive Field Modeling and Reinforced Distillation}},\n  author = {Ma, Xin and Li, Enze and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Björn W.},\n  journal = {IEEE Internet of Things Journal},\n  year = {2026},\n  doi = {10.1109/jiot.2026.3736010},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/jiot.2026.3736010},\n  note = {Early access}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/jiot.2026.3736010",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:R3hNpaxXUhUC",
+      "https://ieeexplore.ieee.org/abstract/document/11701489/"
+    ],
+    "verification_note": "Publisher and Crossref show placeholder pages 1-1; omit pages rather than export a placeholder or unverified manuscript pagination.",
+    "metadata": {
+      "title": "{TF-LSNet: Lightweight Heart Sound Classification via Large-Small Receptive Field Modeling and Reinforced Distillation}",
+      "author": "Ma, Xin and Li, Enze and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Björn W.",
+      "journal": "IEEE Internet of Things Journal",
+      "year": "2026",
+      "doi": "10.1109/jiot.2026.3736010",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/jiot.2026.3736010",
+      "note": "Early access"
+    }
+  },
+  "feng2026federated": {
+    "id": "j02",
+    "title": "Federated Prototype Learning for Cardiovascular Diseases Recognition Under Non-Independent and Non-Identically Distributed Heart Sounds",
+    "bibtex": "@article{feng2026federated,\n  title = {{Federated Prototype Learning for Cardiovascular Diseases Recognition Under Non-Independent and Non-Identically Distributed Heart Sounds}},\n  author = {Feng, Yifan and Qiu, Wanyong and Zhang, Haojie and Li, Ruobing and Chang, Yi and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {IEEE Transactions on Neural Networks and Learning Systems},\n  year = {2026},\n  pages = {1--14},\n  doi = {10.1109/tnnls.2026.3722372},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/tnnls.2026.3722372}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/tnnls.2026.3722372",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:TQgYirikUcIC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Federated Prototype Learning for Cardiovascular Diseases Recognition Under Non-Independent and Non-Identically Distributed Heart Sounds}",
+      "author": "Feng, Yifan and Qiu, Wanyong and Zhang, Haojie and Li, Ruobing and Chang, Yi and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": "2026",
+      "pages": "1--14",
+      "doi": "10.1109/tnnls.2026.3722372",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/tnnls.2026.3722372"
+    }
+  },
+  "li2026vib": {
+    "id": "j03",
+    "title": "VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection",
+    "bibtex": "@article{li2026vib,\n  title = {{VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection}},\n  author = {Li, Ruobing and Shen, Lin and Ma, Liuxian and Lu, Haodong and Zhang, Haojie and Feng, Yifan and Liu, Jiang and Deng, Yilu and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.},\n  journal = {Circuits, Systems, and Signal Processing},\n  year = {2026},\n  doi = {10.1007/s00034-026-03720-1},\n  publisher = {Springer Science and Business Media LLC},\n  url = {https://doi.org/10.1007/s00034-026-03720-1},\n  note = {Online first}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1007/s00034-026-03720-1",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:mVmsd5A6BfQC"
+    ],
+    "verification_note": "Publisher has no final volume/issue/pages; Scholar manuscript pages are not treated as final pagination.",
+    "metadata": {
+      "title": "{VIB-TTS: Making Emotion Text-to-Speech More Accurate via Variational Information Bottleneck and Emotion Dimension-Based Selection}",
+      "author": "Li, Ruobing and Shen, Lin and Ma, Liuxian and Lu, Haodong and Zhang, Haojie and Feng, Yifan and Liu, Jiang and Deng, Yilu and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.",
+      "journal": "Circuits, Systems, and Signal Processing",
+      "year": "2026",
+      "doi": "10.1007/s00034-026-03720-1",
+      "publisher": "Springer Science and Business Media LLC",
+      "url": "https://doi.org/10.1007/s00034-026-03720-1",
+      "note": "Online first"
+    }
+  },
+  "wang2026bayesian": {
+    "id": "j04",
+    "title": "Bayesian knowledge-guided confidence aware model based on multimodal pre-trained LLMs for depression detection",
+    "bibtex": "@article{wang2026bayesian,\n  title = {{Bayesian knowledge-guided confidence aware model based on multimodal pre-trained LLMs for depression detection}},\n  author = {Wang, Zhihua and Zhai, Haotian and Jia, Tianrui and Wang, Zihan and Zhang, Haojie and Qian, Kun and Xu, Chen and Zhang, Zipeng and Xue, Wei and Qi, Wen and Hu, Bin},\n  journal = {Pattern Recognition},\n  year = {2026},\n  volume = {180},\n  pages = {114388},\n  doi = {10.1016/j.patcog.2026.114388},\n  publisher = {Elsevier BV},\n  url = {https://doi.org/10.1016/j.patcog.2026.114388}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1016/j.patcog.2026.114388",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:HDshCWvjkbEC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Bayesian knowledge-guided confidence aware model based on multimodal pre-trained LLMs for depression detection}",
+      "author": "Wang, Zhihua and Zhai, Haotian and Jia, Tianrui and Wang, Zihan and Zhang, Haojie and Qian, Kun and Xu, Chen and Zhang, Zipeng and Xue, Wei and Qi, Wen and Hu, Bin",
+      "journal": "Pattern Recognition",
+      "year": "2026",
+      "volume": "180",
+      "pages": "114388",
+      "doi": "10.1016/j.patcog.2026.114388",
+      "publisher": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.patcog.2026.114388"
+    }
+  },
+  "shen2026echoes": {
+    "id": "j05",
+    "title": "Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion",
+    "bibtex": "@article{shen2026echoes,\n  title = {{Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion}},\n  author = {Shen, Lin and Li, Ruobing and Liu, Xiaoxi and Zhang, Haojie and Zhu, Cuiping and Qian, Kun and Tian, Fuze and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {IEEE Transactions on Multimedia},\n  year = {2026},\n  pages = {1--12},\n  doi = {10.1109/tmm.2026.3704863},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/tmm.2026.3704863}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/tmm.2026.3704863",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:7PzlFSSx8tAC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Echoes of the Brain: Reconstructing Music from EEG via Latent Space Alignment and Guided Diffusion}",
+      "author": "Shen, Lin and Li, Ruobing and Liu, Xiaoxi and Zhang, Haojie and Zhu, Cuiping and Qian, Kun and Tian, Fuze and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "IEEE Transactions on Multimedia",
+      "year": "2026",
+      "pages": "1--12",
+      "doi": "10.1109/tmm.2026.3704863",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/tmm.2026.3704863"
+    }
+  },
+  "han2026federated": {
+    "id": "j06",
+    "title": "Federated learning for prenatal detection of interrupted aortic arch using fetal ultrasound imaging",
+    "bibtex": "@article{han2026federated,\n  title = {{Federated learning for prenatal detection of interrupted aortic arch using fetal ultrasound imaging}},\n  author = {Han, Jiancheng and Wang, Heqing and Feng, Yifan and Yang, Qi and Li, Jingtan and Zhang, Haojie and He, Yihua and Liu, Jiang and Nakamura, Toru and Cao, Yang and Sun, Naidi and Qian, Kun and Hu, Bin and Gao, Xinru and Xia, Yan and Weng, Zongjie and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {Biomedical Signal Processing and Control},\n  year = {2026},\n  volume = {119},\n  pages = {109795},\n  doi = {10.1016/j.bspc.2026.109795},\n  publisher = {Elsevier BV},\n  url = {https://doi.org/10.1016/j.bspc.2026.109795}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1016/j.bspc.2026.109795",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:hC7cP41nSMkC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Federated learning for prenatal detection of interrupted aortic arch using fetal ultrasound imaging}",
+      "author": "Han, Jiancheng and Wang, Heqing and Feng, Yifan and Yang, Qi and Li, Jingtan and Zhang, Haojie and He, Yihua and Liu, Jiang and Nakamura, Toru and Cao, Yang and Sun, Naidi and Qian, Kun and Hu, Bin and Gao, Xinru and Xia, Yan and Weng, Zongjie and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "Biomedical Signal Processing and Control",
+      "year": "2026",
+      "volume": "119",
+      "pages": "109795",
+      "doi": "10.1016/j.bspc.2026.109795",
+      "publisher": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.bspc.2026.109795"
+    }
+  },
+  "jia2026breaking": {
+    "id": "j07",
+    "title": "Breaking through data scarcity: A novel diffusion model approach for snoring sound augmentation and classification",
+    "bibtex": "@article{jia2026breaking,\n  title = {{Breaking through data scarcity: A novel diffusion model approach for snoring sound augmentation and classification}},\n  author = {Jia, Tianrui and Zhang, Haojie and Wu, Hanhan and Sun, Qiyang and Jing, Xin and Meng, Boyang and Shen, Lin and Wang, Liang and Qian, Kun and Zhang, Ye and Hu, Bin and Schultz, Tanja and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {Biomedical Signal Processing and Control},\n  year = {2026},\n  volume = {116},\n  pages = {109449},\n  doi = {10.1016/j.bspc.2026.109449},\n  publisher = {Elsevier BV},\n  url = {https://doi.org/10.1016/j.bspc.2026.109449}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1016/j.bspc.2026.109449",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:qUcmZB5y_30C"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Breaking through data scarcity: A novel diffusion model approach for snoring sound augmentation and classification}",
+      "author": "Jia, Tianrui and Zhang, Haojie and Wu, Hanhan and Sun, Qiyang and Jing, Xin and Meng, Boyang and Shen, Lin and Wang, Liang and Qian, Kun and Zhang, Ye and Hu, Bin and Schultz, Tanja and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "Biomedical Signal Processing and Control",
+      "year": "2026",
+      "volume": "116",
+      "pages": "109449",
+      "doi": "10.1016/j.bspc.2026.109449",
+      "publisher": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.bspc.2026.109449"
+    }
+  },
+  "li2025body": {
+    "id": "j08",
+    "title": "Body sound denoising technologies: A survey and validation",
+    "bibtex": "@article{li2025body,\n  title = {{Body sound denoising technologies: A survey and validation}},\n  author = {Li, Enze and Zhang, Haojie and Qian, Kun and Tian, Fuze and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {Biomedical Signal Processing and Control},\n  year = {2026},\n  volume = {114},\n  pages = {109302},\n  doi = {10.1016/j.bspc.2025.109302},\n  publisher = {Elsevier BV},\n  url = {https://doi.org/10.1016/j.bspc.2025.109302}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1016/j.bspc.2025.109302",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:dhFuZR0502QC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Body sound denoising technologies: A survey and validation}",
+      "author": "Li, Enze and Zhang, Haojie and Qian, Kun and Tian, Fuze and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "Biomedical Signal Processing and Control",
+      "year": "2026",
+      "volume": "114",
+      "pages": "109302",
+      "doi": "10.1016/j.bspc.2025.109302",
+      "publisher": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.bspc.2025.109302"
+    }
+  },
+  "tan2025bbanet": {
+    "id": "j09",
+    "title": "BBANet: Bilateral biological auditory-inspired neural network for heart sound classification",
+    "bibtex": "@article{tan2025bbanet,\n  title = {{BBANet: Bilateral biological auditory-inspired neural network for heart sound classification}},\n  author = {Tan, Yang and Zhang, Haojie and Xu, Jingwen and Wu, Hanhan and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.},\n  journal = {Engineering Applications of Artificial Intelligence},\n  year = {2026},\n  volume = {164},\n  pages = {113165},\n  doi = {10.1016/j.engappai.2025.113165},\n  publisher = {Elsevier BV},\n  url = {https://doi.org/10.1016/j.engappai.2025.113165}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1016/j.engappai.2025.113165",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:9ZlFYXVOiuMC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{BBANet: Bilateral biological auditory-inspired neural network for heart sound classification}",
+      "author": "Tan, Yang and Zhang, Haojie and Xu, Jingwen and Wu, Hanhan and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.",
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "year": "2026",
+      "volume": "164",
+      "pages": "113165",
+      "doi": "10.1016/j.engappai.2025.113165",
+      "publisher": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.engappai.2025.113165"
+    }
+  },
+  "li2025fedvcpl": {
+    "id": "j10",
+    "title": "FedVCPL-Diff: A federated convolutional prototype learning framework with a diffusion model for speech emotion recognition",
+    "bibtex": "@article{li2025fedvcpl,\n  title = {{FedVCPL-Diff: A federated convolutional prototype learning framework with a diffusion model for speech emotion recognition}},\n  author = {Li, Ruobing and Feng, Yifan and Shen, Lin and Ma, Liuxian and Zhang, Haojie and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.},\n  journal = {Information Fusion},\n  year = {2026},\n  volume = {127},\n  pages = {103745},\n  doi = {10.1016/j.inffus.2025.103745},\n  publisher = {Elsevier BV},\n  url = {https://doi.org/10.1016/j.inffus.2025.103745}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1016/j.inffus.2025.103745",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:aqlVkmm33-oC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{FedVCPL-Diff: A federated convolutional prototype learning framework with a diffusion model for speech emotion recognition}",
+      "author": "Li, Ruobing and Feng, Yifan and Shen, Lin and Ma, Liuxian and Zhang, Haojie and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.",
+      "journal": "Information Fusion",
+      "year": "2026",
+      "volume": "127",
+      "pages": "103745",
+      "doi": "10.1016/j.inffus.2025.103745",
+      "publisher": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.inffus.2025.103745"
+    }
+  },
+  "wang2025can": {
+    "id": "j11",
+    "title": "Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-Based Disease Detection? An Interpretable Comparative Study",
+    "bibtex": "@article{wang2025can,\n  title = {{Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-Based Disease Detection? An Interpretable Comparative Study}},\n  author = {Wang, Zhihua and Zhang, Haojie and Tan, Yang and Wang, Rui and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.},\n  journal = {IEEE Journal of Biomedical and Health Informatics},\n  year = {2026},\n  volume = {30},\n  number = {6},\n  pages = {4824--4837},\n  doi = {10.1109/jbhi.2025.3638846},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/jbhi.2025.3638846}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/jbhi.2025.3638846",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:QIV2ME_5wuYC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Can Information Representations Inspired by the Human Auditory Perception Benefit Computer Audition-Based Disease Detection? An Interpretable Comparative Study}",
+      "author": "Wang, Zhihua and Zhang, Haojie and Tan, Yang and Wang, Rui and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.",
+      "journal": "IEEE Journal of Biomedical and Health Informatics",
+      "year": "2026",
+      "volume": "30",
+      "number": "6",
+      "pages": "4824--4837",
+      "doi": "10.1109/jbhi.2025.3638846",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/jbhi.2025.3638846"
+    }
+  },
+  "shen2024first": {
+    "id": "j12",
+    "title": "A First Look at Generative Artificial Intelligence-Based Music Therapy for Mental Disorders",
+    "bibtex": "@article{shen2024first,\n  title = {{A First Look at Generative Artificial Intelligence-Based Music Therapy for Mental Disorders}},\n  author = {Shen, Lin and Zhang, Haojie and Zhu, Cuiping and Li, Ruobing and Qian, Kun and Meng, Wei and Tian, Fuze and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {IEEE Transactions on Consumer Electronics},\n  year = {2025},\n  volume = {71},\n  number = {3},\n  pages = {7439--7453},\n  doi = {10.1109/tce.2024.3514633},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/tce.2024.3514633}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/tce.2024.3514633",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:Se3iqnhoufwC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{A First Look at Generative Artificial Intelligence-Based Music Therapy for Mental Disorders}",
+      "author": "Shen, Lin and Zhang, Haojie and Zhu, Cuiping and Li, Ruobing and Qian, Kun and Meng, Wei and Tian, Fuze and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "IEEE Transactions on Consumer Electronics",
+      "year": "2025",
+      "volume": "71",
+      "number": "3",
+      "pages": "7439--7453",
+      "doi": "10.1109/tce.2024.3514633",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/tce.2024.3514633"
+    }
+  },
+  "tian2025onboard": {
+    "id": "j13",
+    "title": "An Onboard Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals",
+    "bibtex": "@article{tian2025onboard,\n  title = {{An Onboard Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals}},\n  author = {Tian, Fuze and Zhang, Haojie and Liu, Jie and Liu, Jingyu and Zhao, Mingqi and Qian, Kun and Zhao, Qinglin and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.},\n  journal = {IEEE Transactions on Instrumentation and Measurement},\n  year = {2025},\n  volume = {74},\n  pages = {1--20},\n  doi = {10.1109/tim.2025.3617402},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/tim.2025.3617402}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/tim.2025.3617402",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:4DMP91E08xMC"
+    ],
+    "verification_note": "Use publisher-registered pages 1-20; Scholar lists article number 4018620 in its pages field.",
+    "metadata": {
+      "title": "{An Onboard Executable Multitask Network Model for Bioradar-Based ECG Signal Reconstruction Using High-Fidelity DHD Signals}",
+      "author": "Tian, Fuze and Zhang, Haojie and Liu, Jie and Liu, Jingyu and Zhao, Mingqi and Qian, Kun and Zhao, Qinglin and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "year": "2025",
+      "volume": "74",
+      "pages": "1--20",
+      "doi": "10.1109/tim.2025.3617402",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/tim.2025.3617402"
+    }
+  },
+  "zhang2025towards": {
+    "id": "j14",
+    "title": "Toward Practical Colorectal Cancer Diagnosis: A Bowel-Sound-Based System With Portable Sensor and On-Board Lightweight AI Model",
+    "bibtex": "@article{zhang2025towards,\n  title = {{Toward Practical Colorectal Cancer Diagnosis: A Bowel-Sound-Based System With Portable Sensor and On-Board Lightweight AI Model}},\n  author = {Zhang, Haojie and Tian, Fuze and Tan, Yang and Shen, Lin and Li, Enze and Ma, Jiedong and Liu, Jingyu and Qian, Kun and Li, Jing and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.},\n  journal = {IEEE Internet of Things Journal},\n  year = {2025},\n  volume = {12},\n  number = {21},\n  pages = {45722--45736},\n  doi = {10.1109/jiot.2025.3600644},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/jiot.2025.3600644}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/jiot.2025.3600644",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:qxL8FJ1GzNcC",
+      "https://ieeexplore.ieee.org/abstract/document/11131175"
+    ],
+    "verification_note": "Use the final IEEE title, volume, issue and pages; Crossref is still showing early-access metadata.",
+    "metadata": {
+      "title": "{Toward Practical Colorectal Cancer Diagnosis: A Bowel-Sound-Based System With Portable Sensor and On-Board Lightweight AI Model}",
+      "author": "Zhang, Haojie and Tian, Fuze and Tan, Yang and Shen, Lin and Li, Enze and Ma, Jiedong and Liu, Jingyu and Qian, Kun and Li, Jing and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.",
+      "journal": "IEEE Internet of Things Journal",
+      "year": "2025",
+      "volume": "12",
+      "number": "21",
+      "pages": "45722--45736",
+      "doi": "10.1109/jiot.2025.3600644",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/jiot.2025.3600644"
+    }
+  },
+  "zhao2025lsnn": {
+    "id": "j15",
+    "title": "LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors",
+    "bibtex": "@article{zhao2025lsnn,\n  title = {{LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors}},\n  author = {Zhao, Qinglin and Zhang, Lixin and Zhang, Haojie and Jiang, Hua and Cui, Kunbo and Wu, Zhongqing and Liu, Jingyu and Zhao, Mingqi and Tian, Fuze and Hu, Bin},\n  journal = {IEEE Transactions on Mobile Computing},\n  year = {2025},\n  volume = {24},\n  number = {11},\n  pages = {12640--12654},\n  doi = {10.1109/tmc.2025.3586591},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/tmc.2025.3586591}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/tmc.2025.3586591",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:ULOm3_A8WrAC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors}",
+      "author": "Zhao, Qinglin and Zhang, Lixin and Zhang, Haojie and Jiang, Hua and Cui, Kunbo and Wu, Zhongqing and Liu, Jingyu and Zhao, Mingqi and Tian, Fuze and Hu, Bin",
+      "journal": "IEEE Transactions on Mobile Computing",
+      "year": "2025",
+      "volume": "24",
+      "number": "11",
+      "pages": "12640--12654",
+      "doi": "10.1109/tmc.2025.3586591",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/tmc.2025.3586591"
+    }
+  },
+  "qian2025foundation": {
+    "id": "j16",
+    "title": "Foundation models for digital mental health: igniting the dawn",
+    "bibtex": "@article{qian2025foundation,\n  title = {{Foundation models for digital mental health: igniting the dawn}},\n  author = {Qian, Kun and Zhang, Haojie and Jing, Xin and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.},\n  journal = {Medicine Plus},\n  year = {2025},\n  volume = {2},\n  number = {2},\n  pages = {100085},\n  doi = {10.1016/j.medp.2025.100085},\n  publisher = {Elsevier BV},\n  url = {https://doi.org/10.1016/j.medp.2025.100085}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1016/j.medp.2025.100085",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:MXK_kJrjxJIC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Foundation models for digital mental health: igniting the dawn}",
+      "author": "Qian, Kun and Zhang, Haojie and Jing, Xin and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W.",
+      "journal": "Medicine Plus",
+      "year": "2025",
+      "volume": "2",
+      "number": "2",
+      "pages": "100085",
+      "doi": "10.1016/j.medp.2025.100085",
+      "publisher": "Elsevier BV",
+      "url": "https://doi.org/10.1016/j.medp.2025.100085"
+    }
+  },
+  "shen2025enhancing": {
+    "id": "j17",
+    "title": "Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System",
+    "bibtex": "@article{shen2025enhancing,\n  title = {{Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System}},\n  author = {Shen, Lin and Zhang, Haojie and Zhu, Cuiping and Li, Ruobing and Qian, Kun and Tian, Fuze and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {IEEE Transactions on Affective Computing},\n  year = {2025},\n  volume = {16},\n  number = {3},\n  pages = {2245--2260},\n  doi = {10.1109/taffc.2025.3557873},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/taffc.2025.3557873}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/taffc.2025.3557873",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:8k81kl-MbHgC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Enhancing Emotion Regulation in Mental Disorder Treatment: An AIGC-Based Closed-Loop Music Intervention System}",
+      "author": "Shen, Lin and Zhang, Haojie and Zhu, Cuiping and Li, Ruobing and Qian, Kun and Tian, Fuze and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "IEEE Transactions on Affective Computing",
+      "year": "2025",
+      "volume": "16",
+      "number": "3",
+      "pages": "2245--2260",
+      "doi": "10.1109/taffc.2025.3557873",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/taffc.2025.3557873"
+    }
+  },
+  "zhang2025ai": {
+    "id": "j18",
+    "title": "An AI-Assisted All-in-One Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor With an On-Board Executable Lightweight Model",
+    "bibtex": "@article{zhang2025ai,\n  title = {{An AI-Assisted All-in-One Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor With an On-Board Executable Lightweight Model}},\n  author = {Zhang, Haojie and Tian, Fuze and Tan, Yang and Shen, Lin and Liu, Jingyu and Liu, Jie and Qian, Kun and Han, Yalei and Su, Gong and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {IEEE Transactions on Mobile Computing},\n  year = {2025},\n  volume = {24},\n  number = {8},\n  pages = {7252--7266},\n  doi = {10.1109/tmc.2025.3547842},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/tmc.2025.3547842}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/tmc.2025.3547842",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:hqOjcs7Dif8C"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{An AI-Assisted All-in-One Integrated Coronary Artery Disease Diagnosis System Using a Portable Heart Sound Sensor With an On-Board Executable Lightweight Model}",
+      "author": "Zhang, Haojie and Tian, Fuze and Tan, Yang and Shen, Lin and Liu, Jingyu and Liu, Jie and Qian, Kun and Han, Yalei and Su, Gong and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "IEEE Transactions on Mobile Computing",
+      "year": "2025",
+      "volume": "24",
+      "number": "8",
+      "pages": "7252--7266",
+      "doi": "10.1109/tmc.2025.3547842",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/tmc.2025.3547842"
+    }
+  },
+  "tian2025on": {
+    "id": "j19",
+    "title": "An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis",
+    "bibtex": "@article{tian2025on,\n  title = {{An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis}},\n  author = {Tian, Fuze and Zhang, Haojie and Tan, Yang and Zhu, Lixian and Shen, Lin and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  journal = {IEEE Journal of Biomedical and Health Informatics},\n  year = {2025},\n  volume = {29},\n  number = {1},\n  pages = {152--165},\n  doi = {10.1109/jbhi.2024.3487012},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/jbhi.2024.3487012}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/jbhi.2024.3487012",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:roLk4NBRz8UC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{An On-Board Executable Multi-Feature Transfer-Enhanced Fusion Model for Three-Lead EEG Sensor-Assisted Depression Diagnosis}",
+      "author": "Tian, Fuze and Zhang, Haojie and Tan, Yang and Zhu, Lixian and Shen, Lin and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "journal": "IEEE Journal of Biomedical and Health Informatics",
+      "year": "2025",
+      "volume": "29",
+      "number": "1",
+      "pages": "152--165",
+      "doi": "10.1109/jbhi.2024.3487012",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/jbhi.2024.3487012"
+    }
+  },
+  "meng2026similarity": {
+    "id": "c01",
+    "title": "Similarity as Evidence: An Explainable Siamese Framework for Snore Sound Classification",
+    "bibtex": "@inproceedings{meng2026similarity,\n  title = {{Similarity as Evidence: An Explainable Siamese Framework for Snore Sound Classification}},\n  author = {Meng, Boyang and Sun, Mengkai and Zhang, Haojie and Qian, Kun and Xue, Wei and Hu, Bin and Schuller, Bjoern},\n  booktitle = {Interspeech 2026 [Long Track]},\n  year = {2026},\n  pages = {2790--2798},\n  doi = {10.21437/Interspeech.2026-2153},\n  location = {Sydney, Australia},\n  publisher = {ISCA},\n  url = {https://doi.org/10.21437/Interspeech.2026-2153}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:mB3voiENLucC",
+      "https://www.isca-archive.org/interspeech_2026/meng26f_interspeech.html",
+      "https://www.isca-archive.org/interspeech_2026/index.html"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Similarity as Evidence: An Explainable Siamese Framework for Snore Sound Classification}",
+      "author": "Meng, Boyang and Sun, Mengkai and Zhang, Haojie and Qian, Kun and Xue, Wei and Hu, Bin and Schuller, Bjoern",
+      "booktitle": "Interspeech 2026 [Long Track]",
+      "year": "2026",
+      "pages": "2790--2798",
+      "doi": "10.21437/Interspeech.2026-2153",
+      "location": "Sydney, Australia",
+      "publisher": "ISCA",
+      "url": "https://doi.org/10.21437/Interspeech.2026-2153"
+    }
+  },
+  "yang2026object": {
+    "id": "c02",
+    "title": "Object-Aware Masked Generative Distillation for Lightweight Agricultural Insect Detection",
+    "bibtex": "@inproceedings{yang2026object,\n  title = {{Object-Aware Masked Generative Distillation for Lightweight Agricultural Insect Detection}},\n  author = {Yang, Hua and Zhang, Haojie},\n  booktitle = {Proceedings of the 7th International Conference on Computer Engineering and Application (ICCEA 2026)},\n  year = {2026},\n  location = {Chongqing, China},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:hFOr9nPyWt4C}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:hFOr9nPyWt4C",
+      "https://www.ic-cea.org/iccea2026"
+    ],
+    "verification_note": "Title/authors/conference/year verified in the author Scholar record; venue verified on conference website. No matching publisher paper record or final pages/DOI found; omit unknown fields.",
+    "metadata": {
+      "title": "{Object-Aware Masked Generative Distillation for Lightweight Agricultural Insect Detection}",
+      "author": "Yang, Hua and Zhang, Haojie",
+      "booktitle": "Proceedings of the 7th International Conference on Computer Engineering and Application (ICCEA 2026)",
+      "year": "2026",
+      "location": "Chongqing, China",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:hFOr9nPyWt4C"
+    }
+  },
+  "jiang2026lightweight": {
+    "id": "c03",
+    "title": "Lightweight Optic Disc and Cup Detection in Fundus Images via Feature Distillation for Box-Based CDR Estimation",
+    "bibtex": "@inproceedings{jiang2026lightweight,\n  title = {{Lightweight Optic Disc and Cup Detection in Fundus Images via Feature Distillation for Box-Based CDR Estimation}},\n  author = {Jiang, Lei and Zhang, Haojie and Yang, Kan},\n  booktitle = {Proceedings of the 2026 6th International Conference on Biomedicine and Bioinformatics Engineering},\n  year = {2026},\n  pages = {121--127},\n  doi = {10.1145/3822183.3822204},\n  location = {Nanchang, China},\n  publisher = {ACM},\n  url = {https://doi.org/10.1145/3822183.3822204}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1145/3822183.3822204",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:-f6ydRqryjwC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Lightweight Optic Disc and Cup Detection in Fundus Images via Feature Distillation for Box-Based CDR Estimation}",
+      "author": "Jiang, Lei and Zhang, Haojie and Yang, Kan",
+      "booktitle": "Proceedings of the 2026 6th International Conference on Biomedicine and Bioinformatics Engineering",
+      "year": "2026",
+      "pages": "121--127",
+      "doi": "10.1145/3822183.3822204",
+      "location": "Nanchang, China",
+      "publisher": "ACM",
+      "url": "https://doi.org/10.1145/3822183.3822204"
+    }
+  },
+  "zhang2026dendritic": {
+    "id": "c04",
+    "title": "Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening",
+    "bibtex": "@inproceedings{zhang2026dendritic,\n  title = {{Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening}},\n  author = {Zhang, Haojie and Li, Enze and Tan, Yang and Shen, Lin and Qian, Kun and Li, Jing and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {2026 IEEE International Conference on Consumer Electronics (ICCE)},\n  year = {2026},\n  pages = {1--4},\n  doi = {10.1109/icce67443.2026.11449727},\n  location = {Dubai, United Arab Emirates},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/icce67443.2026.11449727}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/icce67443.2026.11449727",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:IWHjjKOFINEC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Dendritic-Spine-Inspired Structural Optimization in a Lightweight Bowel Sound Analysis System for On-Device Colorectal Cancer Screening}",
+      "author": "Zhang, Haojie and Li, Enze and Tan, Yang and Shen, Lin and Qian, Kun and Li, Jing and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "2026 IEEE International Conference on Consumer Electronics (ICCE)",
+      "year": "2026",
+      "pages": "1--4",
+      "doi": "10.1109/icce67443.2026.11449727",
+      "location": "Dubai, United Arab Emirates",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/icce67443.2026.11449727"
+    }
+  },
+  "yang2025lightweight": {
+    "id": "c05",
+    "title": "Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems",
+    "bibtex": "@inproceedings{yang2025lightweight,\n  title = {{Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems}},\n  author = {Yang, Hua and Zhang, Haojie},\n  booktitle = {Proceedings of the 2025 5th International Conference on Big Data, Artificial Intelligence and Risk Management},\n  year = {2025},\n  pages = {1252--1256},\n  doi = {10.1145/3800227.3800418},\n  location = {Dongguan, China},\n  publisher = {ACM},\n  url = {https://doi.org/10.1145/3800227.3800418}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1145/3800227.3800418",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:L8Ckcad2t8MC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Lightweight Fatigue Detection Using Physiological Signals via Knowledge Distillation for Usage-Based Insurance Systems}",
+      "author": "Yang, Hua and Zhang, Haojie",
+      "booktitle": "Proceedings of the 2025 5th International Conference on Big Data, Artificial Intelligence and Risk Management",
+      "year": "2025",
+      "pages": "1252--1256",
+      "doi": "10.1145/3800227.3800418",
+      "location": "Dongguan, China",
+      "publisher": "ACM",
+      "url": "https://doi.org/10.1145/3800227.3800418"
+    }
+  },
+  "gurlev2025heart": {
+    "id": "c06",
+    "title": "Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the Ising Model",
+    "bibtex": "@inproceedings{gurlev2025heart,\n  title = {{Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the Ising Model}},\n  author = {Gurlev, Vladimir and Sun, Mengkai and Zhang, Haojie and Jin, Yun and Jia, Maoshen and Li, Kezhi and Morita, Kenji and Abry, Patrice and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {Proceedings of the 12th Conference on Sound and Music Technology (CSMT)},\n  year = {2025},\n  location = {Hohhot, China},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:Wp0gIr-vW9MC}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:Wp0gIr-vW9MC",
+      "https://www.csmcw-csmt.org.cn/news/info/47?Nid=654"
+    ],
+    "verification_note": "Title/authors verified in the author Scholar record; event verified with the organizer. A final paper DOI and proceedings pagination were not found; omit these fields. Correct lsing to Ising.",
+    "metadata": {
+      "title": "{Heart Sound Classification via Adaptive Feature Selection and Two-Level Clustering Based on the Ising Model}",
+      "author": "Gurlev, Vladimir and Sun, Mengkai and Zhang, Haojie and Jin, Yun and Jia, Maoshen and Li, Kezhi and Morita, Kenji and Abry, Patrice and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "Proceedings of the 12th Conference on Sound and Music Technology (CSMT)",
+      "year": "2025",
+      "location": "Hohhot, China",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:Wp0gIr-vW9MC"
+    }
+  },
+  "zhang2025multi": {
+    "id": "c07",
+    "title": "A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model",
+    "bibtex": "@inproceedings{zhang2025multi,\n  title = {{A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model}},\n  author = {Zhang, Haojie and Li, Enze and Tan, Yang and Shen, Lin and Zhang, Yongxin and Deng, Yilu and Qian, Kun and Li, Kezhi and Nakamura, Toru and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)},\n  year = {2025},\n  pages = {280--281},\n  doi = {10.1109/gcce65946.2025.11274582},\n  location = {Osaka, Japan},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/gcce65946.2025.11274582}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/gcce65946.2025.11274582",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:YOwf2qJgpHMC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{A Multi-Class Valvular Heart Disease Diagnosis System Using a Two-Stage Lightweight Model}",
+      "author": "Zhang, Haojie and Li, Enze and Tan, Yang and Shen, Lin and Zhang, Yongxin and Deng, Yilu and Qian, Kun and Li, Kezhi and Nakamura, Toru and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)",
+      "year": "2025",
+      "pages": "280--281",
+      "doi": "10.1109/gcce65946.2025.11274582",
+      "location": "Osaka, Japan",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/gcce65946.2025.11274582"
+    }
+  },
+  "cao2025somatisation": {
+    "id": "c08",
+    "title": "Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet",
+    "bibtex": "@inproceedings{cao2025somatisation,\n  title = {{Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet}},\n  author = {Cao, Zhijing and Shen, Lin and Ma, Liuxian and Liu, Xiaoxi and Zhang, Haojie and Zhang, Yongxin and Deng, Yilu and Qian, Kun and Huang, Ruolan and Nakamura, Toru and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)},\n  year = {2025},\n  pages = {725--726},\n  doi = {10.1109/gcce65946.2025.11275046},\n  location = {Osaka, Japan},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/gcce65946.2025.11275046}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/gcce65946.2025.11275046",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:_kc_bZDykSQC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Somatisation Disorder Recognition by Stream Fusion with WavLM and Enhanced ResNet}",
+      "author": "Cao, Zhijing and Shen, Lin and Ma, Liuxian and Liu, Xiaoxi and Zhang, Haojie and Zhang, Yongxin and Deng, Yilu and Qian, Kun and Huang, Ruolan and Nakamura, Toru and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "2025 IEEE 14th Global Conference on Consumer Electronics (GCCE)",
+      "year": "2025",
+      "pages": "725--726",
+      "doi": "10.1109/gcce65946.2025.11275046",
+      "location": "Osaka, Japan",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/gcce65946.2025.11275046"
+    }
+  },
+  "wu2025exploring": {
+    "id": "c09",
+    "title": "Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation",
+    "bibtex": "@inproceedings{wu2025exploring,\n  title = {{Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation}},\n  author = {Wu, Chenhao and Cai, Xiangjun and Zhang, Haojie and Jia, Tianrui and Deng, Yilu and Qian, Kun and Schuller, Björn W and Yamamoto, Yoshiharu and Liu, Jiang},\n  booktitle = {Interspeech 2025},\n  year = {2025},\n  pages = {1708--1712},\n  doi = {10.21437/interspeech.2025-571},\n  location = {Rotterdam, The Netherlands},\n  publisher = {ISCA},\n  url = {https://doi.org/10.21437/interspeech.2025-571}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.21437/interspeech.2025-571",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:3fE2CSJIrl8C",
+      "https://www.isca-archive.org/interspeech_2025/index.html"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Exploring the Power of Empirical Mode Decomposition for Sensing the Sound of Silence: A Pilot Study on Mice Autism Detection via Ultrasonic Vocalisation}",
+      "author": "Wu, Chenhao and Cai, Xiangjun and Zhang, Haojie and Jia, Tianrui and Deng, Yilu and Qian, Kun and Schuller, Björn W and Yamamoto, Yoshiharu and Liu, Jiang",
+      "booktitle": "Interspeech 2025",
+      "year": "2025",
+      "pages": "1708--1712",
+      "doi": "10.21437/interspeech.2025-571",
+      "location": "Rotterdam, The Netherlands",
+      "publisher": "ISCA",
+      "url": "https://doi.org/10.21437/interspeech.2025-571"
+    }
+  },
+  "yang2025mad": {
+    "id": "c10",
+    "title": "MADUV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge",
+    "bibtex": "@inproceedings{yang2025mad,\n  title = {{MADUV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge}},\n  author = {Yang, Zijiang and Song, Meishu and Jing, Xin and Zhang, Haojie and Qian, Kun and Hu, Bin and Tamada, Kota and Takumi, Toru and Schuller, Björn W and Yamamoto, Yoshiharu},\n  booktitle = {Interspeech 2025},\n  year = {2025},\n  pages = {1718--1722},\n  doi = {10.21437/interspeech.2025-127},\n  location = {Rotterdam, The Netherlands},\n  publisher = {ISCA},\n  url = {https://doi.org/10.21437/interspeech.2025-127}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.21437/interspeech.2025-127",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:UebtZRa9Y70C",
+      "https://www.isca-archive.org/interspeech_2025/index.html",
+      "https://www.isca-archive.org/interspeech_2025/yang25b_interspeech.html"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{MADUV: The 1st INTERSPEECH Mice Autism Detection via Ultrasound Vocalization Challenge}",
+      "author": "Yang, Zijiang and Song, Meishu and Jing, Xin and Zhang, Haojie and Qian, Kun and Hu, Bin and Tamada, Kota and Takumi, Toru and Schuller, Björn W and Yamamoto, Yoshiharu",
+      "booktitle": "Interspeech 2025",
+      "year": "2025",
+      "pages": "1718--1722",
+      "doi": "10.21437/interspeech.2025-127",
+      "location": "Rotterdam, The Netherlands",
+      "publisher": "ISCA",
+      "url": "https://doi.org/10.21437/interspeech.2025-127"
+    }
+  },
+  "tan2025latent": {
+    "id": "c11",
+    "title": "A Latent Diffusion Model for Heart Sound Synthesis",
+    "bibtex": "@inproceedings{tan2025latent,\n  title = {{A Latent Diffusion Model for Heart Sound Synthesis}},\n  author = {Tan, Yang and Zhang, Haojie and Chang, Yi and Wu, Qingrong and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT)},\n  year = {2025},\n  pages = {1314--1319},\n  doi = {10.1109/iscait64916.2025.11010636},\n  location = {Xi'an, China},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/iscait64916.2025.11010636}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/iscait64916.2025.11010636",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:0EnyYjriUFMC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{A Latent Diffusion Model for Heart Sound Synthesis}",
+      "author": "Tan, Yang and Zhang, Haojie and Chang, Yi and Wu, Qingrong and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "2025 4th International Symposium on Computer Applications and Information Technology (ISCAIT)",
+      "year": "2025",
+      "pages": "1314--1319",
+      "doi": "10.1109/iscait64916.2025.11010636",
+      "location": "Xi'an, China",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/iscait64916.2025.11010636"
+    }
+  },
+  "li2024ecg": {
+    "id": "c12",
+    "title": "ECG-DPM: Electrocardiogram Generation via a Spectrogram-based Diffusion Probabilistic Model",
+    "bibtex": "@inproceedings{li2024ecg,\n  title = {{ECG-DPM: Electrocardiogram Generation via a Spectrogram-based Diffusion Probabilistic Model}},\n  author = {Li, Lujundong and Xia, Tong and Zhang, Haojie and He, Dongchen and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W. and Mascolo, Cecilia},\n  booktitle = {2024 IEEE Smart World Congress (SWC)},\n  year = {2024},\n  pages = {300--305},\n  doi = {10.1109/swc62898.2024.00074},\n  location = {Nadi, Fiji},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/swc62898.2024.00074}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/swc62898.2024.00074",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:_FxGoFyzp5QC"
+    ],
+    "verification_note": "IEEE publisher registration puts this paper in the 2024 IEEE Smart World Congress proceedings, with location Nadi, Fiji; UIC is a co-located conference and Denarau is the venue area.",
+    "metadata": {
+      "title": "{ECG-DPM: Electrocardiogram Generation via a Spectrogram-based Diffusion Probabilistic Model}",
+      "author": "Li, Lujundong and Xia, Tong and Zhang, Haojie and He, Dongchen and Qian, Kun and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W. and Mascolo, Cecilia",
+      "booktitle": "2024 IEEE Smart World Congress (SWC)",
+      "year": "2024",
+      "pages": "300--305",
+      "doi": "10.1109/swc62898.2024.00074",
+      "location": "Nadi, Fiji",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/swc62898.2024.00074"
+    }
+  },
+  "liu2024advancing": {
+    "id": "c13",
+    "title": "Advancing Metadata-Convolutional Neural Networks with Multi-supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis",
+    "bibtex": "@inproceedings{liu2024advancing,\n  title = {{Advancing Metadata-Convolutional Neural Networks with Multi-supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis}},\n  author = {Liu, Miao and Zhang, Haojie and Qian, Kun and Hu, Bin and Nakamura, Toru and Nomura, Taishin and Zhang, Jian and Tang, Zhangguo and Schuller, Björn W. and Yamamoto, Yoshiharu and Li, Huanzhou},\n  booktitle = {Proceedings of the 11th Conference on Sound and Music Technology},\n  year = {2025},\n  pages = {25--36},\n  doi = {10.1007/978-981-96-4783-5_3},\n  location = {Wuhan, China},\n  publisher = {Springer Nature Singapore},\n  url = {https://doi.org/10.1007/978-981-96-4783-5_3}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1007/978-981-96-4783-5_3",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:LkGwnXOMwfcC",
+      "https://link.springer.com/chapter/10.1007/978-981-96-4783-5_3",
+      "https://www.csmcw-csmt.org.cn/news/info/47?Nid=629"
+    ],
+    "verification_note": "Conference held in 2024; publisher year is 2025. Keep Scholar-style key year 2024 and use year=2025 in the citation.",
+    "metadata": {
+      "title": "{Advancing Metadata-Convolutional Neural Networks with Multi-supervised Contrastive Learning and Metadata Insights for Respiratory Sound Analysis}",
+      "author": "Liu, Miao and Zhang, Haojie and Qian, Kun and Hu, Bin and Nakamura, Toru and Nomura, Taishin and Zhang, Jian and Tang, Zhangguo and Schuller, Björn W. and Yamamoto, Yoshiharu and Li, Huanzhou",
+      "booktitle": "Proceedings of the 11th Conference on Sound and Music Technology",
+      "year": "2025",
+      "pages": "25--36",
+      "doi": "10.1007/978-981-96-4783-5_3",
+      "location": "Wuhan, China",
+      "publisher": "Springer Nature Singapore",
+      "url": "https://doi.org/10.1007/978-981-96-4783-5_3"
+    }
+  },
+  "gao2024clearer": {
+    "id": "c14",
+    "title": "Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning",
+    "bibtex": "@inproceedings{gao2024clearer,\n  title = {{Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning}},\n  author = {Gao, Peng and Zhang, Haojie and Shen, Lin and Zhang, Yongxin and Liu, Jiang and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)},\n  year = {2024},\n  pages = {1--5},\n  doi = {10.1109/healthcom60970.2024.10880716},\n  location = {Nara, Japan},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/healthcom60970.2024.10880716}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/healthcom60970.2024.10880716",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:ufrVoPGSRksC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Clearer Lub-Dub: A Novel Approach in Heart Sound Denoising Based on Transfer Learning}",
+      "author": "Gao, Peng and Zhang, Haojie and Shen, Lin and Zhang, Yongxin and Liu, Jiang and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)",
+      "year": "2024",
+      "pages": "1--5",
+      "doi": "10.1109/healthcom60970.2024.10880716",
+      "location": "Nara, Japan",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/healthcom60970.2024.10880716"
+    }
+  },
+  "wu2024inspiration": {
+    "id": "c15",
+    "title": "Inspiration of Prototype Knowledge: Introducing a Meta-Learning Approach to Heart Sound Classification",
+    "bibtex": "@inproceedings{wu2024inspiration,\n  title = {{Inspiration of Prototype Knowledge: Introducing a Meta-Learning Approach to Heart Sound Classification}},\n  author = {Wu, Qingrong and Sun, Mengkai and Zhang, Haojie and Zhang, Yongxin and Liu, Yiming and Meng, Boyang and Qian, Kun and Hu, Bin and Nakamura, Toru and Nomura, Taishin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)},\n  year = {2024},\n  pages = {1--4},\n  doi = {10.1109/healthcom60970.2024.10880804},\n  location = {Nara, Japan},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/healthcom60970.2024.10880804}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/healthcom60970.2024.10880804",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:WF5omc3nYNoC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Inspiration of Prototype Knowledge: Introducing a Meta-Learning Approach to Heart Sound Classification}",
+      "author": "Wu, Qingrong and Sun, Mengkai and Zhang, Haojie and Zhang, Yongxin and Liu, Yiming and Meng, Boyang and Qian, Kun and Hu, Bin and Nakamura, Toru and Nomura, Taishin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)",
+      "year": "2024",
+      "pages": "1--4",
+      "doi": "10.1109/healthcom60970.2024.10880804",
+      "location": "Nara, Japan",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/healthcom60970.2024.10880804"
+    }
+  },
+  "sun2024lif": {
+    "id": "c16",
+    "title": "LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and Squeeze-and-Excitation Blocks for Bioacoustic Event Detection",
+    "bibtex": "@techreport{sun2024lif,\n  title = {{LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and Squeeze-and-Excitation Blocks for Bioacoustic Event Detection}},\n  author = {Sun, Mengkai and Zhang, Haojie and Qian, Kun and Hu, Bin},\n  institution = {DCASE 2024 Challenge},\n  type = {Technical report},\n  year = {2024},\n  pages = {1--4},\n  location = {Tokyo, Japan},\n  url = {https://dcase.community/documents/challenge2024/technical_reports/DCASE2024_QianHu_92_5.pdf},\n  note = {Technical report submitted to the DCASE 2024 Challenge; location refers to the associated DCASE 2024 Workshop}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:5nxA0vEk-isC",
+      "https://dcase.community/documents/challenge2024/technical_reports/DCASE2024_QianHu_92_5.pdf",
+      "https://dcase.community/workshop2024/"
+    ],
+    "verification_note": "Official report has four pages. Challenge report is not relabeled as a workshop proceedings paper; qualify the workshop location.",
+    "metadata": {
+      "title": "{LIF-ProtoNet: Prototypical Network with Leaky Integrate-and-Fire Neuron and Squeeze-and-Excitation Blocks for Bioacoustic Event Detection}",
+      "author": "Sun, Mengkai and Zhang, Haojie and Qian, Kun and Hu, Bin",
+      "institution": "DCASE 2024 Challenge",
+      "type": "Technical report",
+      "year": "2024",
+      "pages": "1--4",
+      "location": "Tokyo, Japan",
+      "url": "https://dcase.community/documents/challenge2024/technical_reports/DCASE2024_QianHu_92_5.pdf",
+      "note": "Technical report submitted to the DCASE 2024 Challenge; location refers to the associated DCASE 2024 Workshop"
+    }
+  },
+  "shen2024self": {
+    "id": "c17",
+    "title": "面向心音识别的自监督联邦学习 (Self-Supervised Federated Learning for Heart Sound Recognition)",
+    "bibtex": "@inproceedings{shen2024self,\n  title = {{面向心音识别的自监督联邦学习 (Self-Supervised Federated Learning for Heart Sound Recognition)}},\n  author = {Shen, Xiaoyu and Qiu, Wanyong and Zhang, Haojie and Qian, Kun and Yu, Yongzi and Hu, Bin},\n  booktitle = {Proceedings of the 19th National Conference on Man-Machine Speech Communication (NCMMSC)},\n  year = {2024},\n  location = {Urumqi, China},\n  url = {https://www.researchgate.net/publication/385420158_mianxiangxinyinshibiedezijiandulianbangxuexi_Self-Supervised_Federated_Learning_for_Heart_Sound_Recognition}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:eQOLeE2rZwMC",
+      "https://www.ncmmsc.org.cn/2024/news/show.asp?id=28",
+      "https://www.ncmmsc.org.cn/2024/UploadFile/file/20240813/20240813215056965696.pdf",
+      "https://www.ncmmsc.org.cn/2024/dhrc/"
+    ],
+    "verification_note": "Official acceptance list and program verify the paper and all six authors; event website verifies Urumqi. Final proceedings pages/DOI were not retrievable; omit unknown fields.",
+    "metadata": {
+      "title": "{面向心音识别的自监督联邦学习 (Self-Supervised Federated Learning for Heart Sound Recognition)}",
+      "author": "Shen, Xiaoyu and Qiu, Wanyong and Zhang, Haojie and Qian, Kun and Yu, Yongzi and Hu, Bin",
+      "booktitle": "Proceedings of the 19th National Conference on Man-Machine Speech Communication (NCMMSC)",
+      "year": "2024",
+      "location": "Urumqi, China",
+      "url": "https://www.researchgate.net/publication/385420158_mianxiangxinyinshibiedezijiandulianbangxuexi_Self-Supervised_Federated_Learning_for_Heart_Sound_Recognition"
+    }
+  },
+  "ma2024e": {
+    "id": "c18",
+    "title": "E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition",
+    "bibtex": "@inproceedings{ma2024e,\n  title = {{E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition}},\n  author = {Ma, Liuxian and Shen, Lin and Li, Ruobing and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Björn W and Yamamoto, Yoshiharu},\n  booktitle = {Interspeech 2024},\n  year = {2024},\n  pages = {4293--4297},\n  doi = {10.21437/interspeech.2024-685},\n  location = {Kos, Greece},\n  publisher = {ISCA},\n  url = {https://doi.org/10.21437/interspeech.2024-685}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.21437/interspeech.2024-685",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:W7OEmFMy1HYC",
+      "https://www.isca-archive.org/interspeech_2024/index.html"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition}",
+      "author": "Ma, Liuxian and Shen, Lin and Li, Ruobing and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Björn W and Yamamoto, Yoshiharu",
+      "booktitle": "Interspeech 2024",
+      "year": "2024",
+      "pages": "4293--4297",
+      "doi": "10.21437/interspeech.2024-685",
+      "location": "Kos, Greece",
+      "publisher": "ISCA",
+      "url": "https://doi.org/10.21437/interspeech.2024-685"
+    }
+  },
+  "qiu2024study": {
+    "id": "c19",
+    "title": "Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification",
+    "bibtex": "@inproceedings{qiu2024study,\n  title = {{Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification}},\n  author = {Qiu, Xihang and Zhu, Lixian and Song, Zikai and Chen, Zeyu and Zhang, Haojie and Qian, Kun and Zhang, Ye and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W},\n  booktitle = {Interspeech 2024},\n  year = {2024},\n  pages = {137--141},\n  doi = {10.21437/interspeech.2024-439},\n  location = {Kos, Greece},\n  publisher = {ISCA},\n  url = {https://doi.org/10.21437/interspeech.2024-439}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.21437/interspeech.2024-439",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:Y0pCki6q_DkC",
+      "https://www.isca-archive.org/interspeech_2024/index.html"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Study Selectively: An Adaptive Knowledge Distillation based on a Voting Network for Heart Sound Classification}",
+      "author": "Qiu, Xihang and Zhu, Lixian and Song, Zikai and Chen, Zeyu and Zhang, Haojie and Qian, Kun and Zhang, Ye and Hu, Bin and Yamamoto, Yoshiharu and Schuller, Björn W",
+      "booktitle": "Interspeech 2024",
+      "year": "2024",
+      "pages": "137--141",
+      "doi": "10.21437/interspeech.2024-439",
+      "location": "Kos, Greece",
+      "publisher": "ISCA",
+      "url": "https://doi.org/10.21437/interspeech.2024-439"
+    }
+  },
+  "ji2024weight": {
+    "id": "c20",
+    "title": "Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model",
+    "bibtex": "@inproceedings{ji2024weight,\n  title = {{Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model}},\n  author = {Ji, Jiahao and Zhu, Lixian and Zhang, Haojie and Qian, Kun and Xu, Kele and Song, Zikai and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {2024 32nd European Signal Processing Conference (EUSIPCO)},\n  year = {2024},\n  pages = {326--330},\n  doi = {10.23919/eusipco63174.2024.10715018},\n  location = {Lyon, France},\n  publisher = {IEEE},\n  url = {https://doi.org/10.23919/eusipco63174.2024.10715018}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.23919/eusipco63174.2024.10715018",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:Tyk-4Ss8FVUC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Weight Light, Hear Right: Heart Sound Classification with a Low-Complexity Model}",
+      "author": "Ji, Jiahao and Zhu, Lixian and Zhang, Haojie and Qian, Kun and Xu, Kele and Song, Zikai and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "2024 32nd European Signal Processing Conference (EUSIPCO)",
+      "year": "2024",
+      "pages": "326--330",
+      "doi": "10.23919/eusipco63174.2024.10715018",
+      "location": "Lyon, France",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.23919/eusipco63174.2024.10715018"
+    }
+  },
+  "yuan2024deep": {
+    "id": "c21",
+    "title": "Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation",
+    "bibtex": "@inproceedings{yuan2024deep,\n  title = {{Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation}},\n  author = {Yuan, Chengyu and Xiong, Hao and Shangguan, Guoqing and Shen, Hualei and Liu, Dong and Zhang, Haojie and Liu, Zhonghua and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu and Berkovsky, Shlomo},\n  booktitle = {ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},\n  year = {2024},\n  pages = {1676--1680},\n  doi = {10.1109/icassp48485.2024.10446716},\n  location = {Seoul, Republic of Korea},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/icassp48485.2024.10446716}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/icassp48485.2024.10446716",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:UeHWp8X0CEIC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Deep Fusion of Shifted MLP and CNN for Medical Image Segmentation}",
+      "author": "Yuan, Chengyu and Xiong, Hao and Shangguan, Guoqing and Shen, Hualei and Liu, Dong and Zhang, Haojie and Liu, Zhonghua and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu and Berkovsky, Shlomo",
+      "booktitle": "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "year": "2024",
+      "pages": "1676--1680",
+      "doi": "10.1109/icassp48485.2024.10446716",
+      "location": "Seoul, Republic of Korea",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/icassp48485.2024.10446716"
+    }
+  },
+  "song2023crossmodal": {
+    "id": "c22",
+    "title": "Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction",
+    "bibtex": "@inproceedings{song2023crossmodal,\n  title = {{Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction}},\n  author = {Song, Meishu and Yang, Zijiang and Triantafyllopoulos, Andreas and Nakamura, Toru and Zhang, Yongxin and Ren, Zhao and Takeuchi, Hiroki and Kishi, Akifumi and Ishizawa, Tetsuro and Yoshiuchi, Kazuhiro and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu},\n  booktitle = {2023 IEEE International Conference on Data Mining Workshops (ICDMW)},\n  year = {2023},\n  pages = {1299--1305},\n  doi = {10.1109/icdmw60847.2023.00167},\n  location = {Shanghai, China},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/icdmw60847.2023.00167}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://api.crossref.org/works/10.1109/icdmw60847.2023.00167",
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:qjMakFHDy7sC"
+    ],
+    "verification_note": "Publisher-registered metadata checked against the author Scholar record",
+    "metadata": {
+      "title": "{Crossmodal Transformer on Multi-Physical Signals for Personalised Daily Mental Health Prediction}",
+      "author": "Song, Meishu and Yang, Zijiang and Triantafyllopoulos, Andreas and Nakamura, Toru and Zhang, Yongxin and Ren, Zhao and Takeuchi, Hiroki and Kishi, Akifumi and Ishizawa, Tetsuro and Yoshiuchi, Kazuhiro and Zhang, Haojie and Qian, Kun and Hu, Bin and Schuller, Björn W. and Yamamoto, Yoshiharu",
+      "booktitle": "2023 IEEE International Conference on Data Mining Workshops (ICDMW)",
+      "year": "2023",
+      "pages": "1299--1305",
+      "doi": "10.1109/icdmw60847.2023.00167",
+      "location": "Shanghai, China",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/icdmw60847.2023.00167"
+    }
+  },
+  "zhang2023from": {
+    "id": "c23",
+    "title": "From Noise to Sound: Audio Synthesis via Diffusion Models",
+    "bibtex": "@techreport{zhang2023from,\n  title = {{From Noise to Sound: Audio Synthesis via Diffusion Models}},\n  author = {Zhang, Haojie and Qian, Kun and Shen, Lin and Li, Lujundong and Xu, Kele and Hu, Bin},\n  institution = {DCASE 2023 Challenge},\n  type = {Technical report},\n  year = {2023},\n  pages = {1--4},\n  location = {Tampere, Finland},\n  url = {https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf},\n  note = {Technical report submitted to the DCASE 2023 Challenge; location refers to the associated DCASE 2023 Workshop}\n}",
+    "verified_on": "2026-10-13",
+    "key_source": "Generated in Scholar-style format, as authorized by the user; not a raw Scholar export",
+    "sources": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=Q6bJyiwAAAAJ&pagesize=100&citation_for_view=Q6bJyiwAAAAJ:zYLM7Y9cAGgC",
+      "https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf",
+      "https://dcase.community/workshop2023/index"
+    ],
+    "verification_note": "Official four-page technical report. The workshop location is explicitly qualified.",
+    "metadata": {
+      "title": "{From Noise to Sound: Audio Synthesis via Diffusion Models}",
+      "author": "Zhang, Haojie and Qian, Kun and Shen, Lin and Li, Lujundong and Xu, Kele and Hu, Bin",
+      "institution": "DCASE 2023 Challenge",
+      "type": "Technical report",
+      "year": "2023",
+      "pages": "1--4",
+      "location": "Tampere, Finland",
+      "url": "https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_QianXu_86_t7.pdf",
+      "note": "Technical report submitted to the DCASE 2023 Challenge; location refers to the associated DCASE 2023 Workshop"
+    }
+  }
+}

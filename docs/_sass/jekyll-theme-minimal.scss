@@ -75,6 +75,101 @@ footer.profile-links .icon-text {
   overflow-wrap: anywhere;
 }
 
+// Publication citations
+.bibtex-toggle, .bibtex-copy {
+  display: inline-block;
+  border: 1px solid #dce2e7;
+  border-radius: 4px;
+  background: #fff;
+  color: #267CB9;
+  font: inherit;
+  font-size: 13px;
+  line-height: 1.4;
+  padding: 2px 8px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.bibtex-toggle {
+  margin: 0 0 0 6px;
+  vertical-align: baseline;
+}
+
+.bibtex-toggle[aria-expanded="true"], .bibtex-toggle:hover, .bibtex-copy:hover {
+  background: #f4f6f8;
+}
+
+.bibtex-toggle:focus-visible, .bibtex-copy:focus-visible {
+  outline: 2px solid #267CB9;
+  outline-offset: 2px;
+}
+
+.bibtex-toggle[hidden], .bibtex-panel[hidden] {
+  display: none;
+}
+
+.bibtex-panel {
+  box-sizing: border-box;
+  min-width: 0;
+  margin: 12px 0 20px;
+  padding: 16px;
+  border-left: 3px solid #267CB9;
+  border-radius: 3px;
+  background: #f4f6f8;
+}
+
+.bibtex-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.bibtex-label {
+  margin-right: auto;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.bibtex-copy {
+  padding: 5px 10px;
+}
+
+.bibtex-status {
+  color: #555;
+  font-size: 13px;
+}
+
+.bibtex-panel pre {
+  margin: 12px 0 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: #222;
+  font-size: 13px;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-wrap: break-word;
+  overflow-x: visible;
+}
+
+.bibtex-panel code {
+  background: transparent;
+  font: inherit;
+  white-space: inherit;
+  overflow-wrap: inherit;
+  word-wrap: inherit;
+}
+
+.bibtex-type { color: #1639d3; }
+.bibtex-value { color: #167516; }
+
+@media (pointer: coarse) {
+  .bibtex-toggle, .bibtex-copy { min-height: 44px; }
+}
+
 // Header
 .title a {
   color: #111;
