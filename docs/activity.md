@@ -20,6 +20,7 @@
 
 # Review
 ## Journal Review
+* Reviewer IEEE Transactions on Affective Computing, IEEE, since 2026.
 * Reviewer Scientific Reports, Springer Nature, since 2025.
 * Reviewer The Journal of Supercomputing, Springer, since 2025.
 * Reviewer Intelligent Systems with Applications, Elsevier, since 2025.
