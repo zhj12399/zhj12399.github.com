@@ -32,12 +32,13 @@
 
 * Reviewer 52nd International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2027), IEEE, Toronto, Canada, 16-21.05.2027.
 * Reviewer 41st Annual AAAI Conference on Artificial Intelligence (AAAI 2027), Montréal, Canada, 16-23.2.2027.
+* Reviewer 45th IEEE International Conference on Consumer Electronics (ICCE 2027), IEEE, Las Vegas, USA, 08-11.01.2027.
 * Reviewer 21st National Conference on Man-Machine Speech Communication (NCMMSC 2026), Zhuhai, China, 05-08.11.2026.
 * Reviewer 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), IEEE, Barcelona, Spain, 04-08.05.2026.
 * Reviewer ACM Conference on Human Factors in Computing Systems (ACM CHI 2026), Barcelona Spain, 13–17.04.2026
 * Reviewer 19th IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025), Wuhan, China, 15-18.12.2025.
 * Reviewer 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 20-27.1.2026.
-* Reviewer 12th National Conference on Man-Machine Speech Communication (NCMMSC 2025), Zhenjiang, China, 16-19.10.2025.
+* Reviewer 20th National Conference on Man-Machine Speech Communication (NCMMSC 2025), Zhenjiang, China, 16-19.10.2025.
 * Reviewer 14th IEEE Global Conference on Consumer Electronics (GCCE), IEEE, Osaka, Japan, 23-26.09.2025. 
 * Reviewer 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), IEEE, Copenhagen, Denmark, 14-17.07.2025.
 * Reviewer INTERSPEECH 2025, ISCA, Rotterdam, The Netherlands, 17-21.08.2025.
